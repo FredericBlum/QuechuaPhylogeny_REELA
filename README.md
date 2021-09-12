@@ -8,8 +8,8 @@ Further, the R scripts that have been used for designing the trees and maps used
 
 ## Data
 
-The lexical data used for the models is curated [here]([here](https://github.com/lexibank/crossandean)). 
-The morphological data is curated in [this]([this](https://github.com/cldf-datasets/crossandean_morphology)) repository. 
+The lexical data used for the models is curated [here](https://github.com/lexibank/crossandean)). 
+The morphological data is curated in [this](https://github.com/cldf-datasets/crossandean_morphology) repository. 
 For both datasets, version 1.0 has been used in the analysis.
 
 ## Citation
