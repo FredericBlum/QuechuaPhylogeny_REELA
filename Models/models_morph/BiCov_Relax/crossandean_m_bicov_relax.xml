@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+        
+    <data
+id="crossandean_m"
+spec="Alignment"
+dataType="standard"
+name="alignment">
+                            
+        <sequence id="seq_Apuri" spec="Sequence" taxon="Apuri" totalcount="2" value="01011001111011011111100101101111101010111????111101111111110011011?111011011??11111??1001101011001110110100101"/>
+                            
+        <sequence id="seq_Apurimac" spec="Sequence" taxon="Apurimac" totalcount="2" value="0101100111101??11111001101101111101010111????111101?1??1111001101???11011011???1111??1011101111001110110??1001"/>
+                            
+        <sequence id="seq_Ayacucho" spec="Sequence" taxon="Ayacucho" totalcount="2" value="0101100111101101111100110110111110101011?????11?101111?11110011011??11011011???1111??0011101111001110110101101"/>
+                            
+        <sequence id="seq_Azuay" spec="Sequence" taxon="Azuay" totalcount="2" value="010110???1101???11?1001?01101??11???01?11?????1?0111???111100?1101??110???1?10?1111??0101???????11??1010??1001"/>
+                            
+        <sequence id="seq_CacraHongos" spec="Sequence" taxon="CacraHongos" totalcount="2" value="01111011010111011111100110101?11101010111????111101111111110011011?111111011??11111??1001101011001110110100101"/>
+                            
+        <sequence id="seq_Cajamarca" spec="Sequence" taxon="Cajamarca" totalcount="2" value="01011001111011011111001?01101?11101010111?????11101111111110011011??11011011??11111??100110101??01110110100101"/>
+                            
+        <sequence id="seq_Chachapoyas" spec="Sequence" taxon="Chachapoyas" totalcount="2" value="01111001111011011111001?01101?11101010?11????1??101111?1111001101???11011011???1111??100?101????01?10110110101"/>
+                            
+        <sequence id="seq_Chimborazo" spec="Sequence" taxon="Chimborazo" totalcount="2" value="011110???1101???11?1001?01101?1110011011?????1110111???111100?101???11001011???1111??0101?01??10011?101010010?"/>
+                            
+        <sequence id="seq_Cuzco" spec="Sequence" taxon="Cuzco" totalcount="2" value="01011?011110110111110011011011111???10?11????1111011?111111001101????1011011???1111??0011101111001110110101001"/>
+                            
+        <sequence id="seq_Ferrenafe" spec="Sequence" taxon="Ferrenafe" totalcount="2" value="01111001111011011111001?01101?111100101111111??1??11???11?????1011??1101???1??11111??100?101????01??010110????"/>
+                            
+        <sequence id="seq_Huallaga" spec="Sequence" taxon="Huallaga" totalcount="2" value="01111011010111011111010101111?111100101111111?11101111111111111011?110111011??11111011001101??0101??0111100111"/>
+                            
+        <sequence id="seq_Huanca" spec="Sequence" taxon="Huanca" totalcount="2" value="0111101101011??11111010110111?111100??11111111111011111111100110111110111111???1111011001101010101110101100101"/>
+                            
+        <sequence id="seq_Huangascar" spec="Sequence" taxon="Huangascar" totalcount="2" value="01111011010111011111100101101?11101010111????111101111111110011011?111011011??11111??1001101011001110110100101"/>
+                            
+        <sequence id="seq_HuarazHuailas" spec="Sequence" taxon="HuarazHuailas" totalcount="2" value="01111011010111011111010101101?11110010?1111?1?111011?111111001?011??10111011011111101100?101011001??0101100101"/>
+                            
+        <sequence id="seq_Imbabura" spec="Sequence" taxon="Imbabura" totalcount="2" value="011110???1101???11?1001?01101?11101010111????1111011????11100??011?011001011???1111100111?1110??01??1010101001"/>
+                            
+        <sequence id="seq_Inga" spec="Sequence" taxon="Inga" totalcount="2" value="010110???1101???11?1001?01101??1101001?11???????01111??111100?1101??110???1?10?1111??010????????11??1010??1101"/>
+                            
+        <sequence id="seq_Laraos" spec="Sequence" taxon="Laraos" totalcount="2" value="0101100111101??11111001?01101?11101010111??1?1?11011???11????1101???1011??11???111101001?10101????110101100101"/>
+                            
+        <sequence id="seq_LinchaTana" spec="Sequence" taxon="LinchaTana" totalcount="2" value="01011001111011011111100101101?11101010111????111101111111110011011?111011011??11111??1001101011001110110100101"/>
+                            
+        <sequence id="seq_Pacaraos" spec="Sequence" taxon="Pacaraos" totalcount="2" value="01111001111010111111010?10101?111100101111111???1011?111111001101?1?101110110111111011001101010101??011010???1"/>
+                            
+        <sequence id="seq_Pastaza" spec="Sequence" taxon="Pastaza" totalcount="2" value="0101100111101??11111001?01101?111???10?11????11???11???111100?110???11001011???111???01011011010??????10101101"/>
+                            
+        <sequence id="seq_SanMartin" spec="Sequence" taxon="SanMartin" totalcount="2" value="01011101111011011111001?01101?11101010?11?????1?101111?11110011011??11011011???1111??100110110??01??0110101101"/>
+                            
+        <sequence id="seq_SanPedro" spec="Sequence" taxon="SanPedro" totalcount="2" value="01111011010111011111100101101?11101010111????111101111111110011011?111011011??11111??1001101011001110110100101"/>
+                            
+        <sequence id="seq_Santiagueno" spec="Sequence" taxon="Santiagueno" totalcount="2" value="01111001111011011111001?01101111101010101???????101111?11110011011??11011011???1111??0011101111001?1011010???1"/>
+                            
+        <sequence id="seq_Tarma" spec="Sequence" taxon="Tarma" totalcount="2" value="01111011010111011111010?01101?111???1011111?1?111011?11111100?101111101110110111111??1001?01????01110101100101"/>
+                            
+        <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2">
+                                    
+            <charstatelabels id="UserDataType.0" spec="beast.evolution.datatype.UserDataType" characterName="_ascertainment" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.1" spec="beast.evolution.datatype.UserDataType" characterName="1_OBJECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.2" spec="beast.evolution.datatype.UserDataType" characterName="1_OBJECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.3" spec="beast.evolution.datatype.UserDataType" characterName="1PL_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.4" spec="beast.evolution.datatype.UserDataType" characterName="1PL_VERBAL_CONDITIONAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.5" spec="beast.evolution.datatype.UserDataType" characterName="1PL_VERBAL_FUTURE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.6" spec="beast.evolution.datatype.UserDataType" characterName="1S_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.7" spec="beast.evolution.datatype.UserDataType" characterName="1S_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.8" spec="beast.evolution.datatype.UserDataType" characterName="1S_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.9" spec="beast.evolution.datatype.UserDataType" characterName="1S_VERBAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.10" spec="beast.evolution.datatype.UserDataType" characterName="1S_VERBAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.11" spec="beast.evolution.datatype.UserDataType" characterName="1S_VERBAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.12" spec="beast.evolution.datatype.UserDataType" characterName="1S_VERBAL_FUTURE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.13" spec="beast.evolution.datatype.UserDataType" characterName="2S_OBJECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.14" spec="beast.evolution.datatype.UserDataType" characterName="2S_OBJECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.15" spec="beast.evolution.datatype.UserDataType" characterName="2S_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.16" spec="beast.evolution.datatype.UserDataType" characterName="2S_VERBAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.17" spec="beast.evolution.datatype.UserDataType" characterName="3S_FUTURE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.18" spec="beast.evolution.datatype.UserDataType" characterName="3S_POSSESSOR" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.19" spec="beast.evolution.datatype.UserDataType" characterName="3S_VERBAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.20" spec="beast.evolution.datatype.UserDataType" characterName="ABLATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.21" spec="beast.evolution.datatype.UserDataType" characterName="ABLATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.22" spec="beast.evolution.datatype.UserDataType" characterName="ABLATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.23" spec="beast.evolution.datatype.UserDataType" characterName="ACCOMPANIMENT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.24" spec="beast.evolution.datatype.UserDataType" characterName="ACCUSATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.25" spec="beast.evolution.datatype.UserDataType" characterName="ACCUSATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.26" spec="beast.evolution.datatype.UserDataType" characterName="ADDITIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.27" spec="beast.evolution.datatype.UserDataType" characterName="ADDITIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.28" spec="beast.evolution.datatype.UserDataType" characterName="AGENTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.29" spec="beast.evolution.datatype.UserDataType" characterName="ASSERTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.30" spec="beast.evolution.datatype.UserDataType" characterName="BENEFACTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.31" spec="beast.evolution.datatype.UserDataType" characterName="CAUSATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.32" spec="beast.evolution.datatype.UserDataType" characterName="CISLOCATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.33" spec="beast.evolution.datatype.UserDataType" characterName="COMPARATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.34" spec="beast.evolution.datatype.UserDataType" characterName="COMPARATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.35" spec="beast.evolution.datatype.UserDataType" characterName="COMPARATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.36" spec="beast.evolution.datatype.UserDataType" characterName="CONDITIONAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.37" spec="beast.evolution.datatype.UserDataType" characterName="CONDITIONAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.38" spec="beast.evolution.datatype.UserDataType" characterName="CONTINUATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.39" spec="beast.evolution.datatype.UserDataType" characterName="DATIVEILATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.40" spec="beast.evolution.datatype.UserDataType" characterName="DESIDERATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.41" spec="beast.evolution.datatype.UserDataType" characterName="DIRECTIONAL_DOWN" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.42" spec="beast.evolution.datatype.UserDataType" characterName="DIRECTIONAL_INSIDE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.43" spec="beast.evolution.datatype.UserDataType" characterName="DIRECTIONAL_OUTSIDE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.44" spec="beast.evolution.datatype.UserDataType" characterName="DIRECTIONAL_UP" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.45" spec="beast.evolution.datatype.UserDataType" characterName="DISCONTINUATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.46" spec="beast.evolution.datatype.UserDataType" characterName="DISTAL_DEMONSTRATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.47" spec="beast.evolution.datatype.UserDataType" characterName="EMPHATIC" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.48" spec="beast.evolution.datatype.UserDataType" characterName="EVIDENTIAL_CONJECTURAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.49" spec="beast.evolution.datatype.UserDataType" characterName="EVIDENTIAL_CONJECTURAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.50" spec="beast.evolution.datatype.UserDataType" characterName="EVIDENTIAL_DIRECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.51" spec="beast.evolution.datatype.UserDataType" characterName="EVIDENTIAL_REPORTATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.52" spec="beast.evolution.datatype.UserDataType" characterName="EXCLUSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.53" spec="beast.evolution.datatype.UserDataType" characterName="FACTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.54" spec="beast.evolution.datatype.UserDataType" characterName="FREQUENTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.55" spec="beast.evolution.datatype.UserDataType" characterName="GENITIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.56" spec="beast.evolution.datatype.UserDataType" characterName="IMPERATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.57" spec="beast.evolution.datatype.UserDataType" characterName="INCEPTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.58" spec="beast.evolution.datatype.UserDataType" characterName="INCHOATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.59" spec="beast.evolution.datatype.UserDataType" characterName="INCHOATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.60" spec="beast.evolution.datatype.UserDataType" characterName="INCHOATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.61" spec="beast.evolution.datatype.UserDataType" characterName="INCLUSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.62" spec="beast.evolution.datatype.UserDataType" characterName="INJUNCTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.63" spec="beast.evolution.datatype.UserDataType" characterName="INSTRUMENTALCOMITATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.64" spec="beast.evolution.datatype.UserDataType" characterName="INSTRUMENTALCOMITATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.65" spec="beast.evolution.datatype.UserDataType" characterName="INTERROGATION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.66" spec="beast.evolution.datatype.UserDataType" characterName="INTERRUPTED_ACTION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.67" spec="beast.evolution.datatype.UserDataType" characterName="JOINT_ACTION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.68" spec="beast.evolution.datatype.UserDataType" characterName="LIMITATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.69" spec="beast.evolution.datatype.UserDataType" characterName="LOCATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.70" spec="beast.evolution.datatype.UserDataType" characterName="LOCATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.71" spec="beast.evolution.datatype.UserDataType" characterName="MIDDLE_VOICE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.72" spec="beast.evolution.datatype.UserDataType" characterName="MULTIPLE_POSSESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.73" spec="beast.evolution.datatype.UserDataType" characterName="MULTIPLE_POSSESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.74" spec="beast.evolution.datatype.UserDataType" characterName="NEGATION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.75" spec="beast.evolution.datatype.UserDataType" characterName="NOMINALIZER_NA" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.76" spec="beast.evolution.datatype.UserDataType" characterName="NOMINALIZER_NQA" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.77" spec="beast.evolution.datatype.UserDataType" characterName="NOMINALIZER_NQA" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.78" spec="beast.evolution.datatype.UserDataType" characterName="PASSIVE_ACCIDENTAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.79" spec="beast.evolution.datatype.UserDataType" characterName="PAST_TENSE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.80" spec="beast.evolution.datatype.UserDataType" characterName="PERFECT" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.81" spec="beast.evolution.datatype.UserDataType" characterName="PLURAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.82" spec="beast.evolution.datatype.UserDataType" characterName="POSSESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.83" spec="beast.evolution.datatype.UserDataType" characterName="PRIVATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.84" spec="beast.evolution.datatype.UserDataType" characterName="PRIVATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.85" spec="beast.evolution.datatype.UserDataType" characterName="PROGRESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.86" spec="beast.evolution.datatype.UserDataType" characterName="PROGRESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.87" spec="beast.evolution.datatype.UserDataType" characterName="PROGRESSIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.88" spec="beast.evolution.datatype.UserDataType" characterName="PROXIMAL_DEMONSTRATIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.89" spec="beast.evolution.datatype.UserDataType" characterName="REASON" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.90" spec="beast.evolution.datatype.UserDataType" characterName="RECIPROCAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.91" spec="beast.evolution.datatype.UserDataType" characterName="RECIPROCAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.92" spec="beast.evolution.datatype.UserDataType" characterName="REPETITIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.93" spec="beast.evolution.datatype.UserDataType" characterName="REPETITIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.94" spec="beast.evolution.datatype.UserDataType" characterName="REPORTATIVE_PAST_TENSE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.95" spec="beast.evolution.datatype.UserDataType" characterName="REPORTATIVE_PAST_TENSE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.96" spec="beast.evolution.datatype.UserDataType" characterName="RESTRICTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.97" spec="beast.evolution.datatype.UserDataType" characterName="RESTRICTIVE" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.98" spec="beast.evolution.datatype.UserDataType" characterName="SEQUENTIAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.99" spec="beast.evolution.datatype.UserDataType" characterName="SUBORDINATOR_ADVERBIAL" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.100" spec="beast.evolution.datatype.UserDataType" characterName="SUBORDINATOR_DIFFSUB" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.101" spec="beast.evolution.datatype.UserDataType" characterName="SUBORDINATOR_DIFFSUB" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.102" spec="beast.evolution.datatype.UserDataType" characterName="SUBORDINATOR_IDSUB" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.103" spec="beast.evolution.datatype.UserDataType" characterName="SUBORDINATOR_IDSUB" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.104" spec="beast.evolution.datatype.UserDataType" characterName="TOPIC" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.105" spec="beast.evolution.datatype.UserDataType" characterName="TOPIC" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.106" spec="beast.evolution.datatype.UserDataType" characterName="UNINTERRUPTED_ACTION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.107" spec="beast.evolution.datatype.UserDataType" characterName="UNINTERRUPTED_ACTION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.108" spec="beast.evolution.datatype.UserDataType" characterName="UNINTERRUPTED_ACTION" codeMap="" states="-1" value=""/>
+                                    
+            <charstatelabels id="UserDataType.109" spec="beast.evolution.datatype.UserDataType" characterName="VERBAL_BENEFACTIVE" codeMap="" states="-1" value=""/>
+                                
+        </userDataType>
+                        
+    </data>
+        
+
+
+    
+
+
+    
+
+    <map name="Uniform" >beast.math.distributions.Uniform</map>
+    
+    <map name="Exponential" >beast.math.distributions.Exponential</map>
+    
+    <map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+    
+    <map name="Normal" >beast.math.distributions.Normal</map>
+    
+    <map name="Beta" >beast.math.distributions.Beta</map>
+    
+    <map name="Gamma" >beast.math.distributions.Gamma</map>
+    
+    <map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+    
+    <map name="prior" >beast.math.distributions.Prior</map>
+    
+    <map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+    
+    <map name="OneOnX" >beast.math.distributions.OneOnX</map>
+    
+    <run id="mcmc" spec="MCMC" chainLength="100000000" preBurnin="20000000">
+            
+        <state id="state" spec="State" storeEvery="5000">
+                    
+            <tree id="Tree.t:tree" spec="beast.evolution.tree.Tree" name="stateNode">
+                            
+                <taxonset id="TaxonSet.crossandean_m" spec="TaxonSet">
+                                    
+                    <alignment idref="crossandean_m"/>
+                                
+                </taxonset>
+                        
+            </tree>
+                    
+            <parameter id="mutationRate.s:crossandean_m" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+                    
+            <parameter id="bcov_alpha.s:crossandean_m" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="1.0">0.1</parameter>
+                    
+            <parameter id="bcov_s.s:crossandean_m" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+                    
+            <parameter id="frequencies.s:crossandean_m" spec="parameter.RealParameter" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.5 0.5</parameter>
+                    
+            <parameter id="ucldStdev.c:clock" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+                    
+            <stateNode id="rateCategories.c:clock" spec="parameter.IntegerParameter" dimension="46">1</stateNode>
+                    
+            <parameter id="BDBirthRate.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="10000.0">0.01</parameter>
+                    
+            <parameter id="BDDeathRate.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.009</parameter>
+                    
+            <parameter id="ucldMean.c:clock" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+                
+        </state>
+            
+        <init id="RandomTree.t:tree" spec="beast.evolution.tree.SimpleRandomTree" estimate="false" initial="@Tree.t:tree" taxa="@crossandean_m"/>
+            
+        <distribution id="posterior" spec="util.CompoundDistribution">
+                    
+            <distribution id="prior" spec="util.CompoundDistribution">
+                            
+                <distribution id="BirthDeath.t:tree" spec="beast.evolution.speciation.BirthDeathGernhard08Model" birthDiffRate="@BDBirthRate.t:tree" relativeDeathRate="@BDDeathRate.t:tree" tree="@Tree.t:tree"/>
+                            
+                <prior id="BirthRatePrior.t:tree" name="distribution" x="@BDBirthRate.t:tree">
+                                    
+                    <Exponential id="Exponential.1" name="distr">
+                                            
+                        <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="mean">0.01</parameter>
+                                        
+                    </Exponential>
+                                
+                </prior>
+                            
+                <prior id="DeathRatePrior.t:tree" name="distribution" x="@BDDeathRate.t:tree">
+                                    
+                    <Exponential id="Exponential.2" name="distr">
+                                            
+                        <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="mean">0.01</parameter>
+                                        
+                    </Exponential>
+                                
+                </prior>
+                            
+                <prior id="bcov_alpha_prior.s:crossandean_m" name="distribution" x="@bcov_alpha.s:crossandean_m">
+                                    
+                    <Uniform id="Uniform.1" name="distr" upper="Infinity"/>
+                                
+                </prior>
+                            
+                <prior id="bcov_s_prior.s:crossandean_m" name="distribution" x="@bcov_s.s:crossandean_m">
+                                    
+                    <Gamma id="Gamma.0" name="distr">
+                                            
+                        <parameter id="RealParameter.0" spec="parameter.RealParameter" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                                            
+                        <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                                        
+                    </Gamma>
+                                
+                </prior>
+                            
+                <prior id="MeanRatePrior.c:clock" name="distribution" x="@ucldMean.c:clock">
+                                    
+                    <Uniform id="Uniform.4" name="distr" upper="Infinity"/>
+                                
+                </prior>
+                            
+                <prior id="ucldStdevPrior.c:clock" name="distribution" x="@ucldStdev.c:clock">
+                                    
+                    <Gamma id="Gamma.1" name="distr">
+                                            
+                        <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                                            
+                        <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                                        
+                    </Gamma>
+                                
+                </prior>
+                            
+                <distribution id="root.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree">
+                                    
+                    <taxonset id="root" spec="TaxonSet">
+                                            
+                        <taxon id="Apuri" spec="Taxon"/>
+                                            
+                        <taxon id="Apurimac" spec="Taxon"/>
+                                            
+                        <taxon id="Ayacucho" spec="Taxon"/>
+                                            
+                        <taxon id="Azuay" spec="Taxon"/>
+                                            
+                        <taxon id="CacraHongos" spec="Taxon"/>
+                                            
+                        <taxon id="Cajamarca" spec="Taxon"/>
+                                            
+                        <taxon id="Chachapoyas" spec="Taxon"/>
+                                            
+                        <taxon id="Chimborazo" spec="Taxon"/>
+                                            
+                        <taxon id="Cuzco" spec="Taxon"/>
+                                            
+                        <taxon id="Ferrenafe" spec="Taxon"/>
+                                            
+                        <taxon id="Huallaga" spec="Taxon"/>
+                                            
+                        <taxon id="Huanca" spec="Taxon"/>
+                                            
+                        <taxon id="Huangascar" spec="Taxon"/>
+                                            
+                        <taxon id="HuarazHuailas" spec="Taxon"/>
+                                            
+                        <taxon id="Imbabura" spec="Taxon"/>
+                                            
+                        <taxon id="Inga" spec="Taxon"/>
+                                            
+                        <taxon id="Laraos" spec="Taxon"/>
+                                            
+                        <taxon id="LinchaTana" spec="Taxon"/>
+                                            
+                        <taxon id="Pacaraos" spec="Taxon"/>
+                                            
+                        <taxon id="Pastaza" spec="Taxon"/>
+                                            
+                        <taxon id="SanMartin" spec="Taxon"/>
+                                            
+                        <taxon id="SanPedro" spec="Taxon"/>
+                                            
+                        <taxon id="Santiagueno" spec="Taxon"/>
+                                            
+                        <taxon id="Tarma" spec="Taxon"/>
+                                        
+                    </taxonset>
+                                    
+                    <Gamma id="Gamma.2" name="distr">
+                                            
+                        <parameter id="RealParameter.8" spec="parameter.RealParameter" estimate="false" name="alpha">4.0</parameter>
+                                            
+                        <parameter id="RealParameter.9" spec="parameter.RealParameter" estimate="false" name="beta">0.5</parameter>
+                                        
+                    </Gamma>
+                                
+                </distribution>
+                        
+            </distribution>
+                    
+            <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+                            
+                <distribution id="treeLikelihood.crossandean_m" spec="TreeLikelihood" tree="@Tree.t:tree" useAmbiguities="true">
+                                    
+                    <data
+id="orgdata.crossandean_m"
+spec="FilteredAlignment"
+ascertained="true"
+data="@crossandean_m"
+excludeto="1"
+filter="-">
+                                            
+                        <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                                        
+                    </data>
+                                    
+                    <siteModel id="SiteModel.s:crossandean_m" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:crossandean_m">
+                                            
+                        <parameter id="gammaShape.s:crossandean_m" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+                                            
+                        <parameter id="proportionInvariant.s:crossandean_m" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                                            
+                        <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:crossandean_m" switchRate="@bcov_s.s:crossandean_m" vfrequencies="@frequencies.s:crossandean_m">
+                                                    
+                            <parameter id="hiddenfrequencies.s:crossandean_m" spec="parameter.RealParameter" dimension="2" estimate="false" lower="0.0" name="hfrequencies" upper="1.0">0.5 0.5</parameter>
+                                                    
+                            <frequencies id="dummyfrequencies.s:crossandean_m" spec="Frequencies" data="@crossandean_m" estimate="false"/>
+                                                
+                        </substModel>
+                                        
+                    </siteModel>
+                                    
+                    <branchRateModel id="RelaxedClock.c:clock" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock" rateCategories="@rateCategories.c:clock" tree="@Tree.t:tree">
+                                            
+                        <LogNormal id="LogNormalDistributionModel.c:clock" S="@ucldStdev.c:clock" meanInRealSpace="true" name="distr">
+                                                    
+                            <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                                                
+                        </LogNormal>
+                                        
+                    </branchRateModel>
+                                
+                </distribution>
+                        
+            </distribution>
+                
+        </distribution>
+            
+        <operator id="bcovAlphaScaler.s:crossandean_m" spec="ScaleOperator" parameter="@bcov_alpha.s:crossandean_m" weight="0.1"/>
+            
+        <operator id="bcovSwitchParamScaler.s:crossandean_m" spec="ScaleOperator" parameter="@bcov_s.s:crossandean_m" weight="0.1"/>
+            
+        <operator id="frequenciesDelta.s:crossandean_m" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+                    
+            <parameter idref="frequencies.s:crossandean_m"/>
+                
+        </operator>
+            
+        <operator id="FixMeanMutationRatesOperator" spec="DeltaExchangeOperator" delta="0.75" weight="2.0">
+                    
+            <parameter idref="mutationRate.s:crossandean_m"/>
+                    
+            <weightvector id="weightparameter" spec="parameter.IntegerParameter" estimate="false" lower="0" upper="0">109</weightvector>
+                
+        </operator>
+            
+        <operator id="ucldStdevScaler.c:clock" spec="ScaleOperator" parameter="@ucldStdev.c:clock" scaleFactor="0.5" weight="3.0"/>
+            
+        <operator id="CategoriesRandomWalk.c:clock" spec="IntRandomWalkOperator" parameter="@rateCategories.c:clock" weight="10.0" windowSize="1"/>
+            
+        <operator id="CategoriesSwapOperator.c:clock" spec="SwapOperator" intparameter="@rateCategories.c:clock" weight="10.0"/>
+            
+        <operator id="CategoriesUniform.c:clock" spec="UniformOperator" parameter="@rateCategories.c:clock" weight="10.0"/>
+            
+        <operator id="BirthDeathTreeScaler.t:tree" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+            
+        <operator id="BirthDeathTreeRootScaler.t:tree" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+            
+        <operator id="BirthDeathUniformOperator.t:tree" spec="Uniform" tree="@Tree.t:tree" weight="30.0"/>
+            
+        <operator id="BirthDeathSubtreeSlide.t:tree" spec="SubtreeSlide" tree="@Tree.t:tree" weight="15.0"/>
+            
+        <operator id="BirthDeathNarrow.t:tree" spec="Exchange" tree="@Tree.t:tree" weight="15.0"/>
+            
+        <operator id="BirthDeathWide.t:tree" spec="Exchange" isNarrow="false" tree="@Tree.t:tree" weight="3.0"/>
+            
+        <operator id="BirthDeathWilsonBalding.t:tree" spec="WilsonBalding" tree="@Tree.t:tree" weight="3.0"/>
+            
+        <operator id="BirthRateScaler.t:tree" spec="ScaleOperator" parameter="@BDBirthRate.t:tree" weight="3.0"/>
+            
+        <operator id="DeathRateScaler.t:tree" spec="ScaleOperator" parameter="@BDDeathRate.t:tree" weight="3.0"/>
+            
+        <operator id="ucldMeanScaler.c:clock" spec="ScaleOperator" parameter="@ucldMean.c:clock" scaleFactor="0.5" weight="1.0"/>
+            
+        <operator id="relaxedUpDownOperator.c:clock" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+                    
+            <up idref="ucldMean.c:clock"/>
+                    
+            <down idref="Tree.t:tree"/>
+                
+        </operator>
+            
+        <logger id="tracelog" spec="Logger" fileName="crossandean_m_bicov_relaxed.log" logEvery="10000" model="@posterior" sort="smart">
+                    
+            <log idref="posterior"/>
+                    
+            <log idref="likelihood"/>
+                    
+            <log idref="prior"/>
+                    
+            <log idref="treeLikelihood.crossandean_m"/>
+                    
+            <log id="TreeHeight.t:tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:tree"/>
+                    
+            <log idref="mutationRate.s:crossandean_m"/>
+                    
+            <log idref="bcov_alpha.s:crossandean_m"/>
+                    
+            <log idref="bcov_s.s:crossandean_m"/>
+                    
+            <log idref="frequencies.s:crossandean_m"/>
+                    
+            <log idref="ucldStdev.c:clock"/>
+                    
+            <log id="rate.c:clock" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+                    
+            <log idref="BirthDeath.t:tree"/>
+                    
+            <log idref="BDBirthRate.t:tree"/>
+                    
+            <log idref="BDDeathRate.t:tree"/>
+                    
+            <log idref="root.prior"/>
+                    
+            <log idref="ucldMean.c:clock"/>
+                
+        </logger>
+            
+        <logger id="screenlog" spec="Logger" logEvery="1000">
+                    
+            <log idref="posterior"/>
+                    
+            <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+                    
+            <log idref="likelihood"/>
+                    
+            <log idref="prior"/>
+                
+        </logger>
+            
+        <logger id="treelog.t:tree" spec="Logger" fileName="crossandean_m_bicov_relax.trees" logEvery="10000" mode="tree">
+                    
+            <log id="TreeWithMetaDataLogger.t:tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+                
+        </logger>
+        
+    </run>
+    
+</beast>

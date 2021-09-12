@@ -1,0 +1,5 @@
+"0","huil <- read.csv('../Variedades/HuarazHuilas.csv',header=T, sep="","", row.names = NULL)
+"
+"2","kann Datei '../Variedades/HuarazHuilas.csv' nicht öffnen: Datei oder Verzeichnis nicht gefunden"
+"2","Fehler in file(file, ""rt"") : kann Verbindung nicht öffnen
+"

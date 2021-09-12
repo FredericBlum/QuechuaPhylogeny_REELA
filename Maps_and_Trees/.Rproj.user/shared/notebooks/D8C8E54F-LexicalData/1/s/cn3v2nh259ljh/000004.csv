@@ -1,0 +1,6 @@
+"0","write.csv(all_var,""../crossandean/raw/crossandean.csv"", row.names = FALSE)
+"
+"2","kann Datei '../crossandean/raw/crossandean.csv' nicht öffnen: Datei oder Verzeichnis nicht gefunden"
+"2","Fehler in file(file, ifelse(append, ""a"", ""w"")) : 
+  kann Verbindung nicht öffnen
+"

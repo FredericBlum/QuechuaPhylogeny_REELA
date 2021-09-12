@@ -1,0 +1,16 @@
+"0","# boring options
+spdf_sa <- ne_countries(country = c(""Peru"", 
+                                    ""Bolivia"", 
+                                    ""Ecuador"",
+                                    ""Argentina"",
+                                    ""Colombia"",
+                                    ""Bolivia"",
+                                    ""Brazil"",
+                                    ""Venezuela"", ""Paraguay""),
+                        type = 'sovereignty',
+                        scale = ""medium"", 
+                        returnclass = ""sf"")
+"
+"2","Fehler in st_as_sfc.SpatialPolygons(sp::geometry(x), ...) : 
+  package rgeos required for finding out which hole belongs to which exterior ring
+"

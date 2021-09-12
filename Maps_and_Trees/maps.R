@@ -1,0 +1,44 @@
+library(tidyverse)
+library(ggrepel)
+library(rnaturalearth)
+library(rnaturalearthdata)
+
+lex <- read.csv('../../crossandean/etc/languages.tsv', sep = "\t")
+morph <- read.csv('../../crossandean_morphology.git/etc/languages.tsv', sep = "\t")
+
+
+lex_quechua <- lex %>% filter(SubGroup == "Quechua")
+
+spdf_sa <- ne_countries(continent = c("south america"),
+                        scale = "medium", 
+                        returnclass = "sf")
+
+map_morph <- ggplot(data = morph) +
+  geom_sf(data = spdf_sa) +
+  coord_sf(ylim=c(-28, 2), xlim= c(-85, -60)) +
+  geom_point(aes(Longitude,Latitude),
+             size = 3) +
+  geom_label_repel(box.padding = 0.8,
+                   point.padding = 0.3,
+                   data = morph, aes(Longitude, Latitude, label=Name), 
+                   size=3,
+                   max.overlaps = Inf) +
+  labs(caption = "Data: Glottolog") +
+  theme(legend.position="none")
+  
+ggsave('images/map_morph.png', map_morph)
+
+map_lex <- ggplot(data = lex_quechua) +
+  geom_sf(data = spdf_sa) +
+  coord_sf(ylim=c(-28, 2), xlim= c(-85, -60)) +
+  geom_point(aes(Longitude,Latitude),
+             size = 3) +
+  geom_label_repel(box.padding = 1,
+                   point.padding = 0.3,
+                   data = lex_quechua, aes(Longitude, Latitude, label=Name), 
+                   size=2,
+                   max.overlaps = Inf) +
+  labs(caption = "Data: Glottolog") +
+  theme(legend.position="none")
+
+ggsave('images/map_lex.png', map_lex)

@@ -1,0 +1,94 @@
+library('ggplot2')
+library('ggtree')
+library('treeio')
+library('RColorBrewer')
+library('tidyverse')
+
+## Morphology
+
+# SD-relax
+tree <- read.beast('../Models/models_morph/SD_Relax/crossandean_m_sd.tree')
+
+# BiCov-relax
+tree <- read.beast('../Models/models_morph/BiCov_Relax/crossandean_m_bicov_relax.tree')
+
+# BiCov-strict
+tree <- read.beast('../Models/models_morph/BiCov_Strict/crossandean_m_bicov_strict.tree')
+
+tree@data['rposterior'] <- sprintf("%0.2f", as.numeric(tree@data[['posterior']]))
+tree@data['rposterior'][tree@data['rposterior'] == 'NA',] <- NA
+
+cls <- list(
+  "Cajamarca" = 'Cajamarca',
+  "Central" = c("Huallaga", "HuarazHuailas", "Huanca", "Tarma", "Pacaraos"),
+  'Chachapoyas' = c("Chachapoyas"),  
+  "Cuzqueño" = c("Ayacucho","Cuzco", "Santiagueno", "Apurimac"),
+  
+  'Ecuadoriano' = c("Azuay", "Inga", "Pastaza", "Chimborazo", "Imbabura"),
+  "Ferrenafe" = "Ferrenafe",
+  'Laraos' = 'Laraos',
+  'Huangáscar' = c("Huangascar", "SanPedro", "CacraHongos"),
+  'Apurí-Lincha' = c("Apuri", "LinchaTana"),
+  'SanMartin' = 'SanMartin'
+  
+)
+
+
+tree <- groupOTU(tree, cls, overlap="origin", connect=FALSE)
+
+print(levels(attr(tree@phylo, 'group')))
+colors <- c(
+  "#333333", # 0  - i.e. non colored branches.
+  brewer.pal(8, 'Oranges')[6], # Apurí-Lincha
+  brewer.pal(6, 'Blues')[6], # Cajamarca
+  brewer.pal(8, 'Oranges')[8], # Central
+  brewer.pal(6, 'Blues')[6],  # Chachapoyas
+  brewer.pal(6, 'Greens')[5], # Cuzqueno
+  brewer.pal(6, 'Greens')[6],  # Ecuadoriano
+  brewer.pal(6, 'Blues')[6], # Ferrenafe
+  brewer.pal(8, 'Oranges')[7], # Huangáscar
+  brewer.pal(6, 'Blues')[6], # Laraos
+  brewer.pal(6, 'Greens')[4]
+)
+
+
+p <- ggtree(tree, aes(color=group), 
+            ladderize=TRUE, size=1.5) %>% 
+  revts()
+
+p <- p + geom_tiplab(align=TRUE, linesize=2) +
+  
+  geom_label(aes(label=rposterior), 
+             label.size=0.8, na.rm=TRUE, size=2.8,
+             nudge_x=-0.2, nudge_y=0) +
+  
+  theme_tree2() +
+  
+  scale_color_manual(values=colors) +
+  
+  scale_x_continuous(breaks = seq(-10, 0, by = 2), 
+                     limits=c(-11.5, 5)) +  # sd model
+                     #limits=c(-7.7, 3))+     # bicov models
+  theme(legend.position="none")
+
+col_idx = 2
+for (clade in levels(attr(tree@phylo, 'group'))) {
+  if (is.null(cls[[clade]])) next
+  m <- MRCA(tree, cls[[clade]])
+  if (!is.null(m)) {
+    cat(paste(clade, m, col_idx, colors[col_idx]), "\n")
+    p <- p + geom_cladelabel(
+      node=m, label=clade, color = colors[col_idx],
+      offset.text=0.3, # offset of text from labels
+      extend=0.4, # extending the bars up/down
+      
+      offset=2.5, # offset of label bars; sd
+      
+      #offset = 1.8, # bicov
+      barsize=2        )
+  }
+  col_idx <- col_idx + 1
+}
+p
+
+ggsave('images/tree_morph_sd.png', p)

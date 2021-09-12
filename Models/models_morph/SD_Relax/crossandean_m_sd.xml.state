@@ -1,0 +1,32 @@
+<itsabeastystatewerein version='2.0' sample='100000000'>
+<statenode id='Tree.t:tree'>(((((0:0.6114610429854679,17:0.6114610429854679)25:2.967909739621471,(5:0.5776357953705616,6:0.5776357953705616)36:3.001734987236377)41:1.8911071581498713,((1:0.46079135408224986,8:0.46079135408224986)34:4.593676073101451,((2:2.946165967266584,22:2.946165967266584)27:1.7935275094894312,(((((3:0.09156120087014703,15:0.09156120087014703)43:1.1632788468305355,19:1.2548400477006825)45:1.3605729311435188,7:2.6154129788442013)44:1.3886704960061325,14:4.004083474850334)33:0.7188448275807824,20:4.722928302431116)32:0.01676517432489888)35:0.3147739504276865)42:0.4160105135731085)40:1.2049008959296241,(9:1.6432199092088702,16:1.6432199092088702)31:5.032158927477564)24:2.5359983194109734,((4:0.7934276967950151,(12:0.13711842880364092,21:0.13711842880364092)28:0.6563092679913742)37:5.914569789575297,(((10:1.70173659250055,11:1.70173659250055)29:0.6767083936338498,(13:0.006742456230897543,23:0.006742456230897543)39:2.3717025299035024)30:1.8701237038400507,18:4.248568689974451)38:2.459428796395861)26:2.503379669727096)46:0.0</statenode>
+<statenode id='mutationRate.s:crossandean_m'>mutationRate.s:crossandean_m[1 1] (0.0,Infinity): 1.0 </statenode>
+<statenode id='deathRate.SDollo'>deathRate.SDollo[1 1] (0.0,Infinity): 9.028204862698683E-4 </statenode>
+<statenode id='ucldStdev.c:clock'>ucldStdev.c:clock[1 1] (0.0,Infinity): 0.05124048146972488 </statenode>
+<statenode id='rateCategories.c:clock'>rateCategories.c:clock[46 1] (0,45): 27 24 41 12 13 18 24 44 34 24 2 28 39 17 11 32 4 29 24 18 37 21 30 20 35 40 35 18 22 19 4 42 27 5 0 36 30 18 24 28 37 9 16 2 37 18 </statenode>
+<statenode id='BDBirthRate.t:tree'>BDBirthRate.t:tree[1 1] (0.0,10000.0): 0.12517486729088378 </statenode>
+<statenode id='BDDeathRate.t:tree'>BDDeathRate.t:tree[1 1] (0.0,1.0): 0.042377443217975395 </statenode>
+<statenode id='ucldMean.c:clock'>ucldMean.c:clock[1 1] (-Infinity,Infinity): 18.907977067020713 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"deatRateSDolloScaler","p":0.5132143954602242,"accept":554548,"reject":1941532,"acceptFC":554383,"rejectFC":1940946,"rejectIv":0,"rejectOp":0},
+{"id":"FixMeanMutationRatesOperator","p":31520.105996472626,"accept":1664877,"reject":0,"acceptFC":1664397,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"ucldStdevScaler.c:clock","p":0.14426564129340327,"accept":632328,"reject":1866305,"acceptFC":631824,"rejectFC":1866054,"rejectIv":0,"rejectOp":0},
+{"id":"CategoriesRandomWalk.c:clock","p":"NaN","accept":5412903,"reject":2923891,"acceptFC":5411186,"rejectFC":2922988,"rejectIv":2898736,"rejectOp":2898736},
+{"id":"CategoriesSwapOperator.c:clock","p":"NaN","accept":7746999,"reject":587651,"acceptFC":7744604,"rejectFC":587418,"rejectIv":0,"rejectOp":0},
+{"id":"CategoriesUniform.c:clock","p":"NaN","accept":7922845,"reject":410795,"acceptFC":7920393,"rejectFC":410635,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathTreeScaler.t:tree","p":0.5613125352668967,"accept":589793,"reject":1908401,"acceptFC":589661,"rejectFC":1907741,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathTreeRootScaler.t:tree","p":0.4598842123302609,"accept":292517,"reject":2203268,"acceptFC":292402,"rejectFC":2202608,"rejectIv":565396,"rejectOp":565396},
+{"id":"BirthDeathUniformOperator.t:tree","p":"NaN","accept":13524510,"reject":11477185,"acceptFC":13520225,"rejectFC":11473606,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathSubtreeSlide.t:tree","p":9.8366636030437,"accept":1157227,"reject":11346056,"acceptFC":1155146,"rejectFC":11344249,"rejectIv":5077280,"rejectOp":5077280},
+{"id":"BirthDeathNarrow.t:tree","p":"NaN","accept":2185808,"reject":10316539,"acceptFC":2185161,"rejectFC":10313284,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathWide.t:tree","p":"NaN","accept":17519,"reject":2482572,"acceptFC":17514,"rejectFC":2481824,"rejectIv":1277535,"rejectOp":1277535},
+{"id":"BirthDeathWilsonBalding.t:tree","p":"NaN","accept":27362,"reject":2471511,"acceptFC":27355,"rejectFC":2470714,"rejectIv":378047,"rejectOp":378047},
+{"id":"BirthRateScaler.t:tree","p":0.33095038755979816,"accept":612267,"reject":1886799,"acceptFC":611696,"rejectFC":1886583,"rejectIv":0,"rejectOp":0},
+{"id":"DeathRateScaler.t:tree","p":0.14796134623939933,"accept":658218,"reject":1843647,"acceptFC":657552,"rejectFC":1843559,"rejectIv":0,"rejectOp":0},
+{"id":"ucldMeanScaler.c:clock","p":0.4832957517041698,"accept":192803,"reject":641056,"acceptFC":192750,"rejectFC":640859,"rejectIv":0,"rejectOp":0},
+{"id":"relaxedUpDownOperator.c:clock","p":0.4299072116219164,"accept":637892,"reject":1862377,"acceptFC":637438,"rejectFC":1862062,"rejectIv":0,"rejectOp":0},
+{"id":"allTipDatesRandomWalker.t:tree","p":1,"accept":0,"reject":0,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0}
+]}
+-->

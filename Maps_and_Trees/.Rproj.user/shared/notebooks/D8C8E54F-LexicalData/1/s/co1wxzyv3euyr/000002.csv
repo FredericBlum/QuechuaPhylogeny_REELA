@@ -1,0 +1,5 @@
+"0","concept_list <- read.table('../Conceptos/concepts.tsv', sep = ""\t"", na="""")
+"
+"2","kann Datei '../Conceptos/concepts.tsv' nicht öffnen: Datei oder Verzeichnis nicht gefunden"
+"2","Fehler in file(file, ""rt"") : kann Verbindung nicht öffnen
+"

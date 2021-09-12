@@ -1,0 +1,29 @@
+<itsabeastystatewerein version='2.0' sample='100000000'>
+<statenode id='Tree.t:tree'>(((7:3.5149174956184677,((15:0.024098768563993126,3:0.024098768563993126)39:0.9572954251937892,19:0.9813941937577824)41:2.5335233018606855)31:1.154897271723823,14:4.669814767342291)32:2.1762132843048168,((9:4.7869865691012485,(18:3.4275536504250628,((11:1.4345564217387266,10:1.4345564217387266)44:0.2883533855602576,(13:0.016620048722830714,23:0.016620048722830714)26:1.7062897585761534)45:1.7046438431260786)25:1.3594329186761858)28:0.25842028734452605,(((5:1.3897172011047314,6:1.3897172011047314)34:2.1863063817904527,((20:1.1605766080388917,(22:0.7310433455862677,((1:0.3402110480142715,8:0.3402110480142715)42:0.05492238999836707,2:0.39513343801263856)36:0.33590990757362915)35:0.429533262452624)24:1.2962548342591684,16:2.45683144229806)40:1.1191921405971237)30:0.7488553649457188,((17:0.7445677768391252,0:0.7445677768391252)27:2.084311535201839,(4:0.7534876396960595,(12:0.007109068290112867,21:0.007109068290112867)43:0.7463785714059467)38:2.075391672344905)33:1.4959996357999383)37:0.7205279086048719)29:1.800621195201333)46:0.0</statenode>
+<statenode id='mutationRate.s:crossandean_m'>mutationRate.s:crossandean_m[1 1] (0.0,Infinity): 1.0 </statenode>
+<statenode id='bcov_alpha.s:crossandean_m'>bcov_alpha.s:crossandean_m[1 1] (1.0E-4,1.0): 0.017301290142335037 </statenode>
+<statenode id='bcov_s.s:crossandean_m'>bcov_s.s:crossandean_m[1 1] (1.0E-4,Infinity): 0.262346811992524 </statenode>
+<statenode id='frequencies.s:crossandean_m'>frequencies.s:crossandean_m[2 1] (0.0,1.0): 0.4197102611350234 0.580289738864979 </statenode>
+<statenode id='BDBirthRate.t:tree'>BDBirthRate.t:tree[1 1] (0.0,10000.0): 0.13102800816840895 </statenode>
+<statenode id='BDDeathRate.t:tree'>BDDeathRate.t:tree[1 1] (0.0,1.0): 0.03148520807860342 </statenode>
+<statenode id='clockRate.c:clock'>clockRate.c:clock[1 1] (0.0,Infinity): 0.016255738403749536 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"bcovAlphaScaler.s:crossandean_m","p":0.17522252972666888,"accept":36761,"reject":79026,"acceptFC":36732,"rejectFC":79024,"rejectIv":384,"rejectOp":384},
+{"id":"bcovSwitchParamScaler.s:crossandean_m","p":0.1771800427660593,"accept":34109,"reject":82009,"acceptFC":34077,"rejectFC":82007,"rejectIv":1170,"rejectOp":1170},
+{"id":"frequenciesDelta.s:crossandean_m","p":0.30168202754339357,"accept":33239,"reject":82736,"acceptFC":33210,"rejectFC":82731,"rejectIv":8,"rejectOp":8},
+{"id":"FixMeanMutationRatesOperator","p":40738.10692349084,"accept":2319255,"reject":0,"acceptFC":2318713,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathTreeScaler.t:tree","p":0.48086664565321363,"accept":823032,"reject":2655015,"acceptFC":822814,"rejectFC":2654399,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathTreeRootScaler.t:tree","p":0.42706776843991756,"accept":467143,"reject":3008209,"acceptFC":467017,"rejectFC":3007460,"rejectIv":755350,"rejectOp":755350},
+{"id":"BirthDeathUniformOperator.t:tree","p":"NaN","accept":20627735,"reject":14133211,"acceptFC":20622735,"rejectFC":14129792,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathSubtreeSlide.t:tree","p":6.2161163312345,"accept":1916759,"reject":15463277,"acceptFC":1914752,"rejectFC":15461048,"rejectIv":7071562,"rejectOp":7071562},
+{"id":"BirthDeathNarrow.t:tree","p":"NaN","accept":5876835,"reject":11500618,"acceptFC":5875290,"rejectFC":11497840,"rejectIv":0,"rejectOp":0},
+{"id":"BirthDeathWide.t:tree","p":"NaN","accept":57838,"reject":3418614,"acceptFC":57818,"rejectFC":3417767,"rejectIv":1777182,"rejectOp":1777182},
+{"id":"BirthDeathWilsonBalding.t:tree","p":"NaN","accept":113031,"reject":3363806,"acceptFC":113004,"rejectFC":3362993,"rejectIv":538343,"rejectOp":538343},
+{"id":"BirthRateScaler.t:tree","p":0.340603029769124,"accept":889557,"reject":2586327,"acceptFC":888890,"rejectFC":2586110,"rejectIv":0,"rejectOp":0},
+{"id":"DeathRateScaler.t:tree","p":0.14967767901272547,"accept":929154,"reject":2548910,"acceptFC":928447,"rejectFC":2548758,"rejectIv":0,"rejectOp":0},
+{"id":"StrictClockRateScaler.c:clock","p":0.4298786517569867,"accept":865057,"reject":2613598,"acceptFC":864537,"rejectFC":2613261,"rejectIv":0,"rejectOp":0},
+{"id":"strictClockUpDownOperator.c:clock","p":0.35375010453253963,"accept":865690,"reject":2609450,"acceptFC":865109,"rejectFC":2609215,"rejectIv":0,"rejectOp":0}
+]}
+-->

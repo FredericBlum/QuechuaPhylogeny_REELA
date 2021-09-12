@@ -1,0 +1,1740 @@
+# Wordlist
+
+# DATA
+ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE	SOURCE
+#
+1		w a	3	1 OBJECT	Apuri	wa		w a	wa			shimelman2017
+115		w a	3	1 OBJECT	Apurimac	wa		w a	wa			camacho2006
+386		w a	3	1 OBJECT	Azuay	hua		w a	hua		me llevó; complemento del verbo en la primera persona	cordero1955
+387		m a	4	1 OBJECT	Cacra-Hongos	ma		m a	ma			shimelman2017
+502		w a	3	1 OBJECT	Cajamarca	wa		w a	wa		also 3>1	quesada2006
+572		w a	3	1 OBJECT	Chachapoyas	wa		w a	wa			taylor1979
+631		w a	3	1 OBJECT	Chimborazo	wa		w a	wa		This suffix indicates that the speaker is either the patient or the receiver of the action of the verb. If the verb is ditransitive, the speaker is receiver, not patient: /saki-wa-y/, leave-REC-IMP, ‘let me go’.	beukema1975
+691		w a	3	1 OBJECT	Cuzco	wa		w a	wa			cusihuaman1976
+782		m a	4	1 OBJECT	Ferrenafe	ma		m a	ma			taylor1982
+861		m a	4	1 OBJECT	Huallaga	ma		m a	ma			weber1996
+990		m a	4	1 OBJECT	Huanca	ma		m a	ma			cerron1976
+1082		m a	4	1 OBJECT	Huangascar	ma		m a	ma			shimelman2017
+1196		m a	4	1 OBJECT	HuarazHuailas	ma		m a	ma			parker1976
+1346		w a	3	1 OBJECT	Inga	hua		w a	hua		me llevó; complemento del verbo en la primera persona	tandioy1978
+1347		w a	3	1 OBJECT	Laraos	wa		w a	wa			taylor1990
+1400		w a	3	1 OBJECT	Lincha-Tana	wa		w a	wa			shimelman2017
+1514		m aː	4	1 OBJECT	Pacaraos	maa		m aː	maa			adelaar1987
+1595		w a	3	1 OBJECT	Pastaza	wa		w a	wa			landerman1973
+1660		w a	3	1 OBJECT	SanMartin	wa		w a	wa			coombs1976
+1726		m a	4	1 OBJECT	SanPedro	ma		m a	ma			shimelman2017
+1840		w a	3	1 OBJECT	Santiagueno	wa		w a	wa		w can be ommited	juanatey2020
+1938		m a	4	1 OBJECT	Tarma	ma		m a	ma			adelaar1977
+2036		w a	3	1 OBJECT	Ayacucho	wa		w a				parker1969
+2162		w a	3	1 OBJECT	Imbabura	wa		w a				cole1985
+#
+3		n tʃ i k	58	1PL POSSESSOR	Apuri	nchik		n tʃ i k	nchik			shimelman2017
+118		n tʃ i k	58	1PL POSSESSOR	Apurimac	nchik		n tʃ i k	nchik,nchis			camacho2006
+221		n tʃ i k	58	1PL POSSESSOR	Ayacucho	nčik		n tʃ i k	nčik			parker1969
+389		n tʃ i k	58	1PL POSSESSOR	Cacra-Hongos	nchik		n tʃ i k	nchik			shimelman2017
+505		n tʃ i k	58	1PL POSSESSOR	Cajamarca	nchik		n tʃ i k	nchik			quesada2006
+574		n tʃ i	58	1PL POSSESSOR	Chachapoyas	nči		n tʃ i	nči			taylor1979
+786		n tʃ i k	58	1PL POSSESSOR	Ferrenafe	nchik		n tʃ i k	nchik			taylor1982
+863		n tʃ i	58	1PL POSSESSOR	Huallaga	nči		n tʃ i	nči,ninči, niːkuna		[INCLUSIVA] /-nči(:)/ después de V cortas, el alargamiento se realiza solamente en sílabas abiertas no finales. [EXCLUSIVA] /-:kuna/ después de V .	weber1996
+991		n tʃ i k	58	1PL POSSESSOR	Huanca	nchik		n tʃ i k	nchik			cerron1976
+1084		n tʃ i k	58	1PL POSSESSOR	Huangascar	nchik		n tʃ i k	nchik			shimelman2017
+1198		n - - - - ts i k	58	1PL POSSESSOR	HuarazHuailas	ntsik		n ts i k	ntsik, nintsik		-ni eufónico en C#/ V# La distinción entre EXCL e INCL no se recoje en la flexión nominal.	parker1976
+1349		n - - - - tʃ i k	58	1PL POSSESSOR	Laraos	nchik		n tʃ i k	nchik			taylor1990
+1402		n - - - - tʃ i k	58	1PL POSSESSOR	Lincha-Tana	nchik		n tʃ i k	nchik			shimelman2017
+1516		n - - - - s i -	58	1PL POSSESSOR	Pacaraos	nsi		n s i	nsi			adelaar1987
+1599		n - - - - tʃ i -	58	1PL POSSESSOR	Pastaza	nchi		n tʃ i	nchi			landerman1973
+1662		n - - - - tʃ i -	58	1PL POSSESSOR	SanMartin	nchi		n tʃ i	nchi			coombs1976
+1728		n - - - - tʃ i k	58	1PL POSSESSOR	SanPedro	nchik		n tʃ i k	nchik			shimelman2017
+1841		i - - ʃ -	58	1PL POSSESSOR	Santiagueno	ysh		i ʃ	ysh,ychis			juanatey2020
+1842		i tʃ i s -	58	1PL POSSESSOR	Santiagueno	ychis		i tʃ i s	ysh,ychis			juanatey2020
+1939		n - - - - tʃ i -	58	1PL POSSESSOR	Tarma	nchi		n tʃ i	nchi, nchik			adelaar1977
+1940		n - - - - tʃ i k	58	1PL POSSESSOR	Tarma	nchik		n tʃ i k	nchi, nchik			adelaar1977
+2261		n tʃ i s	58	1PL POSSESSOR	Cuzco	nchis		n tʃ i s				cusihuaman1976
+#
+4		- - n tʃ i k	58	1PL VERBAL	Apuri	nchik		n tʃ i k	nchik			shimelman2017
+123		n tʃ i s	58	1PL VERBAL	Apurimac	nchis		n tʃ i s	sunchis			camacho2006
+222		- - n tʃ i k	58	1PL VERBAL	Ayacucho	nčik		n tʃ i k	nčik			parker1969
+314		- - n tʃ i -	58	1PL VERBAL	Azuay	nchi		n tʃ i	nchi			cordero1955
+390		- - n tʃ i k	58	1PL VERBAL	Cacra-Hongos	nchik		n tʃ i k	nchik			shimelman2017
+506		- - n tʃ i k	58	1PL VERBAL	Cajamarca	nchik		n tʃ i k	nchik			quesada2006
+632		- - n tʃ i k	58	1PL VERBAL	Chimborazo	ncik		n tʃ i k	ncik			beukema1975
+787		- - n tʃ i k	58	1PL VERBAL	Ferrenafe	nchik		n tʃ i k	nchik			taylor1982
+866		- - n tʃ i -	58	1PL VERBAL	Huallaga	nči		n tʃ i	nči			weber1996
+992		- - n tʃ i k	58	1PL VERBAL	Huanca	nchik		n tʃ i k	nchik			cerron1976
+1085		- - n tʃ i k	58	1PL VERBAL	Huangascar	nchik		n tʃ i k	nchik			shimelman2017
+1200		- - n ts i k	58	1PL VERBAL	HuarazHuailas	ntsik		n ts i k	ntsik			parker1976
+1273		- - n tʃ i -	58	1PL VERBAL	Inga	nchi		n tʃ i	nchi			tandioy1978
+1350		- - n tʃ i k	58	1PL VERBAL	Laraos	nchik		n tʃ i k	nchik			taylor1990
+1403		- - n tʃ i k	58	1PL VERBAL	Lincha-Tana	nchik		n tʃ i k	nchik			shimelman2017
+1601		- - n tʃ i -	58	1PL VERBAL	Pastaza	nchi		n tʃ i	nchi			landerman1973
+1729		- - n tʃ i k	58	1PL VERBAL	SanPedro	nchik		n tʃ i k	nchik			shimelman2017
+1843		i ʃ	58	1PL VERBAL	Santiagueno	ysh		i ʃ	ysh,nchis			juanatey2020
+1844		- - n tʃ i s	58	1PL VERBAL	Santiagueno	nchis		n tʃ i s	ysh,nchis			juanatey2020
+1941		- - n tʃ i k	58	1PL VERBAL	Tarma	nchik		n tʃ i k	nchik			adelaar1977
+2087		n s i	58	1PL VERBAL	Pacaraos	nsi		n s i				adelaar1987
+2109		n tʃ i	58	1PL VERBAL	Chachapoyas	nchi		n tʃ i				taylor1979
+2157		n tʃ i	58	1PL VERBAL	SanMartin	nchi		n tʃ i				coombs1976
+2166		n tʃ i	58	1PL VERBAL	Imbabura	nchi		n tʃ i				cole1985
+2262		n tʃ i s	58	1PL VERBAL	Cuzco	nchis		n tʃ i s				cusihuaman1976
+#
+5		tʃ u + w a n	111 3	1PL VERBAL CONDITIONAL	Apuri	chuwan		tʃ u + w a n	chuwan			shimelman2017
+223		tʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Ayacucho	čwan		tʃ + w a n	čwan			parker1969
+391		tʃ u + w a n	111 3	1PL VERBAL CONDITIONAL	Cacra-Hongos	chuwan		tʃ u + w a n	chuwan			shimelman2017
+693		tʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Cuzco	chwan		tʃ + w a n	man			cusihuaman1976
+867		ʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Huallaga	šwan		ʃ + w a n	šwan			weber1996
+993		tʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Huanca	chwan		tʃ + w a n	chwan			cerron1976
+1086		tʃ u + w a n	111 3	1PL VERBAL CONDITIONAL	Huangascar	chuwan		tʃ u + w a n	chuwan			shimelman2017
+1201		ʃ + w a n	111 3	1PL VERBAL CONDITIONAL	HuarazHuailas	shman		ʃ + w a n	yaaman			parker1976
+1404		tʃ u + w a n	111 3	1PL VERBAL CONDITIONAL	Lincha-Tana	chuwan		tʃ u + w a n	chuwan			shimelman2017
+1517		s + w a n	111 3	1PL VERBAL CONDITIONAL	Pacaraos	swan		s + w a n	swan			adelaar1987
+1730		tʃ u + w a n	111 3	1PL VERBAL CONDITIONAL	SanPedro	chuwan		tʃ u + w a n	chuwan			shimelman2017
+1845		i ʃ + m a n	58 4	1PL VERBAL CONDITIONAL	Santiagueno	yshman		i ʃ + m a n	yshman,nchisman			juanatey2020
+1846		n tʃ i s + m a n	58 4	1PL VERBAL CONDITIONAL	Santiagueno	nchisman		n tʃ i s + m a n	yshman,nchisman			juanatey2020
+1942		tʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Tarma	chwan		tʃ + w a n	chwan			adelaar1977
+2052		tʃ + w a n	111 3	1PL VERBAL CONDITIONAL	Ferrenafe	chwan		tʃ + w a n				taylor1982
+2110		n tʃ i + m a n	58 4	1PL VERBAL CONDITIONAL	Chachapoyas	nchi-man		n tʃ i + m a n				taylor1979
+2156		n tʃ i + w a n	58 3	1PL VERBAL CONDITIONAL	SanMartin	n-chi-wan		n tʃ i + w a n				coombs1976
+2167		n tʃ i + m a n	58 4	1PL VERBAL CONDITIONAL	Imbabura	nchi-man		n tʃ i + m a n				cole1985
+2301		n tʃ i k + m a n	58 4	1PL VERBAL CONDITIONAL	Chimborazo	nchikman		n tʃ i k + m a n	nchikman			beukema1975
+#
+6		ʃ u n - - - -	111	1PL VERBAL FUTURE	Apuri	shun		ʃ u n	shun			shimelman2017
+126		s u n + tʃ i s	111 58	1PL VERBAL FUTURE	Apurimac	sunchis		s u n + tʃ i s	sunchis			camacho2006
+224		s u n - - - -	111	1PL VERBAL FUTURE	Ayacucho	sun		s u n	sun			parker1969
+315		s u n + tʃ i	111 58	1PL VERBAL FUTURE	Azuay	sunchi		s u n + tʃ i	sunchi			cordero1955
+392		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Cacra-Hongos	shun		ʃ u n	shun			shimelman2017
+507		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Cajamarca	shun		ʃ u n	shun			quesada2006
+575		ʃ u n + tʃ i	111 58	1PL VERBAL FUTURE	Chachapoyas	šunči		ʃ u n + tʃ i	šunči			taylor1979
+633		ʃ u n + tʃ i k	111 58	1PL VERBAL FUTURE	Chimborazo	šuncik		ʃ u n + tʃ i k	šuncik			beukema1975
+788		ç u n	111	1PL VERBAL FUTURE	Ferrenafe	shun		ç u n	shun			taylor1982
+868		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Huallaga	šun		ʃ u n	šun		Es posible indicar primera persona plural exclusiva añadiendo /-kuna/ ‘plural’ a /-šaq/ ‘1FUT’, por ejemplo: /aywa-šaq-kuna-paq/ (ir-1FUT-PL-FUT) ‘nosotros (ex.) iremos’.	weber1996
+994		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Huanca	shun		ʃ u n	shun			cerron1976
+1087		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Huangascar	shun		ʃ u n	shun			shimelman2017
+1202		ʃ - u n - - - -	111	1PL VERBAL FUTURE	HuarazHuailas	shun		ʃ u n	shun			parker1976
+1274		s u n + tʃ i	111 58	1PL VERBAL FUTURE	Inga	sunchi		s u n + tʃ i	sunchi			tandioy1978
+1351		s - u n - - - -	111	1PL VERBAL FUTURE	Laraos	sun		s u n	sun			taylor1990
+1405		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Lincha-Tana	shun		ʃ u n	shun			shimelman2017
+1518		ç - u n - - - -	111	1PL VERBAL FUTURE	Pacaraos	shun		ç u n	shun			adelaar1987
+1602		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Pastaza	shun		ʃ u n	shun			landerman1973
+1663		ʃ u n + tʃ i	111 58	1PL VERBAL FUTURE	SanMartin	shunchi		ʃ u n + tʃ i	shunchi, shun, shunsapa		shun: dual; sun-chi, shun-sapa: inclusivo plural	coombs1976
+1664		ʃ - u n - - - -	111	1PL VERBAL FUTURE	SanMartin	shun		ʃ u n	shunchi, shun, shunsapa		shun: dual; sun-chi, shun-sapa: inclusivo plural	coombs1976
+1665		ʃ u n + s a p a	111 23	1PL VERBAL FUTURE	SanMartin	shunsapa		ʃ u n + s a p a	shunchi, shun, shunsapa		shun: dual; sun-chi, shun-sapa: inclusivo plural	coombs1976
+1731		ʃ - u n - - - -	111	1PL VERBAL FUTURE	SanPedro	shun		ʃ u n	shun			shimelman2017
+1847		s u + i ʃ	111 58	1PL VERBAL FUTURE	Santiagueno	suysh		s u + i ʃ	suysh,sunchis			juanatey2020
+1848		s u n + tʃ i s	111 58	1PL VERBAL FUTURE	Santiagueno	sunchis		s u n + tʃ i s	suysh,sunchis			juanatey2020
+1943		ʃ - u n - - - -	111	1PL VERBAL FUTURE	Tarma	shun		ʃ u n	shun			adelaar1977
+2168		ʃ u n	111	1PL VERBAL FUTURE	Imbabura	shun		ʃ u n				cole1985
+#
+7		t a n t a + j	155 156	1S POSSESSOR	Apuri	tanta-y		t a n t a + j	tanta-y			shimelman2017
+127		t a n t a + j	155 156	1S POSSESSOR	Apurimac	tanta-y		t a n t a + j	tanta-y			camacho2006
+225		t a n t a + j	155 156	1S POSSESSOR	Ayacucho	tanta-y		t a n t a + j	tanta-y		ku for plural	parker1969
+393		t a n t a + ø/a	155 31	1S POSSESSOR	Cacra-Hongos	tantaː		t a n t a + ø/a	tantaː			shimelman2017
+508		t a n t a + j	155 156	1S POSSESSOR	Cajamarca	tanta-y		t a n t a + j	tanta-y			quesada2006
+576		t a n t a + j	155 156	1S POSSESSOR	Chachapoyas	tanta-y		t a n t a + j	tanta-y			taylor1979
+694		t a n t a + j	155 156	1S POSSESSOR	Cuzco	tanta-y		t a n t a + j	tanta-y			cusihuaman1976
+789		t a n t a + j	155 156	1S POSSESSOR	Ferrenafe	tanta-y		t a n t a + j	tanta-y			taylor1982
+869		t a n t a + ø/a	155 31	1S POSSESSOR	Huallaga	tantaː		t a n t a + ø/a	tantaː		Alargamiento después de V corta	weber1996
+995		t a n t a + ø/a	155 31	1S POSSESSOR	Huanca	tantaː		t a n t a + ø/a	tantaː			cerron1976
+1088		t a n t a + ø/a	155 31	1S POSSESSOR	Huangascar	tantaː		t a n t a + ø/a	tantaː			shimelman2017
+1203		t a n t a + ø/a	155 31	1S POSSESSOR	HuarazHuailas	tantaː		t a n t a + ø/a	tantaː		-nii si la raíz = C# /V:#	parker1976
+1352		t a n t a + j	155 156	1S POSSESSOR	Laraos	tanta-y		t a n t a + j	tanta-y			taylor1990
+1406		t a n t a + j	155 156	1S POSSESSOR	Lincha-Tana	tanta-y		t a n t a + j	tanta-y			shimelman2017
+1519		t a n t a + j	155 156	1S POSSESSOR	Pacaraos	tanta-y		t a n t a + j	tanta-y		tras vocal i, hay alargamiento vocálico	adelaar1987
+1603		t a n t a + j	155 156	1S POSSESSOR	Pastaza	tanta-y		t a n t a + j	tanta-y		/-ni/ tras C	landerman1973
+1666		t a n t a + j	155 156	1S POSSESSOR	SanMartin	tanta-y		t a n t a + j	tanta-y			coombs1976
+1732		t a n t a + ø/a	155 31	1S POSSESSOR	SanPedro	tantaː		t a n t a + ø/a	tantaː			shimelman2017
+1849		t a n t a + j	155 156	1S POSSESSOR	Santiagueno	tanta-y		t a n t a + j	tanta-y			juanatey2020
+1944		t a n t a + ø/a	155 31	1S POSSESSOR	Tarma	tantaː		t a n t a + ø/a	tantaː			adelaar1977
+#
+9		k a + n i	234 235	1S VERBAL	Apuri	ka-ni		k a + n i	ka-ni			shimelman2017
+129		k a + n i	234 235	1S VERBAL	Apurimac	ka-ni		k a + n i	ka-ni			camacho2006
+229		k a + n i	234 235	1S VERBAL	Ayacucho	ka-ni		k a + n i	ka-ni		ku for plural	parker1969
+318		k a + n i	234 235	1S VERBAL	Azuay	ka-ni		k a + n i	ka-ni			cordero1955
+395		k aː + ø/a	234 236	1S VERBAL	Cacra-Hongos	kaː		k aː + ø/a	kaː			shimelman2017
+510		k a + n i	234 235	1S VERBAL	Cajamarca	ka-ni		k a + n i	ka-ni			quesada2006
+577		k a + n i	234 235	1S VERBAL	Chachapoyas	ka-ni		k a + n i	ka-ni			taylor1979
+634		k a + n i	234 235	1S VERBAL	Chimborazo	ka-ni		k a + n i	ka-ni			beukema1975
+695		k a + n i	234 235	1S VERBAL	Cuzco	ka-ni		k a + n i	ka-ni			cusihuaman1976
+793		k a + n i	234 235	1S VERBAL	Ferrenafe	ka-ni		k a + n i	ka-ni			taylor1982
+871		k aː + ø/a	234 236	1S VERBAL	Huallaga	kaː		k aː + ø/a	kaː			weber1996
+998		k aː/a + ø/a	234 236	1S VERBAL	Huanca	kaː		k aː/a + ø/a	kaː		verbal person pluralization with -paaku	cerron1976
+1090		k aː/a + ø/a	234 236	1S VERBAL	Huangascar	kaː		k aː/a + ø/a	kaː			shimelman2017
+1206		k aː/a + ø/a	234 236	1S VERBAL	HuarazHuailas	kaː		k aː/a + ø/a	kaː			parker1976
+1277		k a + n i	234 235	1S VERBAL	Inga	ka-ni		k a + n i	ka-ni			tandioy1978
+1354		k a + n i	234 235	1S VERBAL	Laraos	ka-ni		k a + n i	ka-ni			taylor1990
+1408		k a + n i	234 235	1S VERBAL	Lincha-Tana	ka-ni		k a + n i	ka-ni			shimelman2017
+1521		k a + n i	234 235	1S VERBAL	Pacaraos	ka-ni		k a + n i	ka-ni			adelaar1987
+1605		k a + n i	234 235	1S VERBAL	Pastaza	ka-ni		k a + n i	ka-ni			landerman1973
+1667		k a + n i	234 235	1S VERBAL	SanMartin	ka-ni		k a + n i	ka-ni			coombs1976
+1734		k aː/a + ø/a	234 236	1S VERBAL	SanPedro	kaː		k aː/a + ø/a	kaː			shimelman2017
+1856		k a + n i	234 235	1S VERBAL	Santiagueno	ka-ni		k a + n i	ka-ni			juanatey2020
+1947		k aː/a + ø/a	234 236	1S VERBAL	Tarma	kaː		k aː/a + ø/a	kaː			adelaar1977
+2169		k a + n i	234 235	1S VERBAL	Imbabura	ni		k a + n i				cole1985
+#
+10		ʃ - a q	280	1S VERBAL FUTURE	Apuri	shaq		ʃ a q	shaq			shimelman2017
+130		s - a q	280	1S VERBAL FUTURE	Apurimac	saq		s a q	saq			camacho2006
+230		s - a χ	280	1S VERBAL FUTURE	Ayacucho	saq		s a χ	saq			parker1969
+319		s - a -	280	1S VERBAL FUTURE	Azuay	sa		s a	sa			cordero1955
+396		ʃ - a q	280	1S VERBAL FUTURE	Cacra-Hongos	shaq		ʃ a q	shaq			shimelman2017
+511		ʃ χ a -	280	1S VERBAL FUTURE	Cajamarca	shqa		ʃ χ a	shqa			quesada2006
+578		ʃ - a -	280	1S VERBAL FUTURE	Chachapoyas	ša		ʃ a	ša			taylor1979
+635		ʃ - a -	280	1S VERBAL FUTURE	Chimborazo	ša		ʃ a	ša			beukema1975
+696		s - a q	280	1S VERBAL FUTURE	Cuzco	saq		s a q	saq			cusihuaman1976
+794		ç a q	280	1S VERBAL FUTURE	Ferrenafe	shaq		ç a q	shaq			taylor1982
+872		ʃ - a q	280	1S VERBAL FUTURE	Huallaga	šaq		ʃ a q	šaq			weber1996
+999		ʃ - a q	280	1S VERBAL FUTURE	Huanca	shaq		ʃ a q	shaq			cerron1976
+1091		ʃ - a q	280	1S VERBAL FUTURE	Huangascar	shaq		ʃ a q	shaq			shimelman2017
+1207		ʃ - a q	280	1S VERBAL FUTURE	HuarazHuailas	shaq		ʃ a q	shaq			parker1976
+1278		s - a -	280	1S VERBAL FUTURE	Inga	sa		s a	sa			tandioy1978
+1355		s - a q	280	1S VERBAL FUTURE	Laraos	saq		s a q	saq			taylor1990
+1409		ʃ - a q	280	1S VERBAL FUTURE	Lincha-Tana	shaq		ʃ a q	shaq			shimelman2017
+1522		ç - a q	280	1S VERBAL FUTURE	Pacaraos	shaq		ç a q	shaq			adelaar1987
+1606		ʃ - a -	280	1S VERBAL FUTURE	Pastaza	sha		ʃ a	sha			landerman1973
+1668		ʃ - a -	280	1S VERBAL FUTURE	SanMartin	sha		ʃ a	sha		sha-sapa: exclusive	coombs1976
+1735		ʃ - a q	280	1S VERBAL FUTURE	SanPedro	shaq		ʃ a q	shaq			shimelman2017
+1857		s - a χ	280	1S VERBAL FUTURE	Santiagueno	saq		s a χ	saq		infrequent, periphrastic future is preferred	juanatey2020
+1948		ʃ - a q	280	1S VERBAL FUTURE	Tarma	shaq		ʃ a q	shaq			adelaar1977
+2170		ʃ a	280	1S VERBAL FUTURE	Imbabura	sha		ʃ a				cole1985
+#
+12		ʃ - u	337	2S OBJECT	Apuri	shu		ʃ u	shu			shimelman2017
+398		ʃ - u	337	2S OBJECT	Cacra-Hongos	shu		ʃ u	shu			shimelman2017
+797		ç u	337	2S OBJECT	Ferrenafe	shu		ç u	shu			taylor1982
+874		ʃ - u	337	2S OBJECT	Huallaga	šu		ʃ u	šu			weber1996
+1093		ʃ - u	337	2S OBJECT	Huangascar	shu		ʃ u	shu			shimelman2017
+1411		ʃ - u	337	2S OBJECT	Lincha-Tana	shu		ʃ u	shu			shimelman2017
+1523		m u	338	2S OBJECT	Pacaraos	mu		m u	mu			adelaar1987
+1737		ʃ - u	337	2S OBJECT	SanPedro	shu		ʃ u	shu			shimelman2017
+1859		s - u	337	2S OBJECT	Santiagueno	su		s u	su			juanatey2020
+1949		ʃ - u	337	2S OBJECT	Tarma	shu		ʃ u	shu			adelaar1977
+2037		s u	337	2S OBJECT	Ayacucho	su		s u				parker1969
+2047		ʃ u	337	2S OBJECT	Cajamarca	shu		ʃ u				quesada2006
+2113		ʃ u	337	2S OBJECT	Chachapoyas	shu		ʃ u				taylor1979
+2153		ʃ u	337	2S OBJECT	SanMartin	shu		ʃ u				coombs1976
+2249		ʃ u	337	2S OBJECT	HuarazHuailas	shu		ʃ u				parker1976
+2272		s u	337	2S OBJECT	Cuzco	ki		s u				cusihuaman1976
+#
+13		j k i	348	2S POSSESSOR	Apuri	yki		j k i	yki			shimelman2017
+135		- k i	348	2S POSSESSOR	Apurimac	ki		k i	ki			camacho2006
+234		j k i	348	2S POSSESSOR	Ayacucho	yki		j k i	yki		ku for plural	parker1969
+399		j k i	348	2S POSSESSOR	Cacra-Hongos	yki		j k i	yki			shimelman2017
+512		j k i	348	2S POSSESSOR	Cajamarca	yki		j k i	yki			quesada2006
+579		i k i	348	2S POSSESSOR	Chachapoyas	yki		i k i	yki			taylor1979
+798		i k i	348	2S POSSESSOR	Ferrenafe	yki		i k i	yki			taylor1982
+875		j k i	348	2S POSSESSOR	Huallaga	yki		j k i	yki		/-ki/ después de /-i/, /-yki/ después de otras V cortas	weber1996
+1000		j k i	348	2S POSSESSOR	Huanca	yki		j k i	yki			cerron1976
+1094		j k i	348	2S POSSESSOR	Huangascar	yki		j k i	yki			shimelman2017
+1356		i k i	348	2S POSSESSOR	Laraos	yki		i k i	yki			taylor1990
+1412		j k i	348	2S POSSESSOR	Lincha-Tana	yki		j k i	yki			shimelman2017
+1524		j k i	348	2S POSSESSOR	Pacaraos	yki		j k i	yki,			adelaar1987
+1608		j k i	348	2S POSSESSOR	Pastaza	yki		j k i	yki		/-ki/ tras C	landerman1973
+1669		j k i	348	2S POSSESSOR	SanMartin	yki		j k i	yki		chi en plural	coombs1976
+1738		j k i	348	2S POSSESSOR	SanPedro	yki		j k i	yki			shimelman2017
+1860		j k i	348	2S POSSESSOR	Santiagueno	yki		j k i	yki			juanatey2020
+1950		j k i	348	2S POSSESSOR	Tarma	yki		j k i	yki			adelaar1977
+2239		j k i	348	2S POSSESSOR	HuarazHuailas	yki		j k i				parker1976
+2267		j k i	348	2S POSSESSOR	Cuzco	yki		j k i				cusihuaman1976
+#
+15		n - k i	370	2S VERBAL	Apuri	nki		n k i	nki			shimelman2017
+140		n - k i	370	2S VERBAL	Apurimac	nki		n k i	nki			camacho2006
+236		n - k i	370	2S VERBAL	Ayacucho	nki		n k i	nki			parker1969
+321		n - g i	370	2S VERBAL	Azuay	ngui		n g i	ngui			cordero1955
+401		n - k i	370	2S VERBAL	Cacra-Hongos	nki		n k i	nki			shimelman2017
+513		n - k i	370	2S VERBAL	Cajamarca	nki		n k i	nki			quesada2006
+580		n - k i	370	2S VERBAL	Chachapoyas	nki		n k i	nki			taylor1979
+637		n - g i	370	2S VERBAL	Chimborazo	ngi		n g i	ngi			beukema1975
+700		n - k i	370	2S VERBAL	Cuzco	nki		n k i	nki			cusihuaman1976
+800		n - k i	370	2S VERBAL	Ferrenafe	nki		n k i	nki			taylor1982
+877		n - k i	370	2S VERBAL	Huallaga	nki		n k i	nki			weber1996
+1001		n - k i	370	2S VERBAL	Huanca	nki		n k i	nki			cerron1976
+1096		n - k i	370	2S VERBAL	Huangascar	nki		n k i	nki			shimelman2017
+1210		n - k i	370	2S VERBAL	HuarazHuailas	nki		n k i	nki			parker1976
+1280		n - g i	370	2S VERBAL	Inga	ngui		n g i	ngui			tandioy1978
+1357		n - k i	370	2S VERBAL	Laraos	nki		n k i	nki			taylor1990
+1414		n - k i	370	2S VERBAL	Lincha-Tana	nki		n k i	nki			shimelman2017
+1526		k i	370	2S VERBAL	Pacaraos	ki		k i	yki			adelaar1987
+1609		n - g i	370	2S VERBAL	Pastaza	ngi		n g i	ngi			landerman1973
+1671		n - k i	370	2S VERBAL	SanMartin	nki		n k i	nki			coombs1976
+1740		n - k i	370	2S VERBAL	SanPedro	nki		n k i	nki			shimelman2017
+1862		ŋ - k i	370	2S VERBAL	Santiagueno	nki		ŋ k i	nki			juanatey2020
+1952		n - k i	370	2S VERBAL	Tarma	nki		n k i	nki			adelaar1977
+2173		n g i	370	2S VERBAL	Imbabura	ngui		n g i				cole1985
+#
+16		n q a	446	3S FUTURE	Apuri	nqa		n q a	nqa			shimelman2017
+144		n q a	446	3S FUTURE	Apurimac	nqa		n q a	nqa			camacho2006
+237		n χ a	446	3S FUTURE	Ayacucho	nqa		n χ a	nqa		-qa for all future forms	parker1969
+325		n g a	446	3S FUTURE	Azuay	nga		n g a	nga			cordero1955
+402		n q a	446	3S FUTURE	Cacra-Hongos	nqa		n q a	nqa			shimelman2017
+514		n χ a	446	3S FUTURE	Cajamarca	nqa		n χ a	nqa			quesada2006
+640		n g a	446	3S FUTURE	Chimborazo	nga		n g a	nga			beukema1975
+808		- g a	446	3S FUTURE	Ferrenafe	nqa		g a	nqa			taylor1982
+878		n q a	446	3S FUTURE	Huallaga	nqa		n q a	nqa			weber1996
+1002		n q a	446	3S FUTURE	Huanca	nqa		n q a	nqa			cerron1976
+1097		n q a	446	3S FUTURE	Huangascar	nqa		n q a	nqa			shimelman2017
+1212		n q a	446	3S FUTURE	HuarazHuailas	nqa		n q a	nqa			parker1976
+1284		n g a	446	3S FUTURE	Inga	nga		n g a	nga			tandioy1978
+1415		n q a	446	3S FUTURE	Lincha-Tana	nqa		n q a	nqa			shimelman2017
+1527		n q a	446	3S FUTURE	Pacaraos	nqa		n q a	nqa			adelaar1987
+1613		n g a	446	3S FUTURE	Pastaza	nga		n g a	nga			landerman1973
+1741		n q a	446	3S FUTURE	SanPedro	nqa		n q a	nqa			shimelman2017
+1863		ŋ q a	446	3S FUTURE	Santiagueno	nqa		ŋ q a	nqa		infrequent, periphrastic future is preferred	juanatey2020
+1953		n q a	446	3S FUTURE	Tarma	nqa		n q a	nqa			adelaar1977
+2072		n q a	446	3S FUTURE	Laraos	nqa		n q a				taylor1990
+2115		n k a	446	3S FUTURE	Chachapoyas	nka		n k a				taylor1979
+2152		n k a	446	3S FUTURE	SanMartin	nka		n k a				coombs1976
+2174		n g a	446	3S FUTURE	Imbabura	nga		n g a				cole1985
+2265		q a	446	3S FUTURE	Cuzco	qa		q a				cusihuaman1976
+#
+17		n	466	3S POSSESSOR	Apuri	n		n	n			shimelman2017
+145		n	466	3S POSSESSOR	Apurimac	n		n	n			camacho2006
+238		n	466	3S POSSESSOR	Ayacucho	n		n	n		ku for plural	parker1969
+403		n	466	3S POSSESSOR	Cacra-Hongos	n		n	n			shimelman2017
+515		n	466	3S POSSESSOR	Cajamarca	n		n	n			quesada2006
+581		n	466	3S POSSESSOR	Chachapoyas	n		n	n			taylor1979
+809		n	466	3S POSSESSOR	Ferrenafe	n		n	n			taylor1982
+879		n	466	3S POSSESSOR	Huallaga	n		n	n		/-n/ después de V cortas, otherwise -ni is added	weber1996
+1003		n	466	3S POSSESSOR	Huanca	n		n	n			cerron1976
+1098		n	466	3S POSSESSOR	Huangascar	n		n	n			shimelman2017
+1213		n	466	3S POSSESSOR	HuarazHuailas	n		n	n			parker1976
+1358		n	466	3S POSSESSOR	Laraos	n		n	n			taylor1990
+1416		n	466	3S POSSESSOR	Lincha-Tana	n		n	n			shimelman2017
+1528		n	466	3S POSSESSOR	Pacaraos	n		n	n			adelaar1987
+1614		n	466	3S POSSESSOR	Pastaza	n		n	n		ø tras C	landerman1973
+1672		n	466	3S POSSESSOR	SanMartin	n		n	n			coombs1976
+1742		n	466	3S POSSESSOR	SanPedro	n		n	n			shimelman2017
+1864		n	466	3S POSSESSOR	Santiagueno	n		n	n			juanatey2020
+1954		n	466	3S POSSESSOR	Tarma	n		n	n			adelaar1977
+2266		n	466	3S POSSESSOR	Cuzco	n		n				cusihuaman1976
+#
+21		n	546	3S VERBAL	Apuri	n		n	n			shimelman2017
+152		n	546	3S VERBAL	Apurimac	n		n	n			camacho2006
+246		n	546	3S VERBAL	Ayacucho	n		n	n		ku for plural	parker1969
+326		n	546	3S VERBAL	Azuay	n		n	n		no se marca siempre	cordero1955
+407		n	546	3S VERBAL	Cacra-Hongos	n		n	n			shimelman2017
+516		n	546	3S VERBAL	Cajamarca	n		n	n			quesada2006
+641		n	546	3S VERBAL	Chimborazo	n		n	n			beukema1975
+705		n	546	3S VERBAL	Cuzco	n		n	n			cusihuaman1976
+813		n	546	3S VERBAL	Ferrenafe	n		n	n			taylor1982
+884		n	546	3S VERBAL	Huallaga	n		n	n			weber1996
+1005		n	546	3S VERBAL	Huanca	n		n	n			cerron1976
+1102		n	546	3S VERBAL	Huangascar	n		n	n			shimelman2017
+1217		n	546	3S VERBAL	HuarazHuailas	n		n	n			parker1976
+1285		n	546	3S VERBAL	Inga	n		n	n		no se marca siempre	tandioy1978
+1361		n	546	3S VERBAL	Laraos	n		n	n			taylor1990
+1420		n	546	3S VERBAL	Lincha-Tana	n		n	n			shimelman2017
+1532		n	546	3S VERBAL	Pacaraos	n		n	n			adelaar1987
+1615		n	546	3S VERBAL	Pastaza	n		n	n			landerman1973
+1746		n	546	3S VERBAL	SanPedro	n		n	n			shimelman2017
+1868		n	546	3S VERBAL	Santiagueno	n		n	n			juanatey2020
+1955		n	546	3S VERBAL	Tarma	n		n	n			adelaar1977
+2118		n	546	3S VERBAL	Chachapoyas	n		n				taylor1979
+2149		n	546	3S VERBAL	SanMartin	n		n				coombs1976
+2175		n	546	3S VERBAL	Imbabura	n		n				cole1985
+#
+22		p a q - -	1	ABLATIVE	Apuri	paq		p a q	paq			shimelman2017
+153		m a n t a	571	ABLATIVE	Apurimac	manta		m a n t a	manta			camacho2006
+247		m a n t a	571	ABLATIVE	Ayacucho	manta		m a n t a	manta			parker1969
+327		m a n d a	571	ABLATIVE	Azuay	manda		m a n d a	manda			cordero1955
+408		p a q - -	1	ABLATIVE	Cacra-Hongos	paq		p a q	paq			shimelman2017
+517		m a n t a	571	ABLATIVE	Cajamarca	manta		m a n t a	manta			quesada2006
+583		m a n t a	571	ABLATIVE	Chachapoyas	manta		m a n t a	manta			taylor1979
+642		m a n t a	571	ABLATIVE	Chimborazo	manta		m a n t a	manta			beukema1975
+706		m a n t a	571	ABLATIVE	Cuzco	manta		m a n t a	manta			cusihuaman1976
+815		m a n t a	571	ABLATIVE	Ferrenafe	manta		m a n t a	manta			taylor1982
+885		p i - t a	5	ABLATIVE	Huallaga	pita		p i t a	pita			weber1996
+1006		p i q t a	5	ABLATIVE	Huanca	piqta		p i q t a	piqta			cerron1976
+1103		p a q - -	1	ABLATIVE	Huangascar	paq		p a q	paq			shimelman2017
+1219		p e q - -	5	ABLATIVE	HuarazHuailas	peq		p e q	peq, pita		'de’ ‘desde’	parker1976
+1220		p i - t a	5	ABLATIVE	HuarazHuailas	pita		p i t a	peq, pita		'de’ ‘desde’	parker1976
+1286		m a n d a	571	ABLATIVE	Inga	manda		m a n d a	manda			tandioy1978
+1362		m a n t a	571	ABLATIVE	Laraos	manta		m a n t a	manta			taylor1990
+1421		p a q - -	1	ABLATIVE	Lincha-Tana	paq		p a q	paq			shimelman2017
+1533		p i q - -	5	ABLATIVE	Pacaraos	piq		p i q	piq, piqta			adelaar1987
+1534		p i q t a	5	ABLATIVE	Pacaraos	piqta		p i q t a	piq, piqta			adelaar1987
+1616		m a n d a	571	ABLATIVE	Pastaza	manda		m a n d a	manda		Wasi-manda llucshi-shca ‘Salió de la casa’, Caspi-manda rura-shca ‘Lo hizo de madera’, Ima-manda rima-ju-n ‘¿De qué está hablando?	landerman1973
+1674		m a n t a	571	ABLATIVE	SanMartin	manta		m a n t a	manta			coombs1976
+1747		p a q - -	1	ABLATIVE	SanPedro	paq		p a q	paq			shimelman2017
+1869		m a n t a	571	ABLATIVE	Santiagueno	manta		m a n t a	manta,mant			juanatey2020
+1870		m a n t -	571	ABLATIVE	Santiagueno	mant		m a n t	manta,mant			juanatey2020
+1956		p i - t a	5	ABLATIVE	Tarma	pita		p i t a	pita			adelaar1977
+2176		m a n t a	571	ABLATIVE	Imbabura	manta		m a n t a				cole1985
+#
+23		- ʃ i	598	ACCOMPANIMENT	Apuri	shi		ʃ i	shi,si			shimelman2017
+24		- s i	598	ACCOMPANIMENT	Apuri	si		s i	shi,si			shimelman2017
+154		j s i	598	ACCOMPANIMENT	Apurimac	ysi		j s i	ysi			camacho2006
+248		- s i	598	ACCOMPANIMENT	Ayacucho	si		s i	si			parker1969
+409		- ʃ i	598	ACCOMPANIMENT	Cacra-Hongos	shi		ʃ i	shi,si			shimelman2017
+410		- s i	598	ACCOMPANIMENT	Cacra-Hongos	si		s i	shi,si			shimelman2017
+707		j s i	598	ACCOMPANIMENT	Cuzco	ysi		j s i	ysi			cusihuaman1976
+886		- ʃ i	598	ACCOMPANIMENT	Huallaga	ši		ʃ i	ši			weber1996
+1007		j ʃ i	598	ACCOMPANIMENT	Huanca	yshi		j ʃ i	yshi			cerron1976
+1104		- ʃ i	598	ACCOMPANIMENT	Huangascar	shi		ʃ i	shi,si			shimelman2017
+1105		- s i	598	ACCOMPANIMENT	Huangascar	si		s i	shi,si			shimelman2017
+1224		ʃ i	598	ACCOMPANIMENT	HuarazHuailas	shi		ʃ i	paq,shi			parker1976
+1422		- ʃ i	598	ACCOMPANIMENT	Lincha-Tana	shi		ʃ i	shi,si			shimelman2017
+1423		- s i	598	ACCOMPANIMENT	Lincha-Tana	si		s i	shi,si			shimelman2017
+1748		- ʃ i	598	ACCOMPANIMENT	SanPedro	shi		ʃ i	shi,si			shimelman2017
+1749		- s i	598	ACCOMPANIMENT	SanPedro	si		s i	shi,si			shimelman2017
+#
+25		- t a	614	ACCUSATIVE	Apuri	ta		t a	ta			shimelman2017
+155		- t a	614	ACCUSATIVE	Apurimac	ta		t a	ta			camacho2006
+249		- t a	614	ACCUSATIVE	Ayacucho	ta		t a	ta			parker1969
+328		- t a	614	ACCUSATIVE	Azuay	ta		t a	ta			cordero1955
+411		k t a	10	ACCUSATIVE	Cacra-Hongos	kta		k t a	kta			shimelman2017
+518		- t a	614	ACCUSATIVE	Cajamarca	ta		t a	ta			quesada2006
+584		- t a	614	ACCUSATIVE	Chachapoyas	ta		t a	ta			taylor1979
+643		- t a	614	ACCUSATIVE	Chimborazo	ta		t a	ta			beukema1975
+708		- t a	614	ACCUSATIVE	Cuzco	ta		t a	ta			cusihuaman1976
+816		- t a	614	ACCUSATIVE	Ferrenafe	ta		t a	ta			taylor1982
+887		- t a	614	ACCUSATIVE	Huallaga	ta		t a	ta			weber1996
+1008		k t a	10	ACCUSATIVE	Huanca	kta		k t a	kta		/k/ no se da en Jauja; en lo demás: solo después de vocales breves	cerron1976
+1106		- t a	614	ACCUSATIVE	Huangascar	ta		t a	ta			shimelman2017
+1221		- t a	614	ACCUSATIVE	HuarazHuailas	ta		t a	ta			parker1976
+1287		- t a	614	ACCUSATIVE	Inga	ta		t a	ta			tandioy1978
+1363		- t a	614	ACCUSATIVE	Laraos	ta		t a	ta			taylor1990
+1424		- t a	614	ACCUSATIVE	Lincha-Tana	ta		t a	ta			shimelman2017
+1535		k t a	10	ACCUSATIVE	Pacaraos	kta		k t a	kta			adelaar1987
+1617		- t a	614	ACCUSATIVE	Pastaza	ta		t a	ta			landerman1973
+1675		- t a	614	ACCUSATIVE	SanMartin	ta		t a	ta			coombs1976
+1750		- t a	614	ACCUSATIVE	SanPedro	ta		t a	ta			shimelman2017
+1871		- t -	614	ACCUSATIVE	Santiagueno	t		t	t,ta			juanatey2020
+1872		- t a	614	ACCUSATIVE	Santiagueno	ta		t a	t,ta			juanatey2020
+1957		- t a	614	ACCUSATIVE	Tarma	ta		t a	ta			adelaar1977
+2177		t a	614	ACCUSATIVE	Imbabura	ta		t a				cole1985
+#
+26		p i s	639	ADDITIVE	Apuri	pis		p i s	pis,s			shimelman2017
+156		p a s	639	ADDITIVE	Apurimac	pas		p a s	pas			camacho2006
+250		p a s	639	ADDITIVE	Ayacucho	pas		p a s	pas			parker1969
+329		p a s	639	ADDITIVE	Azuay	pas		p a s	pas			cordero1955
+412		p i s	639	ADDITIVE	Cacra-Hongos	pis		p i s	pis,s			shimelman2017
+519		p i s	639	ADDITIVE	Cajamarca	pis		p i s	pis			quesada2006
+644		p i ʃ	639	ADDITIVE	Chimborazo	piš		p i ʃ	piš			beukema1975
+709		p i s	639	ADDITIVE	Cuzco	pis		p i s	pis, pas			cusihuaman1976
+710		p a s	639	ADDITIVE	Cuzco	pas		p a s	pis, pas			cusihuaman1976
+817		p i s	639	ADDITIVE	Ferrenafe	pis		p i s	pis			taylor1982
+888		p i s	639	ADDITIVE	Huallaga	pis		p i s	pis,si			weber1996
+889		s i	640	ADDITIVE	Huallaga	si		s i	pis,si			weber1996
+1009		p i s	639	ADDITIVE	Huanca	pis		p i s	pis, si			cerron1976
+1010		s i	640	ADDITIVE	Huanca	si		s i	pis, si			cerron1976
+1107		p i s	639	ADDITIVE	Huangascar	pis		p i s	pis,s			shimelman2017
+1288		p a s	639	ADDITIVE	Inga	pas		p a s	pas			tandioy1978
+1364		p i s	639	ADDITIVE	Laraos	pis		p i s	pis			taylor1990
+1425		p i s	639	ADDITIVE	Lincha-Tana	pis		p i s	pis,s			shimelman2017
+1618		p a s	639	ADDITIVE	Pastaza	pas		p a s	pas			landerman1973
+1676		p i ʃ	639	ADDITIVE	SanMartin	pish		p i ʃ	pish			coombs1976
+1751		p i s	639	ADDITIVE	SanPedro	pis		p i s	pis,s			shimelman2017
+1873		p a s	639	ADDITIVE	Santiagueno	pas		p a s	pas			juanatey2020
+1958		p i s	639	ADDITIVE	Tarma	pis		p i s	pis			adelaar1977
+2081		p a	639	ADDITIVE	Pacaraos	pa		p a				adelaar1987
+2119		p i ʃ	639	ADDITIVE	Chachapoyas	pish		p i ʃ				taylor1979
+2178		p a ʃ	639	ADDITIVE	Imbabura	pash		p a ʃ				cole1985
+2228		p i s	639	ADDITIVE	HuarazHuailas	pis		p i s				parker1976
+#
+28		q	674	AGENTIVE	Apuri	q		q	q			shimelman2017
+157		q	674	AGENTIVE	Apurimac	q		q	q			camacho2006
+251		χ	674	AGENTIVE	Ayacucho	q		χ	q			parker1969
+330		g	674	AGENTIVE	Azuay	g		g	g			cordero1955
+414		q	674	AGENTIVE	Cacra-Hongos	q		q	q			shimelman2017
+521		χ	674	AGENTIVE	Cajamarca	q		χ	q			quesada2006
+585		k	674	AGENTIVE	Chachapoyas	k		k	k			taylor1979
+645		k	674	AGENTIVE	Chimborazo	k		k	k			beukema1975
+712		q	674	AGENTIVE	Cuzco	q		q	q			cusihuaman1976
+818		q	674	AGENTIVE	Ferrenafe	q		q	q			taylor1982
+890		q	674	AGENTIVE	Huallaga	q		q	q			weber1996
+1011		q	674	AGENTIVE	Huanca	q		q	q			cerron1976
+1109		q	674	AGENTIVE	Huangascar	q		q	q			shimelman2017
+1222		q	674	AGENTIVE	HuarazHuailas	q		q	q			parker1976
+1289		g	674	AGENTIVE	Inga	g		g	g			tandioy1978
+1365		q	674	AGENTIVE	Laraos	q		q	q			taylor1990
+1427		q	674	AGENTIVE	Lincha-Tana	q		q	q			shimelman2017
+1536		q	674	AGENTIVE	Pacaraos	q		q	q			adelaar1987
+1537		q	674	AGENTIVE	Pacaraos	q		q	q, shqa			adelaar1987
+1677		k	674	AGENTIVE	SanMartin	k		k	k			coombs1976
+1753		q	674	AGENTIVE	SanPedro	q		q	q			shimelman2017
+1874		q	674	AGENTIVE	Santiagueno	q		q	q			juanatey2020
+1960		q	674	AGENTIVE	Tarma	q		q	q			adelaar1977
+2179		q	674	AGENTIVE	Imbabura	j		q				cole1985
+2293		k	674	AGENTIVE	Pastaza	k		k	k			landerman1973
+#
+31		p u n i	787	ASSERTIVE	Apuri	puni		p u n i	puni			shimelman2017
+162		p u n i	787	ASSERTIVE	Apurimac	puni		p u n i	puni			camacho2006
+258		p u n i	787	ASSERTIVE	Ayacucho	puni		p u n i	puni			parker1969
+716		p u n i	787	ASSERTIVE	Cuzco	puni		p u n i	puni			cusihuaman1976
+1878		p u n i	787	ASSERTIVE	Santiagueno	puni		p u n i	puni		infrequent, only nominal	alderetes2001
+#
+29		p a q -	720	BENEFACTIVE	Apuri	paq		p a q	paq			shimelman2017
+160		p a q -	720	BENEFACTIVE	Apurimac	paq		p a q	paq			camacho2006
+256		p a χ -	720	BENEFACTIVE	Ayacucho	paq		p a χ	paq			parker1969
+415		p a q -	720	BENEFACTIVE	Cacra-Hongos	paq		p a q	paq			shimelman2017
+522		p a χ -	720	BENEFACTIVE	Cajamarca	paq		p a χ	paq			quesada2006
+588		p a - -	720	BENEFACTIVE	Chachapoyas	pa		p a	pa		same as genitive	taylor1979
+646		p a k -	720	BENEFACTIVE	Chimborazo	pak		p a k	pak			beukema1975
+715		p a q -	720	BENEFACTIVE	Cuzco	paq		p a q	paq			cusihuaman1976
+819		p a q -	720	BENEFACTIVE	Ferrenafe	paq		p a q	paq			taylor1982
+892		p a q -	720	BENEFACTIVE	Huallaga	paq		p a q	paq			weber1996
+1013		p a q -	720	BENEFACTIVE	Huanca	paq		p a q	paq			cerron1976
+1110		p a q -	720	BENEFACTIVE	Huangascar	paq		p a q	paq			shimelman2017
+1223		p a q -	720	BENEFACTIVE	HuarazHuailas	paq		p a q	paq,shi		paa Raimondi y huari	parker1976
+1366		p a q -	720	BENEFACTIVE	Laraos	paq		p a q	paq			taylor1990
+1428		p a q -	720	BENEFACTIVE	Lincha-Tana	paq		p a q	paq			shimelman2017
+1541		p a q -	720	BENEFACTIVE	Pacaraos	paq		p a q	paq			adelaar1987
+1619		p a - -	720	BENEFACTIVE	Pastaza	pa		p a	pa			landerman1973
+1678		p a - -	720	BENEFACTIVE	SanMartin	pa		p a	pa		same as genitive	coombs1976
+1754		p a q -	720	BENEFACTIVE	SanPedro	paq		p a q	paq			shimelman2017
+1875		p a χ -	720	BENEFACTIVE	Santiagueno	paq		p a χ	paq			juanatey2020
+1962		p a q -	720	BENEFACTIVE	Tarma	paq		p a q	paq			adelaar1977
+2180		p a q	720	BENEFACTIVE	Imbabura	paj		p a q				cole1985
+#
+30		tʃ i	766	CAUSATIVE	Apuri	chi		tʃ i	chi			shimelman2017
+161		tʃ i	766	CAUSATIVE	Apurimac	chi		tʃ i	chi			camacho2006
+257		tʃ i	766	CAUSATIVE	Ayacucho	či		tʃ i	či			parker1969
+377		tʃ i	766	CAUSATIVE	Azuay	chi		tʃ i	chi			cordero1955
+416		tʃ i	766	CAUSATIVE	Cacra-Hongos	chi		tʃ i	chi			shimelman2017
+525		tʃ i	766	CAUSATIVE	Cajamarca	chi		tʃ i	chi			quesada2006
+589		tʃ i	766	CAUSATIVE	Chachapoyas	či		tʃ i	či			taylor1979
+647		tʃ i	766	CAUSATIVE	Chimborazo	ci		tʃ i	ci			beukema1975
+766		tʃ i	766	CAUSATIVE	Cuzco	chi		tʃ i	chi			cusihuaman1976
+821		tʃ i	766	CAUSATIVE	Ferrenafe	chi		tʃ i	chi			taylor1982
+898		tʃ i	766	CAUSATIVE	Huallaga	či		tʃ i	či			weber1996
+1015		tʃ i	766	CAUSATIVE	Huanca	chi		tʃ i	chi			cerron1976
+1111		tʃ i	766	CAUSATIVE	Huangascar	chi		tʃ i	chi			shimelman2017
+1265		ts i	766	CAUSATIVE	HuarazHuailas	tsi		ts i	raykur, tsi			parker1976
+1337		tʃ i	766	CAUSATIVE	Inga	chi		tʃ i	chi			tandioy1978
+1367		tʃ i	766	CAUSATIVE	Laraos	chi		tʃ i	chi			taylor1990
+1429		tʃ i	766	CAUSATIVE	Lincha-Tana	chi		tʃ i	chi			shimelman2017
+1542		s i	766	CAUSATIVE	Pacaraos	si		s i	si			adelaar1987
+1620		tʃ i	766	CAUSATIVE	Pastaza	chi		tʃ i	chi			landerman1973
+1681		tʃ i	766	CAUSATIVE	SanMartin	chi		tʃ i	chi			coombs1976
+1755		tʃ i	766	CAUSATIVE	SanPedro	chi		tʃ i	chi			shimelman2017
+1877		tʃ i	766	CAUSATIVE	Santiagueno	chi		tʃ i	chi			juanatey2020
+1965		tʃ i	766	CAUSATIVE	Tarma	chi		tʃ i	chi			adelaar1977
+2182		tʃ i	766	CAUSATIVE	Imbabura	chi		tʃ i				cole1985
+#
+32		m u	800	CISLOCATIVE	Apuri	mu		m u	mu			shimelman2017
+163		m u	800	CISLOCATIVE	Apurimac	mu		m u	mu			camacho2006
+164		m u	800	CISLOCATIVE	Apurimac	mu		m u	mu			camacho2006
+259		m u	800	CISLOCATIVE	Ayacucho	mu		m u	mu			parker1969
+333		m u	800	CISLOCATIVE	Azuay	mu		m u	mu			cordero1955
+418		m u	800	CISLOCATIVE	Cacra-Hongos	mu		m u	mu			shimelman2017
+526		m u	800	CISLOCATIVE	Cajamarca	mu		m u	mu			quesada2006
+590		m u	800	CISLOCATIVE	Chachapoyas	mu		m u	mu			taylor1979
+649		m u	800	CISLOCATIVE	Chimborazo	mu		m u	mu			beukema1975
+719		m u	800	CISLOCATIVE	Cuzco	mu		m u	mu			cusihuaman1976
+822		m u	800	CISLOCATIVE	Ferrenafe	mu		m u	mu			taylor1982
+899		m u	800	CISLOCATIVE	Huallaga	mu		m u	mu		Con verbos de movimiento, ‘hacia acá’. Con verbos de no movimiento, ‘a una distancia del hablante o del “punto de perspectiva”’.	weber1996
+900		m u	800	CISLOCATIVE	Huallaga	mu		m u	mu			weber1996
+1016		m a	800	CISLOCATIVE	Huanca	ma		m a	ma			cerron1976
+1113		m u	800	CISLOCATIVE	Huangascar	mu		m u	mu			shimelman2017
+1226		m u	800	CISLOCATIVE	HuarazHuailas	mu		m u	mu			parker1976
+1292		m u	800	CISLOCATIVE	Inga	mu		m u	mu			tandioy1978
+1431		m u	800	CISLOCATIVE	Lincha-Tana	mu		m u	mu			shimelman2017
+1543		m u	800	CISLOCATIVE	Pacaraos	mu		m u	mu			adelaar1987
+1621		m a	800	CISLOCATIVE	Pastaza	ma		m a	ma		/Sacha-ma/ ‘Al monte’	landerman1973
+1682		m u	800	CISLOCATIVE	SanMartin	mu		m u	mu			coombs1976
+1757		m u	800	CISLOCATIVE	SanPedro	mu		m u	mu			shimelman2017
+1966		m u	800	CISLOCATIVE	Tarma	mu		m u	mu			adelaar1977
+2065		m u	800	CISLOCATIVE	Laraos	mu		m u				taylor1990
+2139		m u	800	CISLOCATIVE	Santiagueno	mu		m u				alderetes2001
+2183		m u	800	CISLOCATIVE	Imbabura	mu		m u				cole1985
+#
+33		h i n a -	824	COMPARATIVE	Apuri	hina		h i n a	hina			shimelman2017
+260		h i n a -	824	COMPARATIVE	Ayacucho	hina		h i n a	hina			parker1969
+419		h i n a -	824	COMPARATIVE	Cacra-Hongos	hina		h i n a	hina			shimelman2017
+527		ʃ i n a -	824	COMPARATIVE	Cajamarca	shina		ʃ i n a	shina			quesada2006
+650		j a ʒ i	826	COMPARATIVE	Chimborazo	yaži		j a ʒ i	yaži			beukema1975
+823		- - n o -	9	COMPARATIVE	Ferrenafe	no		n o	no, yupaq			taylor1982
+902		- - n a w	9	COMPARATIVE	Huallaga	naw		n a w	naw			weber1996
+1017		- - n a w	9	COMPARATIVE	Huanca	naw		n a w	naw			cerron1976
+1114		h i n a -	824	COMPARATIVE	Huangascar	hina		h i n a	hina			shimelman2017
+1227		- - n a w	9	COMPARATIVE	HuarazHuailas	naw		n a w	naw			parker1976
+1432		h i n a -	824	COMPARATIVE	Lincha-Tana	hina		h i n a	hina			shimelman2017
+1544		- - n a w	9	COMPARATIVE	Pacaraos	naw		n a w	naw			adelaar1987
+1683		ʃ i n a -	824	COMPARATIVE	SanMartin	shina		ʃ i n a	shina			coombs1976
+1758		h i n a -	824	COMPARATIVE	SanPedro	hina		h i n a	hina			shimelman2017
+1879		- i n a -	824	COMPARATIVE	Santiagueno	ina		i n a	ina			juanatey2020
+2067		h i n a	824	COMPARATIVE	Laraos	hina		h i n a				taylor1990
+2120		ʃ i n a	824	COMPARATIVE	Chachapoyas	shina		ʃ i n a				taylor1979
+2159		s i n a	824	COMPARATIVE	Inga	sina		s i n a				tandioy1978
+2184		ʃ n a	824	COMPARATIVE	Imbabura	shna		ʃ n a				cole1985
+2277		h i n a	824	COMPARATIVE	Apurimac	hina		h i n a	hina			camacho2006
+#
+34		m a n	853	CONDITIONAL	Apuri	man		m a n	man			shimelman2017
+165		m a n	853	CONDITIONAL	Apurimac	man		m a n	man			camacho2006
+261		m a n	853	CONDITIONAL	Ayacucho	man		m a n	man			parker1969
+335		n t ɾ a	854	CONDITIONAL	Azuay	ntra		n t ɾ a	ntra			cordero1955
+420		m a n	853	CONDITIONAL	Cacra-Hongos	man		m a n	man			shimelman2017
+528		m a n	853	CONDITIONAL	Cajamarca	man		m a n	man			quesada2006
+591		m a n	853	CONDITIONAL	Chachapoyas	man		m a n	man			taylor1979
+651		m a n	853	CONDITIONAL	Chimborazo	man		m a n	man			beukema1975
+905		m a n	853	CONDITIONAL	Huallaga	man		m a n	man			weber1996
+1115		m a n	853	CONDITIONAL	Huangascar	man		m a n	man			shimelman2017
+1228		m a n	853	CONDITIONAL	HuarazHuailas	man		m a n	man			parker1976
+1293		n t r a	854	CONDITIONAL	Inga	ntra		n t r a	ntra			tandioy1978
+1433		m a n	853	CONDITIONAL	Lincha-Tana	man		m a n	man			shimelman2017
+1547		m a n	853	CONDITIONAL	Pacaraos	man		m a n	man			adelaar1987
+1622		m a -	853	CONDITIONAL	Pastaza	ma		m a	ma			landerman1973
+1684		m a n	853	CONDITIONAL	SanMartin	man		m a n	man			coombs1976
+1759		m a n	853	CONDITIONAL	SanPedro	man		m a n	man			shimelman2017
+1880		m a n	853	CONDITIONAL	Santiagueno	man		m a n	man			juanatey2020
+1968		m a n	853	CONDITIONAL	Tarma	man		m a n	man			adelaar1977
+2055		m a n	853	CONDITIONAL	Ferrenafe	man		m a n				taylor1982
+2069		m a n	853	CONDITIONAL	Laraos	man		m a n				taylor1990
+2165		m a n	853	CONDITIONAL	Imbabura	man		m a n				cole1985
+2264		m a n	853	CONDITIONAL	Cuzco	man		m a n				cusihuaman1976
+#
+35		ɾ a q -	877	CONTINUATIVE	Apuri	raq		ɾ a q	raq			shimelman2017
+166		r a q -	877	CONTINUATIVE	Apurimac	raq		r a q	raq			camacho2006
+262		ɾ a χ -	877	CONTINUATIVE	Ayacucho	raq		ɾ a χ	raq			parker1969
+421		ɾ a q -	877	CONTINUATIVE	Cacra-Hongos	raq		ɾ a q	raq			shimelman2017
+529		ɾ a χ -	877	CONTINUATIVE	Cajamarca	raq		ɾ a χ	raq			quesada2006
+653		r a k -	877	CONTINUATIVE	Chimborazo	rak		r a k	rak			beukema1975
+826		ɾ a q -	877	CONTINUATIVE	Ferrenafe	raq		ɾ a q	raq			taylor1982
+908		ʐ a q -	877	CONTINUATIVE	Huallaga	raq		ʐ a q	raq,ran		/-ran/ casi no se emplea, por lo general aparece después de un sufijo de tercera persona /-n/	weber1996
+909		ʐ - a n	877	CONTINUATIVE	Huallaga	ran		ʐ a n	raq,ran		/-ran/ casi no se emplea, por lo general aparece después de un sufijo de tercera persona /-n/	weber1996
+1018		l a q -	877	CONTINUATIVE	Huanca	laq		l a q	laq			cerron1976
+1116		ɾ a q -	877	CONTINUATIVE	Huangascar	raq		ɾ a q	raq			shimelman2017
+1368		ɾ a q -	877	CONTINUATIVE	Laraos	raq		ɾ a q	raq			taylor1990
+1434		ɾ a q -	877	CONTINUATIVE	Lincha-Tana	raq		ɾ a q	raq			shimelman2017
+1548		ɾ a q	877	CONTINUATIVE	Pacaraos	raq		ɾ a q	raa			adelaar1987
+1760		ɾ a q -	877	CONTINUATIVE	SanPedro	raq		ɾ a q	raq			shimelman2017
+1969		ɾ a q -	877	CONTINUATIVE	Tarma	raq		ɾ a q	raq			adelaar1977
+2138		r a q	877	CONTINUATIVE	Santiagueno	raq		r a q				alderetes2001
+2198		r a q	877	CONTINUATIVE	Imbabura	raj		r a q				cole1985
+#
+36		m a n	911	DATIVE/ILATIVE	Apuri	man		m a n	man			shimelman2017
+168		m a n	911	DATIVE/ILATIVE	Apurimac	man		m a n	man			camacho2006
+264		m a n	911	DATIVE/ILATIVE	Ayacucho	man		m a n	man			parker1969
+339		m a -	911	DATIVE/ILATIVE	Azuay	ma		m a	ma			cordero1955
+422		m a n	911	DATIVE/ILATIVE	Cacra-Hongos	man		m a n	man			shimelman2017
+530		m a n	911	DATIVE/ILATIVE	Cajamarca	man		m a n	man			quesada2006
+592		m a n	911	DATIVE/ILATIVE	Chachapoyas	man		m a n	man			taylor1979
+655		m a n	911	DATIVE/ILATIVE	Chimborazo	man		m a n	man			beukema1975
+723		m a n	911	DATIVE/ILATIVE	Cuzco	man		m a n	man			cusihuaman1976
+827		m a n	911	DATIVE/ILATIVE	Ferrenafe	man		m a n	man		alativo	taylor1982
+910		m a n	911	DATIVE/ILATIVE	Huallaga	man		m a n	man		Similar al dativo de otras variedades. Wasi-:-man ša-mu-nki! / casa-1P-MET venir-LEJ-2 / ‘¡Ven a mi casa!’	weber1996
+1020		m a n	911	DATIVE/ILATIVE	Huanca	man		m a n	man			cerron1976
+1117		m a n	911	DATIVE/ILATIVE	Huangascar	man		m a n	man			shimelman2017
+1230		m a n	911	DATIVE/ILATIVE	HuarazHuailas	man		m a n	man			parker1976
+1297		m a -	911	DATIVE/ILATIVE	Inga	ma		m a	ma			tandioy1978
+1369		m a n	911	DATIVE/ILATIVE	Laraos	man		m a n	man			taylor1990
+1435		m a n	911	DATIVE/ILATIVE	Lincha-Tana	man		m a n	man			shimelman2017
+1549		m a n	911	DATIVE/ILATIVE	Pacaraos	man		m a n	man			adelaar1987
+1686		m a n	911	DATIVE/ILATIVE	SanMartin	man		m a n	man			coombs1976
+1761		m a n	911	DATIVE/ILATIVE	SanPedro	man		m a n	man			shimelman2017
+1881		t -	614	DATIVE/ILATIVE	Santiagueno	t		t	t,ta			juanatey2020
+1882		t a	614	DATIVE/ILATIVE	Santiagueno	ta		t a	t,ta			juanatey2020
+1970		m a n	911	DATIVE/ILATIVE	Tarma	man		m a n	man		named “allative”	adelaar1977
+2186		m a n	911	DATIVE/ILATIVE	Imbabura	man		m a n	man			cole1985
+2295		m a	911	DATIVE/ILATIVE	Pastaza	ma		m a	ma			landerman1973
+#
+37		n a j a	939	DESIDERATIVE	Apuri	naya		n a j a	naya			shimelman2017
+169		n a j a	939	DESIDERATIVE	Apurimac	naya		n a j a	naya			camacho2006
+341		n a j a	939	DESIDERATIVE	Azuay	naya		n a j a	naya			cordero1955
+423		n a j a	939	DESIDERATIVE	Cacra-Hongos	naya		n a j a	naya			shimelman2017
+531		n a - -	939	DESIDERATIVE	Cajamarca	na		n a	na			quesada2006
+593		n a j a	939	DESIDERATIVE	Chachapoyas	naya		n a j a	naya			taylor1979
+725		n a j a	939	DESIDERATIVE	Cuzco	naya		n a j a	naya			cusihuaman1976
+911		n aː - -	939	DESIDERATIVE	Huallaga	naː		n aː	naː			weber1996
+1021		n aː	939	DESIDERATIVE	Huanca	naa		n aː	naa			cerron1976
+1118		n a j a	939	DESIDERATIVE	Huangascar	naya		n a j a	naya			shimelman2017
+1232		n aː - -	939	DESIDERATIVE	HuarazHuailas	naa		n aː	naa			parker1976
+1299		n a j a	939	DESIDERATIVE	Inga	naya		n a j a	naya			tandioy1978
+1370		n a - -	939	DESIDERATIVE	Laraos	na		n a	na			taylor1990
+1436		n a j a	939	DESIDERATIVE	Lincha-Tana	naya		n a j a	naya			shimelman2017
+1550		n aː	939	DESIDERATIVE	Pacaraos	naa		n aː	naa			adelaar1987
+1624		n a j a	939	DESIDERATIVE	Pastaza	naya		n a j a	naya			landerman1973
+1687		n a j a	939	DESIDERATIVE	SanMartin	naya		n a j a	naya			coombs1976
+1762		n a j a	939	DESIDERATIVE	SanPedro	naya		n a j a	naya			shimelman2017
+1883		n a: - -	939	DESIDERATIVE	Santiagueno	naa		n a:	naa			juanatey2020
+1971		n a - -	939	DESIDERATIVE	Tarma	na		n a	na			adelaar1977
+2057		n a	939	DESIDERATIVE	Ferrenafe	na		n a				taylor1982
+2188		n a j a	939	DESIDERATIVE	Imbabura	naya		n a j a				cole1985
+#
+831		ɾ p u	1000	DIRECTIONAL DOWN	Ferrenafe	rpu		ɾ p u	rpu			taylor1982
+914		ʐ p u	1000	DIRECTIONAL DOWN	Huallaga	rpu		ʐ p u	rpu			weber1996
+1025		l p u	1000	DIRECTIONAL DOWN	Huanca	lpu		l p u	lpu			cerron1976
+1234		ɾ p u	1000	DIRECTIONAL DOWN	HuarazHuailas	rpu		ɾ p u	rpu			parker1976
+1553		ɾ p u	1000	DIRECTIONAL DOWN	Pacaraos	rpu		ɾ p u	rpu			adelaar1987
+1973		ɾ p u	1000	DIRECTIONAL DOWN	Tarma	rpu		ɾ p u	rpu			adelaar1977
+#
+829		- j k u	1007	DIRECTIONAL INSIDE	Ferrenafe	yku		j k u	yku			taylor1982
+912		j - k u	1007	DIRECTIONAL INSIDE	Huallaga	yku		j k u	yku			weber1996
+1023		j - k u	1007	DIRECTIONAL INSIDE	Huanca	yku		j k u	yku		acción dinamica? antes: direcional	cerron1976
+1233		j - k u	1007	DIRECTIONAL INSIDE	HuarazHuailas	ykU		j k u	ykU			parker1976
+1551		- j k u	1007	DIRECTIONAL INSIDE	Pacaraos	yku		j k u	yku		o hacia lugar indicado	adelaar1987
+1972		j - - u	1007	DIRECTIONAL INSIDE	Tarma	yu		j u	yu			adelaar1977
+#
+830		ɾ q u	1014	DIRECTIONAL OUTSIDE	Ferrenafe	rqu		ɾ q u	rqu			taylor1982
+913		ʐ q u	1014	DIRECTIONAL OUTSIDE	Huallaga	rqu		ʐ q u	rqu			weber1996
+1024		q l u	1014	DIRECTIONAL OUTSIDE	Huanca	qlu		q l u	qlu		losing its meaning; now: educational, emphatic	cerron1976
+1552		ɾ q u	1014	DIRECTIONAL OUTSIDE	Pacaraos	rqu		ɾ q u	rqu			adelaar1987
+2066		r q u	1014	DIRECTIONAL OUTSIDE	Laraos	rqu		r q u				taylor1990
+#
+832		ɾ k u	993	DIRECTIONAL UP	Ferrenafe	rku		ɾ k u	rku			taylor1982
+915		ʐ k u	993	DIRECTIONAL UP	Huallaga	rku		ʐ k u	rku		También ‘en seguida’	weber1996
+1026		l k u	993	DIRECTIONAL UP	Huanca	lku		l k u	lku			cerron1976
+1235		ɾ k u	993	DIRECTIONAL UP	HuarazHuailas	rku		ɾ k u	rku			parker1976
+1554		ɾ k u	993	DIRECTIONAL UP	Pacaraos	rku		ɾ k u	rku		acción realizada en interés social	adelaar1987
+1974		ɾ k u	993	DIRECTIONAL UP	Tarma	rku		ɾ k u	rku			adelaar1977
+#
+40		ɲ a	1019	DISCONTINUATIVE	Apuri	ña		ɲ a	ña			shimelman2017
+217		ɲ a	1019	DISCONTINUATIVE	Apurimac	ña		ɲ a	ña			camacho2006
+312		ɲ a	1019	DISCONTINUATIVE	Ayacucho	ña		ɲ a	ña			parker1969
+426		ɲ a	1019	DISCONTINUATIVE	Cacra-Hongos	ña		ɲ a	ña			shimelman2017
+690		ɲ a	1019	DISCONTINUATIVE	Chimborazo	ña		ɲ a	ña			beukema1975
+727		ɲ a	1019	DISCONTINUATIVE	Cuzco	ña		ɲ a	ña			cusihuaman1976
+1081		ɲ a	1019	DISCONTINUATIVE	Huanca	ña		ɲ a	ña			cerron1976
+1121		ɲ a	1019	DISCONTINUATIVE	Huangascar	ña		ɲ a	ña			shimelman2017
+1371		ɲ a	1019	DISCONTINUATIVE	Laraos	ña		ɲ a	ña			taylor1990
+1439		ɲ a	1019	DISCONTINUATIVE	Lincha-Tana	ña		ɲ a	ña			shimelman2017
+1658		ɲ a	1019	DISCONTINUATIVE	Pastaza	ña		ɲ a	ña			landerman1973
+1765		ɲ a	1019	DISCONTINUATIVE	SanPedro	ña		ɲ a	ña			shimelman2017
+2121		ɲ a	1019	DISCONTINUATIVE	Chachapoyas	ña		ɲ a				taylor1979
+2190		ŋ a	1019	DISCONTINUATIVE	Imbabura	ña		ŋ a				cole1985
+#
+42		tʃ ai - -	1036	DISTAL DEMONSTRATIVE	Apuri	chay		tʃ ai	chay			shimelman2017
+171		tʃ ai	1036	DISTAL DEMONSTRATIVE	Apurimac	chay		tʃ ai	chay			camacho2006
+428		tʃ ai	1036	DISTAL DEMONSTRATIVE	Cacra-Hongos	chay		tʃ ai	chay			shimelman2017
+656		tʃ ai	1036	DISTAL DEMONSTRATIVE	Chimborazo	cay		tʃ ai	cay			beukema1975
+916		tʃ ai	1036	DISTAL DEMONSTRATIVE	Huallaga	čay		tʃ ai	čay			weber1996
+1123		tʃ ai	1036	DISTAL DEMONSTRATIVE	Huangascar	chay		tʃ ai	chay			shimelman2017
+1441		tʃ ai	1036	DISTAL DEMONSTRATIVE	Lincha-Tana	chay		tʃ ai	chay			shimelman2017
+1767		tʃ ai	1036	DISTAL DEMONSTRATIVE	SanPedro	chay		tʃ ai	chay			shimelman2017
+2039		tʃ ai	1036	DISTAL DEMONSTRATIVE	Ayacucho	chay		tʃ ai				parker1969
+2043		tʃ ai	1036	DISTAL DEMONSTRATIVE	Azuay	chay		tʃ ai				cordero1955
+2102		tʃ ai	1036	DISTAL DEMONSTRATIVE	Cajamarca	chay		tʃ ai				quesada2006
+2123		tʃ ai	1036	DISTAL DEMONSTRATIVE	Huanca	chay		tʃ ai				cerron1976
+2129		tʃ ai	1036	DISTAL DEMONSTRATIVE	Tarma	chay		tʃ ai				adelaar1977
+2147		tʃ ai	1036	DISTAL DEMONSTRATIVE	SanMartin	chay		tʃ ai				coombs1976
+2217		tʃ ai	1036	DISTAL DEMONSTRATIVE	Imbabura	chay		tʃ ai				cole1985
+2251		ts ai	1036	DISTAL DEMONSTRATIVE	HuarazHuailas	tsay		ts ai				parker1976
+2274		tʃ ai	1036	DISTAL DEMONSTRATIVE	Cuzco	chay		tʃ ai				cusihuaman1976
+2296		tʃ ai	1036	DISTAL DEMONSTRATIVE	Pastaza	chay		tʃ ai	chay			landerman1973
+#
+46		a ɾ i	1095	EMPHATIC	Apuri	ari		a ɾ i	ari			shimelman2017
+175		a r i	1095	EMPHATIC	Apurimac	ari		a r i	ari			camacho2006
+432		a l i	1095	EMPHATIC	Cacra-Hongos	ali		a l i	ali			shimelman2017
+533		- ɾ i	1095	EMPHATIC	Cajamarca	ri		ɾ i	ri			quesada2006
+658		a r i	1095	EMPHATIC	Chimborazo	ari		a r i	ari			beukema1975
+773		ɾ i	1095	EMPHATIC	Cuzco	ri		ɾ i	ri			cusihuaman1976
+834		- ɾ i	1095	EMPHATIC	Ferrenafe	ri		ɾ i	ri			taylor1982
+921		a r i	1095	EMPHATIC	Huallaga	ari		a r i	kiki, ari			weber1996
+1029		a l i	1095	EMPHATIC	Huanca	ali		a l i	ali		some unexpected pluralizing semantics?	cerron1976
+1033		a ɾ i	1095	EMPHATIC	Huanca	ari		a ɾ i	ari		confirmar y subrayas la afirmación o negación	cerron1976
+1127		a ɾ i	1095	EMPHATIC	Huangascar	ari		a ɾ i	ari			shimelman2017
+1237		- ɾ i	1095	EMPHATIC	HuarazHuailas	rI		ɾ i	rI			parker1976
+1373		a ɾ i	1095	EMPHATIC	Laraos	ari		a ɾ i	ari			taylor1990
+1374		- ɾ i	1095	EMPHATIC	Laraos	ri		ɾ i	ri			taylor1990
+1445		a ɾ i	1095	EMPHATIC	Lincha-Tana	ari		a ɾ i	ari			shimelman2017
+1771		a ɾ i	1095	EMPHATIC	SanPedro	ari		a ɾ i	ari			shimelman2017
+1977		- ɾ i	1095	EMPHATIC	Tarma	ri		ɾ i	ri			adelaar1977
+2194		r i	1095	EMPHATIC	Imbabura	ri		r i			also vowel shift of preceding element to /a/	cole1985
+#
+48		ʈ i - -	18	EVIDENTIAL CONJECTURAL	Apuri	tri		ʈ i	tri,tr			shimelman2017
+49		ʈ - - -	18	EVIDENTIAL CONJECTURAL	Apuri	tr		ʈ	tri,tr			shimelman2017
+176		tʃ a - -	18	EVIDENTIAL CONJECTURAL	Apurimac	cha		tʃ a	cha			camacho2006
+272		tʃ a - -	18	EVIDENTIAL CONJECTURAL	Ayacucho	ča		tʃ a	č, ča			parker1969
+350		tʃ a ɾ -	19	EVIDENTIAL CONJECTURAL	Azuay	char		tʃ a ɾ	char			cordero1955
+434		ʈ i - -	18	EVIDENTIAL CONJECTURAL	Cacra-Hongos	tri		ʈ i	tri,tr			shimelman2017
+435		ʈ - - -	18	EVIDENTIAL CONJECTURAL	Cacra-Hongos	tr		ʈ	tri,tr			shimelman2017
+534		tʃ i - -	18	EVIDENTIAL CONJECTURAL	Cajamarca	chi		tʃ i	chi			quesada2006
+595		tʃ a - -	18	EVIDENTIAL CONJECTURAL	Chachapoyas	ča		tʃ a	ča			taylor1979
+659		tʃ a r i	19	EVIDENTIAL CONJECTURAL	Chimborazo	cari		tʃ a r i	cari		'Unconfirmed opinion'. Fusion of cu + ri. bacuk + cari, lamb + Unc, 'it must be the lamb'.	beukema1975
+733		tʃ a - -	18	EVIDENTIAL CONJECTURAL	Cuzco	cha		tʃ a	cha			cusihuaman1976
+923		tʃ i - -	18	EVIDENTIAL CONJECTURAL	Huallaga	či		tʃ i	či			weber1996
+1031		ʈʂ a - -	18	EVIDENTIAL CONJECTURAL	Huanca	tra		ʈʂ a	tra			cerron1976
+1129		ʈ i - -	18	EVIDENTIAL CONJECTURAL	Huangascar	tri		ʈ i	tri,tr			shimelman2017
+1130		ʈ - - -	18	EVIDENTIAL CONJECTURAL	Huangascar	tr		ʈ	tri,tr			shimelman2017
+1308		tʃ a r -	19	EVIDENTIAL CONJECTURAL	Inga	char		tʃ a r	char			tandioy1978
+1375		ʈʂ i - -	18	EVIDENTIAL CONJECTURAL	Laraos	ĉi		ʈʂ i	ĉi			taylor1990
+1447		ʈ i - -	18	EVIDENTIAL CONJECTURAL	Lincha-Tana	tri		ʈ i	tri,tr			shimelman2017
+1448		ʈ - - -	18	EVIDENTIAL CONJECTURAL	Lincha-Tana	tr		ʈ	tri,tr			shimelman2017
+1691		tʃ a - -	18	EVIDENTIAL CONJECTURAL	SanMartin	cha		tʃ a	cha			coombs1976
+1773		ʈ i - -	18	EVIDENTIAL CONJECTURAL	SanPedro	tri		ʈ i	tri,tr			shimelman2017
+1774		ʈ - - -	18	EVIDENTIAL CONJECTURAL	SanPedro	tr		ʈ	tri,tr			shimelman2017
+1893		tʃ a - -	18	EVIDENTIAL CONJECTURAL	Santiagueno	cha		tʃ a	cha			alderetes2001
+1979		tʃ i - -	18	EVIDENTIAL CONJECTURAL	Tarma	chi		tʃ i	chi			adelaar1977
+2084		tʂ i	18	EVIDENTIAL CONJECTURAL	Pacaraos	tri		tʂ i				adelaar1987
+2195		tʃ a	18	EVIDENTIAL CONJECTURAL	Imbabura	chá		tʃ a				cole1985
+2231		tʃ aː	18	EVIDENTIAL CONJECTURAL	HuarazHuailas	chaa		tʃ aː				parker1976
+#
+50		m i	1157	EVIDENTIAL DIRECT	Apuri	mi		m i	mi,m			shimelman2017
+51		m -	1157	EVIDENTIAL DIRECT	Apuri	m		m	mi,m			shimelman2017
+177		m i	1157	EVIDENTIAL DIRECT	Apurimac	mi		m i	mi			camacho2006
+273		m i	1157	EVIDENTIAL DIRECT	Ayacucho	mi		m i	mi			parker1969
+351		m i	1157	EVIDENTIAL DIRECT	Azuay	mi		m i	mi			cordero1955
+436		m i	1157	EVIDENTIAL DIRECT	Cacra-Hongos	mi		m i	mi,m			shimelman2017
+437		m -	1157	EVIDENTIAL DIRECT	Cacra-Hongos	m		m	mi,m			shimelman2017
+535		m i	1157	EVIDENTIAL DIRECT	Cajamarca	mi		m i	mi			quesada2006
+596		m i	1157	EVIDENTIAL DIRECT	Chachapoyas	mi		m i	mi			taylor1979
+660		m i	1157	EVIDENTIAL DIRECT	Chimborazo	mi		m i	mi			beukema1975
+734		m i	1157	EVIDENTIAL DIRECT	Cuzco	mi		m i	mi			cusihuaman1976
+835		m i	1157	EVIDENTIAL DIRECT	Ferrenafe	mi		m i	mi			taylor1982
+924		m i	1157	EVIDENTIAL DIRECT	Huallaga	mi		m i	mi			weber1996
+1032		m i	1157	EVIDENTIAL DIRECT	Huanca	mi		m i	mi			cerron1976
+1131		m i	1157	EVIDENTIAL DIRECT	Huangascar	mi		m i	mi,m			shimelman2017
+1132		m -	1157	EVIDENTIAL DIRECT	Huangascar	m		m	mi,m			shimelman2017
+1309		m i	1157	EVIDENTIAL DIRECT	Inga	mi		m i	mi			tandioy1978
+1376		m i	1157	EVIDENTIAL DIRECT	Laraos	mi		m i	mi			taylor1990
+1449		m i	1157	EVIDENTIAL DIRECT	Lincha-Tana	mi		m i	mi,m			shimelman2017
+1450		m -	1157	EVIDENTIAL DIRECT	Lincha-Tana	m		m	mi,m			shimelman2017
+1627		m i	1157	EVIDENTIAL DIRECT	Pastaza	mi		m i	mi			landerman1973
+1692		m i	1157	EVIDENTIAL DIRECT	SanMartin	mi		m i	mi			coombs1976
+1775		m i	1157	EVIDENTIAL DIRECT	SanPedro	mi		m i	mi,m			shimelman2017
+1776		m -	1157	EVIDENTIAL DIRECT	SanPedro	m		m	mi,m			shimelman2017
+1894		m i	1157	EVIDENTIAL DIRECT	Santiagueno	mi		m i	mi			juanatey2020
+1980		m i	1157	EVIDENTIAL DIRECT	Tarma	mi		m i	mi			adelaar1977
+2083		m i	1157	EVIDENTIAL DIRECT	Pacaraos	mi		m i				adelaar1987
+2196		m i	1157	EVIDENTIAL DIRECT	Imbabura	mi		m i				cole1985
+2230		m i	1157	EVIDENTIAL DIRECT	HuarazHuailas	mI		m i				parker1976
+#
+54		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Apuri	shi		ʃ i	shi,sh			shimelman2017
+55		ʃ - -	1198	EVIDENTIAL REPORTATIVE	Apuri	sh		ʃ	shi,sh			shimelman2017
+274		s - -	1198	EVIDENTIAL REPORTATIVE	Ayacucho	s		s	s, si			parker1969
+275		s - i	1198	EVIDENTIAL REPORTATIVE	Ayacucho	si		s i	s, si			parker1969
+352		s - i	1198	EVIDENTIAL REPORTATIVE	Azuay	si		s i	si			cordero1955
+440		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Cacra-Hongos	shi		ʃ i	shi,sh			shimelman2017
+441		ʃ - -	1198	EVIDENTIAL REPORTATIVE	Cacra-Hongos	sh		ʃ	shi,sh			shimelman2017
+536		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Cajamarca	shi		ʃ i	shi			quesada2006
+597		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Chachapoyas	ši		ʃ i	ši			taylor1979
+661		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Chimborazo	ši		ʃ i	ši			beukema1975
+735		s - i	1198	EVIDENTIAL REPORTATIVE	Cuzco	si		s i	si, s			cusihuaman1976
+736		s - -	1198	EVIDENTIAL REPORTATIVE	Cuzco	s		s	si, s			cusihuaman1976
+836		ç i	1198	EVIDENTIAL REPORTATIVE	Ferrenafe	shi		ç i	shi		citativo	taylor1982
+925		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Huallaga	ši		ʃ i	ši			weber1996
+1034		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Huanca	shi		ʃ i	shi			cerron1976
+1135		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Huangascar	shi		ʃ i	shi,sh			shimelman2017
+1136		ʃ - -	1198	EVIDENTIAL REPORTATIVE	Huangascar	sh		ʃ	shi,sh			shimelman2017
+1310		s - i	1198	EVIDENTIAL REPORTATIVE	Inga	si		s i	si			tandioy1978
+1377		s - i	1198	EVIDENTIAL REPORTATIVE	Laraos	si		s i	si			taylor1990
+1453		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Lincha-Tana	shi		ʃ i	shi,sh			shimelman2017
+1454		ʃ - -	1198	EVIDENTIAL REPORTATIVE	Lincha-Tana	sh		ʃ	shi,sh			shimelman2017
+1628		ʃ - i	1198	EVIDENTIAL REPORTATIVE	Pastaza	shi		ʃ i	shi			landerman1973
+1693		ʃ - i	1198	EVIDENTIAL REPORTATIVE	SanMartin	shi		ʃ i	shi			coombs1976
+1779		ʃ - i	1198	EVIDENTIAL REPORTATIVE	SanPedro	shi		ʃ i	shi,sh			shimelman2017
+1780		ʃ - -	1198	EVIDENTIAL REPORTATIVE	SanPedro	sh		ʃ	shi,sh			shimelman2017
+1895		s - i	1198	EVIDENTIAL REPORTATIVE	Santiagueno	si		s i	si			juanatey2020
+1981		s - i	1198	EVIDENTIAL REPORTATIVE	Tarma	si		s i	si			adelaar1977
+2082		ʃ i	1198	EVIDENTIAL REPORTATIVE	Pacaraos	shi		ʃ i				adelaar1987
+2197		ʃ i	1198	EVIDENTIAL REPORTATIVE	Imbabura	shi		ʃ i				cole1985
+2229		ʃ i	1198	EVIDENTIAL REPORTATIVE	HuarazHuailas	shi		ʃ i				parker1976
+#
+60		p u ɾ a	1256	EXCLUSIVE	Apuri	pura		p u ɾ a	pura			shimelman2017
+180		p u r a	1256	EXCLUSIVE	Apurimac	pura		p u r a	pura			camacho2006
+276		p u ɾ a	1256	EXCLUSIVE	Ayacucho	pura		p u ɾ a	pura		"among houses"	parker1969
+446		p u ɾ a	1256	EXCLUSIVE	Cacra-Hongos	pura		p u ɾ a	pura			shimelman2017
+537		p u ɾ a	1256	EXCLUSIVE	Cajamarca	pura		p u ɾ a	pura			quesada2006
+598		p u r a	1256	EXCLUSIVE	Chachapoyas	pura		p u r a	pura		„only men“	taylor1979
+930		p u r a	1256	EXCLUSIVE	Huallaga	pura		p u r a	pura			weber1996
+1035		p u l a	1256	EXCLUSIVE	Huanca	pula		p u l a	pula			cerron1976
+1141		p u ɾ a	1256	EXCLUSIVE	Huangascar	pura		p u ɾ a	pura			shimelman2017
+1459		p u ɾ a	1256	EXCLUSIVE	Lincha-Tana	pura		p u ɾ a	pura			shimelman2017
+1694		p u r a	1256	EXCLUSIVE	SanMartin	pura		p u r a	pura		„only men“	coombs1976
+1785		p u ɾ a	1256	EXCLUSIVE	SanPedro	pura		p u ɾ a	pura			shimelman2017
+1897		p u ɾ a	1256	EXCLUSIVE	Santiagueno	pura		p u ɾ a	pura			juanatey2020
+2160		p u r a	1256	EXCLUSIVE	Inga	pura		p u r a				tandioy1978
+#
+61		tʃ a -	1272	FACTIVE	Apuri	cha		tʃ a	cha			shimelman2017
+277		tʃ a -	1272	FACTIVE	Ayacucho	ča		tʃ a	ča		deriving verb	parker1969
+447		tʃ a -	1272	FACTIVE	Cacra-Hongos	cha		tʃ a	cha			shimelman2017
+538		tʃ a -	1272	FACTIVE	Cajamarca	cha		tʃ a	cha			quesada2006
+599		tʃ a -	1272	FACTIVE	Chachapoyas	ča		tʃ a	ča		to make	taylor1979
+738		tʃ a -	1272	FACTIVE	Cuzco	cha		tʃ a	cha			cusihuaman1976
+931		tʃ a -	1272	FACTIVE	Huallaga	ča		tʃ a	ča		Verbalizador transitivizante. Productividad limitada y semántica impredecible. /hatun-čakU-/ ‘agrandar (por ejemplo, una chacra)’, /maki-čakU-/ ‘robar repetidas veces (robos pequeños)’, /wasi-čakU-/ ‘actuar como dueño de una casa (que pertenece a otro)’	weber1996
+934		ʃ a -	1272	FACTIVE	Huallaga	ša		ʃ a	ša			weber1996
+1036		tʃ a -	1272	FACTIVE	Huanca	cha		tʃ a	cha			cerron1976
+1142		tʃ a -	1272	FACTIVE	Huangascar	cha		tʃ a	cha			shimelman2017
+1238		t - -	1272	FACTIVE	HuarazHuailas	t		t	t		'acción completa’	parker1976
+1239		ts aː -	1272	FACTIVE	HuarazHuailas	tsaa		ts aː	tsaa			parker1976
+1460		tʃ a -	1272	FACTIVE	Lincha-Tana	cha		tʃ a	cha			shimelman2017
+1556		s aː	1272	FACTIVE	Pacaraos	saa		s aː	saa			adelaar1987
+1695		tʃ a -	1272	FACTIVE	SanMartin	cha		tʃ a	cha		to make	coombs1976
+1786		tʃ a -	1272	FACTIVE	SanPedro	cha		tʃ a	cha			shimelman2017
+1898		tʃ a -	1272	FACTIVE	Santiagueno	cha		tʃ a	cha			alderetes2001
+1983		tʃ a -	1272	FACTIVE	Tarma	cha		tʃ a	cha			adelaar1977
+#
+62		- k a ʈ a	1295	FREQUENTIVE	Apuri	katra		k a ʈ a	katra			shimelman2017
+448		- k a ʈ a	1295	FREQUENTIVE	Cacra-Hongos	katra		k a ʈ a	katra			shimelman2017
+539		- k a tʃ a	1295	FREQUENTIVE	Cajamarca	kacha		k a tʃ a	kacha			quesada2006
+778		k a tʃ a	1295	FREQUENTIVE	Cuzco	kacha		k a tʃ a	kacha			cusihuaman1976
+935		i k a tʃ aː	1295	FREQUENTIVE	Huallaga	ykačaː		i k a tʃ aː	ykačaː,kača/ča			weber1996
+936		- k a tʃ a	1295	FREQUENTIVE	Huallaga	kača		k a tʃ a	ykačaː,kača/ča			weber1996
+937		- - - tʃ a	1295	FREQUENTIVE	Huallaga	ča		tʃ a	ykačaː,kača/ča			weber1996
+1065		ʈʂ a + k u	1295	FREQUENTIVE	Huanca	traku		ʈʂ a + k u	traku			cerron1976
+1143		- k a ʈ a	1295	FREQUENTIVE	Huangascar	katra		k a ʈ a	katra			shimelman2017
+1242		i k a tʃ aː	1295	FREQUENTIVE	HuarazHuailas	ykachaa		i k a tʃ aː	ykachaa			parker1976
+1461		- k a ʈ a	1295	FREQUENTIVE	Lincha-Tana	katra		k a ʈ a	katra			shimelman2017
+1787		- k a ʈ a	1295	FREQUENTIVE	SanPedro	katra		k a ʈ a	katra			shimelman2017
+1985		i k a tʃ a	1295	FREQUENTIVE	Tarma	ykacha		i k a tʃ a	ykacha			adelaar1977
+2092		tʂ aː	1295	FREQUENTIVE	Pacaraos	traa		tʂ aː				adelaar1987
+2124		i k a tʃ a	1295	FREQUENTIVE	Huanca	ykatra		i k a tʃ a				cerron1976
+#
+63		p a -	1315	GENITIVE	Apuri	pa		p a	pa,pi			shimelman2017
+64		p i -	1315	GENITIVE	Apuri	pi		p i	pa,pi			shimelman2017
+181		p a -	1315	GENITIVE	Apurimac	pa		p a	pa			camacho2006
+278		p a -	1315	GENITIVE	Ayacucho	pa		p a	pa			parker1969
+354		p a -	1315	GENITIVE	Azuay	pa		p a	pa			cordero1955
+449		p a -	1315	GENITIVE	Cacra-Hongos	pa		p a	pa,pi			shimelman2017
+450		p i -	1315	GENITIVE	Cacra-Hongos	pi		p i	pa,pi			shimelman2017
+540		p a -	1315	GENITIVE	Cajamarca	pa		p a	pa			quesada2006
+600		p a -	1315	GENITIVE	Chachapoyas	pa		p a	pa			taylor1979
+662		p a k	1315	GENITIVE	Chimborazo	pak		p a k	pak			beukema1975
+741		q	1315	GENITIVE	Cuzco	q		q	q; pa		phon. variation of pa	cusihuaman1976
+742		p a -	1315	GENITIVE	Cuzco	pa		p a	q; pa			cusihuaman1976
+837		p a -	1315	GENITIVE	Ferrenafe	pa		p a	pa			taylor1982
+938		p a -	1315	GENITIVE	Huallaga	pa		p a	pa			weber1996
+1038		p a -	1315	GENITIVE	Huanca	pa		p a	pa			cerron1976
+1144		p a -	1315	GENITIVE	Huangascar	pa		p a	pa,pi			shimelman2017
+1145		p i -	1315	GENITIVE	Huangascar	pi		p i	pa,pi			shimelman2017
+1241		p a -	1315	GENITIVE	HuarazHuailas	pa		p a	pa			parker1976
+1312		p a -	1315	GENITIVE	Inga	pa		p a	pa			tandioy1978
+1379		p i -	1315	GENITIVE	Laraos	pi		p i	pi			taylor1990
+1462		p a -	1315	GENITIVE	Lincha-Tana	pa		p a	pa,pi			shimelman2017
+1463		p i -	1315	GENITIVE	Lincha-Tana	pi		p i	pa,pi			shimelman2017
+1630		p a -	1315	GENITIVE	Pastaza	pa		p a	pa			landerman1973
+1697		p a -	1315	GENITIVE	SanMartin	pa		p a	pa			coombs1976
+1788		p a -	1315	GENITIVE	SanPedro	pa		p a	pa,pi			shimelman2017
+1789		p i -	1315	GENITIVE	SanPedro	pi		p i	pa,pi			shimelman2017
+1900		p - -	1315	GENITIVE	Santiagueno	p		p	p,pa			juanatey2020
+1901		p a -	1315	GENITIVE	Santiagueno	pa		p a	p,pa			juanatey2020
+1984		p a -	1315	GENITIVE	Tarma	pa		p a	pa			adelaar1977
+2080		p a	1315	GENITIVE	Pacaraos	pa		p a				adelaar1987
+#
+65		i - -	1362	IMPERATIVE	Apuri	y		i	y			shimelman2017
+279		i - -	1362	IMPERATIVE	Ayacucho	y		i	y			parker1969
+355		i - -	1362	IMPERATIVE	Azuay	y		i	y, ychi			cordero1955
+451		i - -	1362	IMPERATIVE	Cacra-Hongos	y		i	y			shimelman2017
+542		i - -	1362	IMPERATIVE	Cajamarca	y		i	y			quesada2006
+601		i - -	1362	IMPERATIVE	Chachapoyas	y		i	y			taylor1979
+664		i - -	1362	IMPERATIVE	Chimborazo	y		i	y			beukema1975
+744		i - -	1362	IMPERATIVE	Cuzco	y		i	y			cusihuaman1976
+838		i	1362	IMPERATIVE	Ferrenafe	y		i	y			taylor1982
+942		i	1362	IMPERATIVE	Huallaga	y		i	y			weber1996
+1040		i	1362	IMPERATIVE	Huanca	y		i	y			cerron1976
+1146		i - -	1362	IMPERATIVE	Huangascar	y		i	y			shimelman2017
+1313		i - -	1362	IMPERATIVE	Inga	y		i	y, ychi			tandioy1978
+1380		i	1362	IMPERATIVE	Laraos	y		i	y			taylor1990
+1464		i - -	1362	IMPERATIVE	Lincha-Tana	y		i	y			shimelman2017
+1558		i	1362	IMPERATIVE	Pacaraos	y		i	y			adelaar1987
+1631		i - -	1362	IMPERATIVE	Pastaza	y		i	y			landerman1973
+1698		i - -	1362	IMPERATIVE	SanMartin	y		i	y			coombs1976
+1790		i	1362	IMPERATIVE	SanPedro	y		i	y			shimelman2017
+1902		i - -	1362	IMPERATIVE	Santiagueno	y		i	y			juanatey2020
+1986		i - -	1362	IMPERATIVE	Tarma	y		i	y			adelaar1977
+2234		i	1362	IMPERATIVE	HuarazHuailas	y		i				parker1976
+2281		i	1362	IMPERATIVE	Apurimac	y		i	chun, chunku, y, ychis			camacho2006
+#
+66		ɾ i	1397	INCEPTIVE	Apuri	ri		ɾ i	ri			shimelman2017
+182		r i	1397	INCEPTIVE	Apurimac	ri		r i	ri			camacho2006
+280		ɾ i	1397	INCEPTIVE	Ayacucho	ri		ɾ i	ri			parker1969
+359		ɾ i	1397	INCEPTIVE	Azuay	ri		ɾ i	ri			cordero1955
+452		ɾ i	1397	INCEPTIVE	Cacra-Hongos	ri		ɾ i	ri			shimelman2017
+602		r i	1397	INCEPTIVE	Chachapoyas	ri		r i	ri			taylor1979
+746		ɾ i	1397	INCEPTIVE	Cuzco	ri		ɾ i	ri			cusihuaman1976
+943		ʐ i	1397	INCEPTIVE	Huallaga	ri		ʐ i	ri			weber1996
+1041		l i	1397	INCEPTIVE	Huanca	li		l i	li			cerron1976
+1147		ɾ i	1397	INCEPTIVE	Huangascar	ri		ɾ i	ri			shimelman2017
+1317		r i	1397	INCEPTIVE	Inga	ri		r i	ri			tandioy1978
+1465		ɾ i	1397	INCEPTIVE	Lincha-Tana	ri		ɾ i	ri			shimelman2017
+1560		ɾ i	1397	INCEPTIVE	Pacaraos	ri		ɾ i	ri			adelaar1987
+1561		ɾ i	1397	INCEPTIVE	Pacaraos	ri		ɾ i	ri			adelaar1987
+1700		r i	1397	INCEPTIVE	SanMartin	ri		r i	ri			coombs1976
+1791		ɾ i	1397	INCEPTIVE	SanPedro	ri		ɾ i	ri			shimelman2017
+1903		ɾ i	1397	INCEPTIVE	Santiagueno	ri		ɾ i	ri		Infrequent, periphrastic is prefered	juanatey2020
+1987		ɾ i	1397	INCEPTIVE	Tarma	ri		ɾ i	ri			adelaar1977
+2200		g r i	1397	INCEPTIVE	Imbabura	gri		g r i				cole1985
+2238		ɾ i	1397	INCEPTIVE	HuarazHuailas	ri		ɾ i				parker1976
+2306		r i	1397	INCEPTIVE	Chimborazo	ri		r i	ri			beukema1975
+#
+67		j a -	1419	INCHOATIVE	Apuri	ya		j a	ya			shimelman2017
+183		j a -	1419	INCHOATIVE	Apurimac	ya		j a	ya			camacho2006
+281		j a -	1419	INCHOATIVE	Ayacucho	ya		j a	ya			parker1969
+360		j a -	1419	INCHOATIVE	Azuay	ya		j a	ya			cordero1955
+453		j a -	1419	INCHOATIVE	Cacra-Hongos	ya		j a	ya			shimelman2017
+544		j a -	1419	INCHOATIVE	Cajamarca	ya		j a	ya			quesada2006
+603		j a -	1419	INCHOATIVE	Chachapoyas	ya		j a	ya			taylor1979
+666		j a -	1419	INCHOATIVE	Chimborazo	ya		j a	ya			beukema1975
+747		j a -	1419	INCHOATIVE	Cuzco	ya		j a	ya			cusihuaman1976
+944		j aː -	1419	INCHOATIVE	Huallaga	yaː		j aː	yaː,paː/taː			weber1996
+945		p aː	1421	INCHOATIVE	Huallaga	paː		p aː	yaː,paː/taː			weber1996
+946		t aː	1422	INCHOATIVE	Huallaga	taː		t aː	yaː,paː/taː			weber1996
+1042		j aː	1419	INCHOATIVE	Huanca	yaa		j aː	yaa			cerron1976
+1148		j a -	1419	INCHOATIVE	Huangascar	ya		j a	ya			shimelman2017
+1243		j aː -	1419	INCHOATIVE	HuarazHuailas	yaa		j aː	yaa			parker1976
+1318		j a -	1419	INCHOATIVE	Inga	ya		j a	ya			tandioy1978
+1466		j a -	1419	INCHOATIVE	Lincha-Tana	ya		j a	ya			shimelman2017
+1562		j aː	1419	INCHOATIVE	Pacaraos	yaa		j aː	yaa			adelaar1987
+1634		j a -	1419	INCHOATIVE	Pastaza	ya		j a	ya			landerman1973
+1701		j a -	1419	INCHOATIVE	SanMartin	ya		j a	ya			coombs1976
+1792		j a -	1419	INCHOATIVE	SanPedro	ya		j a	ya			shimelman2017
+1904		j a -	1419	INCHOATIVE	Santiagueno	ya		j a	ya			juanatey2020
+1988		j a -	1419	INCHOATIVE	Tarma	ya		j a	ya			adelaar1977
+2201		j a	1419	INCHOATIVE	Imbabura	ya		j a				cole1985
+#
+68		n - - t i n	1443	INCLUSIVE	Apuri	ntin		n t i n	ntin			shimelman2017
+184		n - - t i n	1443	INCLUSIVE	Apurimac	ntin		n t i n	ntin			camacho2006
+282		n - - t i n	1443	INCLUSIVE	Ayacucho	ntin		n t i n	ntin			parker1969
+454		n - - t i n	1443	INCLUSIVE	Cacra-Hongos	ntin		n t i n	ntin			shimelman2017
+520		n t i	1443	INCLUSIVE	Cajamarca	nti		n t i	nti			quesada2006
+604		n - - t i n	1443	INCLUSIVE	Chachapoyas	ntin		n t i n	ntin			taylor1979
+748		n - - t i -	1443	INCLUSIVE	Cuzco	nti		n t i	nti, sti			cusihuaman1976
+948		n - - t i n	1443	INCLUSIVE	Huallaga	ntin		n t i n	nintin,ntin			weber1996
+1043		n - - t i n	1443	INCLUSIVE	Huanca	ntin		n t i n	ntin			cerron1976
+1149		n - - t i n	1443	INCLUSIVE	Huangascar	ntin		n t i n	ntin			shimelman2017
+1244		n - - t i n	1443	INCLUSIVE	HuarazHuailas	ntin		n t i n	ntin, nintin			parker1976
+1382		n - - t i n	1443	INCLUSIVE	Laraos	ntin		n t i n	ntin			taylor1990
+1467		n - - t i n	1443	INCLUSIVE	Lincha-Tana	ntin		n t i n	ntin			shimelman2017
+1563		n - - t i -	1443	INCLUSIVE	Pacaraos	nti		n t i	nti			adelaar1987
+1702		n - - t i n	1443	INCLUSIVE	SanMartin	ntin		n t i n	ntin			coombs1976
+1793		n - - t i n	1443	INCLUSIVE	SanPedro	ntin		n t i n	ntin			shimelman2017
+2091		n t i	1443	INCLUSIVE	Pacaraos	nti		n t i				adelaar1987
+2137		n t i	1443	INCLUSIVE	Santiagueno	nti		n t i				alderetes2001
+#
+69		i	1362	INFINITIVE	Apuri	y		i	y			shimelman2017
+185		i	1362	INFINITIVE	Apurimac	y		i	y			camacho2006
+283		i	1362	INFINITIVE	Ayacucho	y		i	y			parker1969
+361		i	1362	INFINITIVE	Azuay	y		i	y			cordero1955
+455		i	1362	INFINITIVE	Cacra-Hongos	y		i	y			shimelman2017
+545		i	1362	INFINITIVE	Cajamarca	y		i	y			quesada2006
+605		i	1362	INFINITIVE	Chachapoyas	y		i	y			taylor1979
+667		i	1362	INFINITIVE	Chimborazo	y		i	y			beukema1975
+750		i	1362	INFINITIVE	Cuzco	y		i	y			cusihuaman1976
+839		i	1362	INFINITIVE	Ferrenafe	y		i	y			taylor1982
+949		i	1362	INFINITIVE	Huallaga	y		i	y			weber1996
+1044		i	1362	INFINITIVE	Huanca	y		i	y			cerron1976
+1150		i	1362	INFINITIVE	Huangascar	y		i	y			shimelman2017
+1246		i	1362	INFINITIVE	HuarazHuailas	y		i	y			parker1976
+1319		i	1362	INFINITIVE	Inga	y		i	y			tandioy1978
+1383		i	1362	INFINITIVE	Laraos	y		i	y			taylor1990
+1468		i	1362	INFINITIVE	Lincha-Tana	y		i	y			shimelman2017
+1635		n a	1711	INFINITIVE	Pastaza	na		n a	na		-y only for imperative	landerman1973
+1703		i	1362	INFINITIVE	SanMartin	y		i	y			coombs1976
+1794		i	1362	INFINITIVE	SanPedro	y		i	y			shimelman2017
+1905		i	1362	INFINITIVE	Santiagueno	y		i	y			juanatey2020
+1990		i	1362	INFINITIVE	Tarma	y		i	y			adelaar1977
+2086		i	1362	INFINITIVE	Pacaraos	y		i				adelaar1987
+2202		i	1362	INFINITIVE	Imbabura	y		i				cole1985
+#
+70		tʃ u n - -	1486	INJUNCTIVE	Apuri	chun		tʃ u n	chun			shimelman2017
+186		tʃ u n	1486	INJUNCTIVE	Apurimac	chun		tʃ u n	chunku, y, ychis			camacho2006
+362		tʃ u - - -	1486	INJUNCTIVE	Azuay	chu		tʃ u	chu			cordero1955
+456		tʃ u n - -	1486	INJUNCTIVE	Cacra-Hongos	chun		tʃ u n	chun			shimelman2017
+606		tʃ u n - -	1486	INJUNCTIVE	Chachapoyas	čun		tʃ u n	čun			taylor1979
+751		tʃ u - - -	1486	INJUNCTIVE	Cuzco	chu		tʃ u	chu			cusihuaman1976
+840		tʃ u n - -	1486	INJUNCTIVE	Ferrenafe	chun		tʃ u n	chun			taylor1982
+1045		tʃ u n - -	1486	INJUNCTIVE	Huanca	chun		tʃ u n	chun			cerron1976
+1151		tʃ u n - -	1486	INJUNCTIVE	Huangascar	chun		tʃ u n	chun			shimelman2017
+1320		tʃ u - - -	1486	INJUNCTIVE	Inga	chu		tʃ u	chu			tandioy1978
+1384		tʃ u n - -	1486	INJUNCTIVE	Laraos	chun		tʃ u n	chun			taylor1990
+1469		tʃ u n - -	1486	INJUNCTIVE	Lincha-Tana	chun		tʃ u n	chun			shimelman2017
+1564		s u n - -	1486	INJUNCTIVE	Pacaraos	sun		s u n	sun			adelaar1987
+1636		tʃ u n - -	1486	INJUNCTIVE	Pastaza	chun		tʃ u n	chun			landerman1973
+1704		tʃ u n - -	1486	INJUNCTIVE	SanMartin	chun		tʃ u n	chun		sapa for plural	coombs1976
+1795		tʃ u n - -	1486	INJUNCTIVE	SanPedro	chun		tʃ u n	chun			shimelman2017
+1906		tʃ u n - -	1486	INJUNCTIVE	Santiagueno	chun		tʃ u n	chun			juanatey2020
+1991		tʃ u n - -	1486	INJUNCTIVE	Tarma	chun		tʃ u n	chun			adelaar1977
+2041		tʃ u	1486	INJUNCTIVE	Ayacucho	chu		tʃ u				parker1969
+2104		tʃ u	1486	INJUNCTIVE	Cajamarca	chu		tʃ u				quesada2006
+2317		tʃ u	1486	INJUNCTIVE	Huallaga	chu		tʃ u	chu			weber1996
+2318		tʃ u	1486	INJUNCTIVE	Chimborazo	chu		tʃ u	chu			beukema1975
+#
+71		w a n	1507	INSTRUMENTAL-COMITATIVE	Apuri	wan		w a n	wan			shimelman2017
+189		w a n	1507	INSTRUMENTAL-COMITATIVE	Apurimac	wan		w a n	wan			camacho2006
+284		w a n	1507	INSTRUMENTAL-COMITATIVE	Ayacucho	wan		w a n	wan			parker1969
+363		w a	15	INSTRUMENTAL-COMITATIVE	Azuay	hua		w a	hua			cordero1955
+457		w a n	1507	INSTRUMENTAL-COMITATIVE	Cacra-Hongos	wan		w a n	wan			shimelman2017
+546		w a n	1507	INSTRUMENTAL-COMITATIVE	Cajamarca	wan		w a n	wan			quesada2006
+607		w a n	1507	INSTRUMENTAL-COMITATIVE	Chachapoyas	wan		w a n	wan			taylor1979
+668		w a n	1507	INSTRUMENTAL-COMITATIVE	Chimborazo	wan		w a n	wan			beukema1975
+669		w a n	1507	INSTRUMENTAL-COMITATIVE	Chimborazo	wan		w a n	wan			beukema1975
+752		w a n	1507	INSTRUMENTAL-COMITATIVE	Cuzco	wan		w a n	wan			cusihuaman1976
+841		w a n	1507	INSTRUMENTAL-COMITATIVE	Ferrenafe	wan		w a n	wan			taylor1982
+950		w a n	1507	INSTRUMENTAL-COMITATIVE	Huallaga	wan		w a n	wan			weber1996
+1046		w a n	1507	INSTRUMENTAL-COMITATIVE	Huanca	wan		w a n	wan			cerron1976
+1152		w a n	1507	INSTRUMENTAL-COMITATIVE	Huangascar	wan		w a n	wan			shimelman2017
+1247		w a n	1507	INSTRUMENTAL-COMITATIVE	HuarazHuailas	wan		w a n	wan			parker1976
+1321		w a -	15	INSTRUMENTAL-COMITATIVE	Inga	hua		w a	hua			tandioy1978
+1385		w a n	1507	INSTRUMENTAL-COMITATIVE	Laraos	wan		w a n	wan			taylor1990
+1470		w a n	1507	INSTRUMENTAL-COMITATIVE	Lincha-Tana	wan		w a n	wan			shimelman2017
+1565		w a n	1507	INSTRUMENTAL-COMITATIVE	Pacaraos	wan		w a n	wan			adelaar1987
+1566		w a n	1507	INSTRUMENTAL-COMITATIVE	Pacaraos	wan		w a n	wan			adelaar1987
+1637		w a -	15	INSTRUMENTAL-COMITATIVE	Pastaza	wa		w a	wa			landerman1973
+1705		w a n	1507	INSTRUMENTAL-COMITATIVE	SanMartin	wan		w a n	wan			coombs1976
+1796		w a n	1507	INSTRUMENTAL-COMITATIVE	SanPedro	wan		w a n	wan			shimelman2017
+1907		- a n	1507	INSTRUMENTAL-COMITATIVE	Santiagueno	an		a n	an			juanatey2020
+1992		w a n	1507	INSTRUMENTAL-COMITATIVE	Tarma	wan		w a n	wan			adelaar1977
+2203		w a n	1507	INSTRUMENTAL-COMITATIVE	Imbabura	wan		w a n				cole1985
+#
+332		t a - -	754	INTERROGATION	Azuay	ta		t a	ta			cordero1955
+524		t a - χ	754	INTERROGATION	Cajamarca	taq		t a χ	taq			quesada2006
+820		t a - q	754	INTERROGATION	Ferrenafe	taq		t a q	taq		tematizador de formas interrogativas	taylor1982
+896		t a - q	754	INTERROGATION	Huallaga	taq		t a q	taq,raq		Para preguntas Y/N y expresiones negativas. Al emplear /-taq/, el hablante da por sentado que el interlocutor sabe la respuesta. En cambio, con /-raq/, el hablante no presupone que el interlocutor sabe la respuesta a la pregunta.	weber1996
+897		ʐ a - q	754	INTERROGATION	Huallaga	raq		ʐ a q	taq,raq		Para preguntas Y/N y expresiones negativas. Al emplear /-taq/, el hablante da por sentado que el interlocutor sabe la respuesta. En cambio, con /-raq/, el hablante no presupone que el interlocutor sabe la respuesta a la pregunta.	weber1996
+1014		tʃ a	754	INTERROGATION	Huanca	chaa		tʃ a	chaa		chaa: categoric question	cerron1976
+1291		t a - -	754	INTERROGATION	Inga	ta		t a	ta			tandioy1978
+1679		t a - -	754	INTERROGATION	SanMartin	tá		t a	tá, rá		both ta/ra alternan with i; asking for new information, certain modality of questions	coombs1976
+1876		t a - χ	754	INTERROGATION	Santiagueno	taq		t a χ	taq			juanatey2020
+1964		t a - q	754	INTERROGATION	Tarma	taq		t a q	taq			adelaar1977
+2035		t a q	754	INTERROGATION	Apuri	taq		t a q				shimelman2017
+2038		t a q	754	INTERROGATION	Ayacucho	taq		t a q				parker1969
+2045		t a q	754	INTERROGATION	Cacra-Hongos	taq		t a q				shimelman2017
+2127		t a q	754	INTERROGATION	Huangascar	taq		t a q				shimelman2017
+2141		t a q	754	INTERROGATION	SanPedro	taq		t a q				shimelman2017
+2143		t a q	754	INTERROGATION	Lincha-Tana	taq		t a q				shimelman2017
+2181		t a q	754	INTERROGATION	Imbabura	taq		t a q				cole1985
+2247		t a q	754	INTERROGATION	HuarazHuailas	tan		t a q				parker1976
+#
+1047		t j a	1549	INTERRUPTED ACTION	Huanca	tya		t j a	tya		cognative with simulative tija?	cerron1976
+1568		t i j aː	1549	INTERRUPTED ACTION	Pacaraos	tyaa		t i j aː	tyaa		cognative with simulative tija?	adelaar1987
+1993		t j a	1549	INTERRUPTED ACTION	Tarma	tya		t j a	tya		cognative with simulative tija?	adelaar1977
+#
+75		p aː k u	1561	JOINT ACTION	Apuri	paːku		p aː k u	paku,paːku			shimelman2017
+463		p aː k u	1561	JOINT ACTION	Cacra-Hongos	paːku		p aː k u	paku,paːku			shimelman2017
+952		p a k u	1561	JOINT ACTION	Huallaga	paku		p a k u	paku		marcado como DIFFUSE; Modifica el significado de la raíz a la que se añade para indicar que la acción no se dirige hacia un objeto determinado, sino se dirige difusamente hacia muchos objetos. /-pakU/ cambia el foco desde la meta/objeto de una actividad a la actividad misma; por ejemplo: /aru-pakU-/ ‘trabajar por aquí y por allá, no para una persona determinada ni haciendo una tarea determinada’.	weber1996
+1050		p a k u	1561	JOINT ACTION	Huanca	paku		p a k u	paku		combined with middle voice -ku	cerron1976
+1156		p aː k u	1561	JOINT ACTION	Huangascar	paːku		p aː k u	paku,paːku			shimelman2017
+1474		p aː k u	1561	JOINT ACTION	Lincha-Tana	paːku		p aː k u	paku,paːku			shimelman2017
+1800		p aː k u	1561	JOINT ACTION	SanPedro	paːku		p aː k u	paku,paːku			shimelman2017
+1996		p aː k u	1561	JOINT ACTION	Tarma	paːku		p aː k u	paku,paːku			adelaar1977
+2204		n a x u	1976	JOINT ACTION	Imbabura	naju		n a x u			Cole discusses that it should be rather interpreted as JOINT ACTION instead of reciprocal, which is a semantically stable interpretation (p. 92)	cole1985
+#
+76		k a m a -	1578	LIMITATIVE	Apuri	kama		k a m a	kama			shimelman2017
+210		k a m a	1578	LIMITATIVE	Apurimac	kama		k a m a	lla, kama			camacho2006
+286		k a m a -	1578	LIMITATIVE	Ayacucho	kama		k a m a	kama			parker1969
+364		- - - k a m a	1578	LIMITATIVE	Azuay	cama		k a m a	cama			cordero1955
+464		k a m a -	1578	LIMITATIVE	Cacra-Hongos	kama		k a m a	kama			shimelman2017
+547		k a m a n	1578	LIMITATIVE	Cajamarca	kaman		k a m a n	kaman			quesada2006
+608		k a m a n	1578	LIMITATIVE	Chachapoyas	kaman		k a m a n	kaman			taylor1979
+670		k a m a -	1578	LIMITATIVE	Chimborazo	kama		k a m a	kama			beukema1975
+842		k a m a -	1578	LIMITATIVE	Ferrenafe	kama		k a m a	kama			taylor1982
+954		- - - k a m a	1578	LIMITATIVE	Huallaga	kama		k a m a	yaq, kama			weber1996
+1051		k a m a -	1578	LIMITATIVE	Huanca	kama		k a m a	kama			cerron1976
+1157		k a m a -	1578	LIMITATIVE	Huangascar	kama		k a m a	kama			shimelman2017
+1322		- - - k a m a	1578	LIMITATIVE	Inga	cama		k a m a	cama, pagcama			tandioy1978
+1386		k a m a -	1578	LIMITATIVE	Laraos	kama		k a m a	kama			taylor1990
+1475		k a m a -	1578	LIMITATIVE	Lincha-Tana	kama		k a m a	kama			shimelman2017
+1569		k a m a -	1578	LIMITATIVE	Pacaraos	kama		k a m a	kama			adelaar1987
+1570		k a m a -	1578	LIMITATIVE	Pacaraos	kama		k a m a	kama		El sufijo kuna puede apareer tras cualquier base nominal, salvo cuando esta cumple una función atributiva, sea en conexión directa con un sustantivo, sea acompañando el verbo ka. En estos casos, sin embargo, es posible utilizar el sufijo kama	adelaar1987
+1638		k a m a -	1578	LIMITATIVE	Pastaza	kama		k a m a	kama			landerman1973
+1706		k a m a n	1578	LIMITATIVE	SanMartin	kaman		k a m a n	kaman			coombs1976
+1801		k a m a -	1578	LIMITATIVE	SanPedro	kama		k a m a	kama			shimelman2017
+1909		k a m a -	1578	LIMITATIVE	Santiagueno	kama		k a m a	kama			juanatey2020
+1997		k a m a -	1578	LIMITATIVE	Tarma	kama		k a m a	kama			adelaar1977
+2205		k a m a n	1578	LIMITATIVE	Imbabura	kaman		k a m a n				cole1985
+2233		k a m a	1578	LIMITATIVE	HuarazHuailas	kama		k a m a				parker1976
+#
+77		p a	1603	LOCATIVE	Apuri	pa		p a	pa,pi			shimelman2017
+78		p i	1603	LOCATIVE	Apuri	pi		p i	pa,pi			shimelman2017
+190		p i	1603	LOCATIVE	Apurimac	pi		p i	pi			camacho2006
+287		p i	1603	LOCATIVE	Ayacucho	pi		p i	pi			parker1969
+365		p i	1603	LOCATIVE	Azuay	pi		p i	pi			cordero1955
+465		p a	1603	LOCATIVE	Cacra-Hongos	pa		p a	pa,pi			shimelman2017
+466		p i	1603	LOCATIVE	Cacra-Hongos	pi		p i	pa,pi			shimelman2017
+467		ʈ a w	1604	LOCATIVE	Cacra-Hongos	traw		ʈ a w	traw			shimelman2017
+548		p i	1603	LOCATIVE	Cajamarca	pi		p i	pi			quesada2006
+609		p i	1603	LOCATIVE	Chachapoyas	pi		p i	pi			taylor1979
+671		p i	1603	LOCATIVE	Chimborazo	pi		p i	pi			beukema1975
+755		p i	1603	LOCATIVE	Cuzco	pi		p i	pi			cusihuaman1976
+843		p i	1603	LOCATIVE	Ferrenafe	pi		p i	pi			taylor1982
+955		tʃ a w	1604	LOCATIVE	Huallaga	čaw		tʃ a w	čaw			weber1996
+1052		ʈʂ a w	1604	LOCATIVE	Huanca	traw		ʈʂ a w	traw			cerron1976
+1158		p a	1603	LOCATIVE	Huangascar	pa		p a	pa,pi			shimelman2017
+1159		p i	1603	LOCATIVE	Huangascar	pi		p i	pa,pi			shimelman2017
+1250		tʃ a w	1604	LOCATIVE	HuarazHuailas	chaw		tʃ a w	chaw			parker1976
+1324		p i	1603	LOCATIVE	Inga	pi		p i	pi, pagpi			tandioy1978
+1387		tʂ a w	1604	LOCATIVE	Laraos	ĉaw		tʂ a w	ĉaw			taylor1990
+1476		p a	1603	LOCATIVE	Lincha-Tana	pa		p a	pa,pi			shimelman2017
+1477		p i	1603	LOCATIVE	Lincha-Tana	pi		p i	pa,pi			shimelman2017
+1571		tʂ a w	1604	LOCATIVE	Pacaraos	traw		tʂ a w	traw			adelaar1987
+1639		p i	1603	LOCATIVE	Pastaza	pi		p i	pi			landerman1973
+1707		p i	1603	LOCATIVE	SanMartin	pi		p i	pi			coombs1976
+1802		p a	1603	LOCATIVE	SanPedro	pa		p a	pa,pi			shimelman2017
+1803		p i	1603	LOCATIVE	SanPedro	pi		p i	pa,pi			shimelman2017
+1910		p i	1603	LOCATIVE	Santiagueno	pi		p i	pi,p			juanatey2020
+1911		p -	1603	LOCATIVE	Santiagueno	p		p	pi,p			juanatey2020
+1998		tʃ u -	1604	LOCATIVE	Tarma	chu		tʃ u	chu			adelaar1977
+2206		p i	1603	LOCATIVE	Imbabura	pi		p i				cole1985
+#
+79		k u	1637	MIDDLE VOICE	Apuri	ku		k u	ku		U	shimelman2017
+191		k u	1637	MIDDLE VOICE	Apurimac	ku		k u	ku			camacho2006
+288		k u	1637	MIDDLE VOICE	Ayacucho	ku		k u	ku			parker1969
+468		k u	1637	MIDDLE VOICE	Cacra-Hongos	ku		k u	ku		U	shimelman2017
+549		k u	1637	MIDDLE VOICE	Cajamarca	ku		k u	ku		U	quesada2006
+610		k u	1637	MIDDLE VOICE	Chachapoyas	ku		k u	ku			taylor1979
+665		r i	1397	MIDDLE VOICE	Chimborazo	ri		r i	ri			beukema1975
+756		k u	1637	MIDDLE VOICE	Cuzco	ku		k u	ku			cusihuaman1976
+844		k u	1637	MIDDLE VOICE	Ferrenafe	ku		k u	ku		participa de la acción o saca provecho de las consecuencias. ? Benefactivo?	taylor1982
+956		k u	1637	MIDDLE VOICE	Huallaga	ku		k u	ku		Este sufijo es de uso muy común, posee un significado muy difuso, ‘en beneficio de uno mismo’, aproximadamente.	weber1996
+1053		k u	1637	MIDDLE VOICE	Huanca	ku		k u	ku			cerron1976
+1160		k u	1637	MIDDLE VOICE	Huangascar	ku		k u	ku		U	shimelman2017
+1251		k u	1637	MIDDLE VOICE	HuarazHuailas	ku		k u	ku		reflexivizador; U	parker1976
+1478		k u	1637	MIDDLE VOICE	Lincha-Tana	ku		k u	ku		U	shimelman2017
+1572		k u	1637	MIDDLE VOICE	Pacaraos	ku		k u	ku			adelaar1987
+1633		ɾ i	1397	MIDDLE VOICE	Pastaza	ri		ɾ i	ri		ñaccha-ri-ju-n ‘él se está peinando’	landerman1973
+1708		k u	1637	MIDDLE VOICE	SanMartin	ku		k u	ku			coombs1976
+1804		k u	1637	MIDDLE VOICE	SanPedro	ku		k u	ku		U	shimelman2017
+1912		k u	1637	MIDDLE VOICE	Santiagueno	ku		k u	ku			juanatey2020
+2000		k u	1637	MIDDLE VOICE	Tarma	ku		k u	ku			adelaar1977
+2071		k u	1637	MIDDLE VOICE	Laraos	ku		k u				taylor1990
+2207		r i	1397	MIDDLE VOICE	Imbabura	ri		r i				cole1985
+#
+80		s a p a	1656	MULTIPLE POSSESSIVE	Apuri	sapa		s a p a	sapa			shimelman2017
+192		s a p a	1656	MULTIPLE POSSESSIVE	Apurimac	sapa		s a p a	sapa			camacho2006
+289		s a p a	1656	MULTIPLE POSSESSIVE	Ayacucho	sapa		s a p a	sapa			parker1969
+469		s a p a	1656	MULTIPLE POSSESSIVE	Cacra-Hongos	sapa		s a p a	sapa			shimelman2017
+550		s a p a	1656	MULTIPLE POSSESSIVE	Cajamarca	sapa		s a p a	sapa			quesada2006
+611		s a p a	1656	MULTIPLE POSSESSIVE	Chachapoyas	sapa		s a p a	sapa			taylor1979
+672		s a p a	1656	MULTIPLE POSSESSIVE	Chimborazo	sapa		s a p a	sapa			beukema1975
+757		s a p a	1656	MULTIPLE POSSESSIVE	Cuzco	sapa		s a p a	sapa			cusihuaman1976
+957		s a p a	1656	MULTIPLE POSSESSIVE	Huallaga	sapa		s a p a	sapa			weber1996
+1054		s a p a	1656	MULTIPLE POSSESSIVE	Huanca	sapa		s a p a	sapa, taa			cerron1976
+1055		t aː	1657	MULTIPLE POSSESSIVE	Huanca	taa		t aː	sapa, taa		-taa only in very few regions	cerron1976
+1161		s a p a	1656	MULTIPLE POSSESSIVE	Huangascar	sapa		s a p a	sapa			shimelman2017
+1252		s a p a	1656	MULTIPLE POSSESSIVE	HuarazHuailas	sapa		s a p a	sapa			parker1976
+1479		s a p a	1656	MULTIPLE POSSESSIVE	Lincha-Tana	sapa		s a p a	sapa			shimelman2017
+1640		s a p a	1656	MULTIPLE POSSESSIVE	Pastaza	sapa		s a p a	sapa			landerman1973
+1709		s a p a	1656	MULTIPLE POSSESSIVE	SanMartin	sapa		s a p a	sapa			coombs1976
+1805		s a p a	1656	MULTIPLE POSSESSIVE	SanPedro	sapa		s a p a	sapa			shimelman2017
+1913		s a p a	1656	MULTIPLE POSSESSIVE	Santiagueno	sapa		s a p a	sapa			juanatey2020
+2001		s a p a	1656	MULTIPLE POSSESSIVE	Tarma	sapa		s a p a	sapa			adelaar1977
+2090		s a p a	1656	MULTIPLE POSSESSIVE	Pacaraos	sapa		s a p a				adelaar1987
+2208		s a p a	1656	MULTIPLE POSSESSIVE	Imbabura	sapa		s a p a				cole1985
+#
+82		tʃ u	1682	NEGATION	Apuri	chu		tʃ u	chu			shimelman2017
+193		tʃ u	1682	NEGATION	Apurimac	chu		tʃ u	chu			camacho2006
+290		tʃ u	1682	NEGATION	Ayacucho	ču		tʃ u	ču			parker1969
+366		tʃ u	1682	NEGATION	Azuay	chu		tʃ u	chu			cordero1955
+471		tʃ u	1682	NEGATION	Cacra-Hongos	chu		tʃ u	chu			shimelman2017
+551		tʃ u	1682	NEGATION	Cajamarca	chu		tʃ u	chu			quesada2006
+612		tʃ u	1682	NEGATION	Chachapoyas	ču		tʃ u	ču			taylor1979
+673		tʃ u	1682	NEGATION	Chimborazo	cu		tʃ u	cu			beukema1975
+758		tʃ u	1682	NEGATION	Cuzco	chu		tʃ u	chu			cusihuaman1976
+958		tʃ u	1682	NEGATION	Huallaga	ču		tʃ u	ču			weber1996
+1056		tʃ u	1682	NEGATION	Huanca	chu		tʃ u	chu			cerron1976
+1163		tʃ u	1682	NEGATION	Huangascar	chu		tʃ u	chu			shimelman2017
+1326		tʃ u	1682	NEGATION	Inga	chu		tʃ u	chu			tandioy1978
+1388		tʃ u	1682	NEGATION	Laraos	chu		tʃ u	chu			taylor1990
+1481		tʃ u	1682	NEGATION	Lincha-Tana	chu		tʃ u	chu			shimelman2017
+1641		tʃ u	1682	NEGATION	Pastaza	chu		tʃ u	chu			landerman1973
+1710		tʃ u	1682	NEGATION	SanMartin	chu		tʃ u	chu			coombs1976
+1807		tʃ u	1682	NEGATION	SanPedro	chu		tʃ u	chu			shimelman2017
+1914		tʃ u	1682	NEGATION	Santiagueno	chu		tʃ u	chu		infrequent, impolite	juanatey2020
+2002		tʃ u	1682	NEGATION	Tarma	chu		tʃ u	chu			adelaar1977
+2088		s u	1682	NEGATION	Pacaraos	su		s u				adelaar1987
+2209		tʃ u	1682	NEGATION	Imbabura	chu		tʃ u				cole1985
+2236		ts u	1682	NEGATION	HuarazHuailas	tsu		ts u				parker1976
+#
+83		n - a	1711	NOMINALIZER NA	Apuri	na		n a	na			shimelman2017
+194		n - a	1711	NOMINALIZER NA	Apurimac	na		n a	na			camacho2006
+291		n - a	1711	NOMINALIZER NA	Ayacucho	na		n a	na			parker1969
+472		n - a	1711	NOMINALIZER NA	Cacra-Hongos	na		n a	na			shimelman2017
+552		n - a	1711	NOMINALIZER NA	Cajamarca	na		n a	na			quesada2006
+613		n - a	1711	NOMINALIZER NA	Chachapoyas	na		n a	na			taylor1979
+674		n - a	1711	NOMINALIZER NA	Chimborazo	na		n a	na		Concretizador	beukema1975
+845		n - a	1711	NOMINALIZER NA	Ferrenafe	na		n a	na		Concretizador.	taylor1982
+961		n - a	1711	NOMINALIZER NA	Huallaga	na		n a	na		Concretizador, casi siempre precedido por -kU ‘REFlexivo	weber1996
+1057		n - a	1711	NOMINALIZER NA	Huanca	na		n a	na			cerron1976
+1164		n - a	1711	NOMINALIZER NA	Huangascar	na		n a	na			shimelman2017
+1254		n - a	1711	NOMINALIZER NA	HuarazHuailas	na		n a	na		participio potencial	parker1976
+1389		n - a	1711	NOMINALIZER NA	Laraos	na		n a	na		Concretizador	taylor1990
+1482		n - a	1711	NOMINALIZER NA	Lincha-Tana	na		n a	na			shimelman2017
+1575		n - a	1711	NOMINALIZER NA	Pacaraos	na		n a	na		Concretizador	adelaar1987
+1642		n - a	1711	NOMINALIZER NA	Pastaza	na		n a	na		Indica una acción posterior. También forma un sustantivo que se refiere a la acción del verbo en abstracto.	landerman1973
+1711		n - a	1711	NOMINALIZER NA	SanMartin	na		n a	na			coombs1976
+1808		n - a	1711	NOMINALIZER NA	SanPedro	na		n a	na			shimelman2017
+1915		n - a	1711	NOMINALIZER NA	Santiagueno	na		n a	na		nmlz posterior	juanatey2020
+2004		n - a	1711	NOMINALIZER NA	Tarma	na		n a	na			adelaar1977
+2210		n a	1711	NOMINALIZER NA	Imbabura	na		n a				cole1985
+2260		n a	1711	NOMINALIZER NA	Cuzco	na		n a				cusihuaman1976
+#
+367		n g a	36	NOMINALIZER NQA	Azuay	nga		n g a	nga		nominalizer nqa?	cordero1955
+1253		n q a	1706	NOMINALIZER NQA	HuarazHuailas	nqa		n q a	nqa			parker1976
+1327		n g a	36	NOMINALIZER NQA	Inga	nga		n g a	nga		nominalizer nqa?	tandioy1978
+1574		n q a	1706	NOMINALIZER NQA	Pacaraos	nqa		n q a	nqa		no concluido	adelaar1987
+2003		n q a	1706	NOMINALIZER NQA	Tarma	nqa		n q a	nqa			adelaar1977
+#
+86		k a -	1758	PASSIVE ACCIDENTAL	Apuri	ka		k a	ka			shimelman2017
+475		k a -	1758	PASSIVE ACCIDENTAL	Cacra-Hongos	ka		k a	ka			shimelman2017
+846		k a -	1758	PASSIVE ACCIDENTAL	Ferrenafe	ka		k a	ka			taylor1982
+962		k aː -	1758	PASSIVE ACCIDENTAL	Huallaga	kaː		k aː	kaː, raː			weber1996
+1167		k a -	1758	PASSIVE ACCIDENTAL	Huangascar	ka		k a	ka			shimelman2017
+1255		k aː -	1758	PASSIVE ACCIDENTAL	HuarazHuailas	kaa		k aː	kaa			parker1976
+1485		k a -	1758	PASSIVE ACCIDENTAL	Lincha-Tana	ka		k a	ka			shimelman2017
+1577		k aː	1758	PASSIVE ACCIDENTAL	Pacaraos	kaa		k aː	kaa			adelaar1987
+1811		k a -	1758	PASSIVE ACCIDENTAL	SanPedro	ka		k a	ka			shimelman2017
+2006		k a -	1758	PASSIVE ACCIDENTAL	Tarma	ka		k a	ka			adelaar1977
+2105		k a	1758	PASSIVE ACCIDENTAL	Cajamarca	ka		k a				quesada2006
+#
+87		ɾ q a	1770	PAST TENSE	Apuri	rqa		ɾ q a	rqa			shimelman2017
+195		r q a	1770	PAST TENSE	Apurimac	rqa		r q a	rqa			camacho2006
+292		ɾ χ a	1770	PAST TENSE	Ayacucho	rqa		ɾ χ a	rqa			parker1969
+368		ɾ q a	1770	PAST TENSE	Azuay	rqa		ɾ q a	rqa			cordero1955
+476		l q a	1770	PAST TENSE	Cacra-Hongos	lqa		l q a	lqa			shimelman2017
+554		ɾ χ a	1770	PAST TENSE	Cajamarca	rqa		ɾ χ a	rqa, ra			quesada2006
+555		ɾ - a	1770	PAST TENSE	Cajamarca	ra		ɾ a	rqa, ra			quesada2006
+614		r k a	1770	PAST TENSE	Chachapoyas	rka		r k a	rka			taylor1979
+675		r k a	1770	PAST TENSE	Chimborazo	rka		r k a	rka			beukema1975
+847		ɾ - a	1770	PAST TENSE	Ferrenafe	ra		ɾ a	ra		pasado pretérito	taylor1982
+964		ʐ a	1770	PAST TENSE	Huallaga	ra		ʐ a	ra			weber1996
+1058		l q a	1770	PAST TENSE	Huanca	lqa		l q a	lqa			cerron1976
+1168		ɾ q a	1770	PAST TENSE	Huangascar	rqa		ɾ q a	rqa			shimelman2017
+1256		ɾ q a	1770	PAST TENSE	HuarazHuailas	rqa		ɾ q a	rqa			parker1976
+1257		ɾ q u	1770	PAST TENSE	HuarazHuailas	rqu		ɾ q u	rqu			parker1976
+1328		r q a	1770	PAST TENSE	Inga	rqa		r q a	rqa			tandioy1978
+1390		ɾ q u	1770	PAST TENSE	Laraos	rqu		ɾ q u	rqu			taylor1990
+1486		ɾ q a	1770	PAST TENSE	Lincha-Tana	rqa		ɾ q a	rqa			shimelman2017
+1578		ɾ q a	1770	PAST TENSE	Pacaraos	rqa		ɾ q a	rqa			adelaar1987
+1579		ɾ q u	1770	PAST TENSE	Pacaraos	rqu		ɾ q u	rqu			adelaar1987
+1643		ɾ k a	1770	PAST TENSE	Pastaza	rka		ɾ k a	rka			landerman1973
+1712		r k a	1770	PAST TENSE	SanMartin	rka		r k a	rka			coombs1976
+1812		ɾ q a	1770	PAST TENSE	SanPedro	rqa		ɾ q a	rqa			shimelman2017
+1918		ɾ - a	1770	PAST TENSE	Santiagueno	ra		ɾ a	ra		only for first hand evidence	juanatey2020
+2007		ɾ - a	1770	PAST TENSE	Tarma	ra		ɾ a	ra			adelaar1977
+2009		ɾ u	1770	PAST TENSE	Tarma	ru		ɾ u	ru			adelaar1977
+2211		r k a	1770	PAST TENSE	Imbabura	rka		r k a				cole1985
+2254		r q a	1770	PAST TENSE	Cuzco	rqa		r q a			alternating with ra	cusihuaman1976
+#
+88		ʃ - a	1800	PERFECT	Apuri	sha		ʃ a	sha,sa			shimelman2017
+89		s - a	1800	PERFECT	Apuri	sa		s a	sha,sa			shimelman2017
+197		s q a	1800	PERFECT	Apurimac	sqa		s q a	sqa			camacho2006
+294		s χ a	1800	PERFECT	Ayacucho	sqa		s χ a	sqa			parker1969
+369		s q a	1800	PERFECT	Azuay	sca		s q a	sca			cordero1955
+477		ʃ - a	1800	PERFECT	Cacra-Hongos	sha		ʃ a	sha,sa			shimelman2017
+478		s - a	1800	PERFECT	Cacra-Hongos	sa		s a	sha,sa			shimelman2017
+556		s χ a	1800	PERFECT	Cajamarca	sqa		s χ a	sqa, a			quesada2006
+557		a	1800	PERFECT	Cajamarca	a		a	sqa, a			quesada2006
+615		ʃ k a	1800	PERFECT	Chachapoyas	ška		ʃ k a	ška			taylor1979
+676		ʃ k a	1800	PERFECT	Chimborazo	ška		ʃ k a	ška			beukema1975
+848		ç a	1800	PERFECT	Ferrenafe	sha		ç a	sha			taylor1982
+1169		ʃ - a	1800	PERFECT	Huangascar	sha		ʃ a	sha,sa			shimelman2017
+1170		s - a	1800	PERFECT	Huangascar	sa		s a	sha,sa			shimelman2017
+1258		ʃ - -	1800	PERFECT	HuarazHuailas	sh		ʃ	sh, shqa			parker1976
+1259		ʃ q a	1800	PERFECT	HuarazHuailas	shqa		ʃ q a	sh, shqa			parker1976
+1329		s k a	1800	PERFECT	Inga	sca		s k a	sca			tandioy1978
+1487		ʃ - a	1800	PERFECT	Lincha-Tana	sha		ʃ a	sha,sa			shimelman2017
+1488		s - a	1800	PERFECT	Lincha-Tana	sa		s a	sha,sa			shimelman2017
+1580		ç q a	1800	PERFECT	Pacaraos	shqa		ç q a	shqa, sh		PERFECTO? Reducido cuando hay verbo auxiliar	adelaar1987
+1644		ʃ k a	1800	PERFECT	Pastaza	shka		ʃ k a	shka			landerman1973
+1713		ʃ k a	1800	PERFECT	SanMartin	shka		ʃ k a	shka			coombs1976
+1813		ʃ - a	1800	PERFECT	SanPedro	sha		ʃ a	sha,sa			shimelman2017
+1814		s - a	1800	PERFECT	SanPedro	sa		s a	sha,sa			shimelman2017
+2062		s q a	1800	PERFECT	Laraos	sqa		s q a				taylor1990
+2136		s q a	1800	PERFECT	Santiagueno	sqa		s q a			nearly obsolescent	juanatey2020
+2212		ʃ k a	1800	PERFECT	Imbabura	shka		ʃ k a				cole1985
+2288		ʃ k a	1800	PERFECT	Huallaga	shka		ʃ k a	shka			weber1996
+#
+90		ʃ - a	1800	PERFECTIVIZER	Apuri	sha		ʃ a	sha,sa		nmlz	shimelman2017
+91		s - a	1800	PERFECTIVIZER	Apuri	sa		s a	sha,sa		nmlz	shimelman2017
+198		s q a	1800	PERFECTIVIZER	Apurimac	sqa		s q a	sqa			camacho2006
+295		s χ a	1800	PERFECTIVIZER	Ayacucho	sqa		s χ a	sqa			parker1969
+370		s q a	1800	PERFECTIVIZER	Azuay	sca		s q a	sca			cordero1955
+479		ʃ - a	1800	PERFECTIVIZER	Cacra-Hongos	sha		ʃ a	sha,sa		nmlz	shimelman2017
+480		s - a	1800	PERFECTIVIZER	Cacra-Hongos	sa		s a	sha,sa		nmlz	shimelman2017
+558		s χ a	1800	PERFECTIVIZER	Cajamarca	sqa		s χ a	sqa			quesada2006
+616		ʃ k a	1800	PERFECTIVIZER	Chachapoyas	ška		ʃ k a	ška			taylor1979
+677		ʃ k a	1800	PERFECTIVIZER	Chimborazo	ška		ʃ k a	ška			beukema1975
+763		s q a	1800	PERFECTIVIZER	Cuzco	sqa		s q a	sqa			cusihuaman1976
+965		ʃ - a	1800	PERFECTIVIZER	Huallaga	ša		ʃ a	ša		NMLZ	weber1996
+1059		ʃ - a	1800	PERFECTIVIZER	Huanca	sha		ʃ a	sha			cerron1976
+1171		ʃ - a	1800	PERFECTIVIZER	Huangascar	sha		ʃ a	sha,sa		nmlz	shimelman2017
+1172		s - a	1800	PERFECTIVIZER	Huangascar	sa		s a	sha,sa		nmlz	shimelman2017
+1260		ʃ q a	1800	PERFECTIVIZER	HuarazHuailas	shqa		ʃ q a	shqa			parker1976
+1330		s k a	1800	PERFECTIVIZER	Inga	sca		s k a	sca			tandioy1978
+1489		ʃ - a	1800	PERFECTIVIZER	Lincha-Tana	sha		ʃ a	sha,sa		nmlz	shimelman2017
+1490		s - a	1800	PERFECTIVIZER	Lincha-Tana	sa		s a	sha,sa		nmlz	shimelman2017
+1645		ʃ k a	1800	PERFECTIVIZER	Pastaza	shka		ʃ k a	shka		Se usa cuando la acción del verbo nominalizado es simultánea o anterior a la del verbo principal.	landerman1973
+1714		ʃ k a	1800	PERFECTIVIZER	SanMartin	shka		ʃ k a	shka			coombs1976
+1815		ʃ - a	1800	PERFECTIVIZER	SanPedro	sha		ʃ a	sha,sa		nmlz	shimelman2017
+1816		s - a	1800	PERFECTIVIZER	SanPedro	sa		s a	sha,sa		nmlz	shimelman2017
+1919		s q a	1800	PERFECTIVIZER	Santiagueno	sqa		s q a	sqa		nmlz anterior	juanatey2020
+2010		ʃ - a	1800	PERFECTIVIZER	Tarma	sha		ʃ a	sha			adelaar1977
+2053		s a	1800	PERFECTIVIZER	Ferrenafe	sa		s a				taylor1982
+2063		s q a	1800	PERFECTIVIZER	Laraos	sqa		s q a				taylor1990
+2213		ʃ k a	1800	PERFECTIVIZER	Imbabura	shka		ʃ k a				cole1985
+#
+92		k u n a	1855	PLURAL	Apuri	kuna		k u n a	kuna			shimelman2017
+200		k u n a	1855	PLURAL	Apurimac	kuna		k u n a	kuna			camacho2006
+296		k u n a	1855	PLURAL	Ayacucho	kuna		k u n a	kuna			parker1969
+371		k u n a	1855	PLURAL	Azuay	cuna		k u n a	cuna			cordero1955
+481		k u n a	1855	PLURAL	Cacra-Hongos	kuna		k u n a	kuna			shimelman2017
+559		k u n a	1855	PLURAL	Cajamarca	kuna		k u n a	kuna			quesada2006
+617		k u n a	1855	PLURAL	Chachapoyas	kuna		k u n a	kuna			taylor1979
+678		k u n a	1855	PLURAL	Chimborazo	kuna		k u n a	kuna			beukema1975
+849		k u n a	1855	PLURAL	Ferrenafe	kuna		k u n a	kuna			taylor1982
+966		k u n a	1855	PLURAL	Huallaga	kuna		k u n a	kuna			weber1996
+1060		k u n a	1855	PLURAL	Huanca	kuna		k u n a	kuna			cerron1976
+1173		k u n a	1855	PLURAL	Huangascar	kuna		k u n a	kuna			shimelman2017
+1261		k u n a	1855	PLURAL	HuarazHuailas	kuna		k u n a	kuna			parker1976
+1331		k u n a	1855	PLURAL	Inga	cuna		k u n a	cuna			tandioy1978
+1391		k u n a	1855	PLURAL	Laraos	kuna		k u n a	kuna			taylor1990
+1491		k u n a	1855	PLURAL	Lincha-Tana	kuna		k u n a	kuna			shimelman2017
+1582		k u n a	1855	PLURAL	Pacaraos	kuna		k u n a	kuna			adelaar1987
+1647		k u n a	1855	PLURAL	Pastaza	kuna		k u n a	kuna,guna			landerman1973
+1648		g u n a	1855	PLURAL	Pastaza	guna		g u n a	kuna,guna			landerman1973
+1715		k u n a	1855	PLURAL	SanMartin	kuna		k u n a	kuna			coombs1976
+1817		k u n a	1855	PLURAL	SanPedro	kuna		k u n a	kuna			shimelman2017
+1921		k u n a	1855	PLURAL	Santiagueno	kuna		k u n a	s,kuna			juanatey2020
+2011		k u n a	1855	PLURAL	Tarma	kuna		k u n a	kuna			adelaar1977
+2214		k u n a	1855	PLURAL	Imbabura	kuna		k u n a				cole1985
+2256		k u n a	1855	PLURAL	Cuzco	kuna		k u n a				cusihuaman1976
+#
+93		- - j o q	1887	POSSESSIVE	Apuri	yuq		j o q	yuq			shimelman2017
+201		- - j o q	1887	POSSESSIVE	Apurimac	yoq		j o q	yoq			camacho2006
+297		- - j u χ	1887	POSSESSIVE	Ayacucho	yuq		j u χ	yuq			parker1969
+374		- - j u g	1887	POSSESSIVE	Azuay	yug		j u g	yug			cordero1955
+482		- - j o q	1887	POSSESSIVE	Cacra-Hongos	yuq		j o q	yuq			shimelman2017
+560		- - j u χ	1887	POSSESSIVE	Cajamarca	yuq		j u χ	yuq			quesada2006
+618		- - j u k	1887	POSSESSIVE	Chachapoyas	yuk		j u k	yuk			taylor1979
+765		- - j o q	1887	POSSESSIVE	Cuzco	yoq		j o q	yoq			cusihuaman1976
+850		i x u n	1887	POSSESSIVE	Ferrenafe	yxun		i x u n	yxun		posesivo inpersonal. *-yuq, poseedor de o el qu eposee	taylor1982
+967		- - j o q	1887	POSSESSIVE	Huallaga	yoq		j o q	yoq,niyoq			weber1996
+1061		- - j u q	1887	POSSESSIVE	Huanca	yuq		j u q	yuq			cerron1976
+1174		- - j o q	1887	POSSESSIVE	Huangascar	yuq		j o q	yuq			shimelman2017
+1262		- - j o q	1887	POSSESSIVE	HuarazHuailas	yoq		j o q	yoq			parker1976
+1334		- - j u g	1887	POSSESSIVE	Inga	yug		j u g	yug			tandioy1978
+1492		- - j o q	1887	POSSESSIVE	Lincha-Tana	yuq		j o q	yuq			shimelman2017
+1583		- j - u q	1887	POSSESSIVE	Pacaraos	yuq		j u q	yuq, naq			adelaar1987
+1716		- - j u k	1887	POSSESSIVE	SanMartin	yuk		j u k	yuk		el que tiene...	coombs1976
+1818		- - j o q	1887	POSSESSIVE	SanPedro	yuq		j o q	yuq			shimelman2017
+1922		- - j o χ	1887	POSSESSIVE	Santiagueno	yoq		j o χ	yoq		Variation according to word ending	juanatey2020
+2012		- - j u q	1887	POSSESSIVE	Tarma	yuq		j u q	yuq			adelaar1977
+2068		j u q	1887	POSSESSIVE	Laraos	yuq		j u q				taylor1990
+2215		j u q	1887	POSSESSIVE	Imbabura	yuj		j u q				cole1985
+2308		j u k	1887	POSSESSIVE	Chimborazo	yuk		j u k	pak, yuk			beukema1975
+#
+969		i n a q	1913	PRIVATIVE	Huallaga	ynaq		i n a q	ynaq			weber1996
+1062		n a q	1913	PRIVATIVE	Huanca	nnaq		n a q	nnaq			cerron1976
+1263		n a q	1913	PRIVATIVE	HuarazHuailas	nnaq		n a q	nnaq			parker1976
+1392		n a q	1913	PRIVATIVE	Laraos	nnaq		n a q	nnaq			taylor1990
+1584		n a - - q	1913	PRIVATIVE	Pacaraos	naq		n a q	yuq, naq			adelaar1987
+2216		i ʎ a q	49	PRIVATIVE	Imbabura	illaj		i ʎ a q				cole1985
+#
+45		- - j - - a	16	PROGRESSIVE	Apuri	ya		j a	ya			shimelman2017
+173		tʃ - k - - a	1062	PROGRESSIVE	Apurimac	chka		tʃ k a	chka			camacho2006
+174		i k a + tʃ a	16	PROGRESSIVE	Apurimac	ykacha		i k a + tʃ a	ykacha			camacho2006
+268		tʃ - k - - a	1062	PROGRESSIVE	Ayacucho	čka		tʃ k a	čka			parker1969
+346		- - k - - u	17	PROGRESSIVE	Azuay	cu		k u	cu, nacu		nacu para plural	cordero1955
+347		n a k - - u	17	PROGRESSIVE	Azuay	nacu		n a k u	cu, nacu		nacu para plural	cordero1955
+431		- - j - - a	16	PROGRESSIVE	Cacra-Hongos	ya		j a	ya			shimelman2017
+532		- i j - - a	16	PROGRESSIVE	Cajamarca	iya		i j a	iya			quesada2006
+594		- i k - - a	16	PROGRESSIVE	Chachapoyas	yka		i k a	yka			taylor1979
+657		- - k - - u	17	PROGRESSIVE	Chimborazo	ku		k u	ku			beukema1975
+731		- - ʃ - - a	1062	PROGRESSIVE	Cuzco	sha		ʃ a	sha			cusihuaman1976
+833		- j - - - a	16	PROGRESSIVE	Ferrenafe	ya		j a	ya			taylor1982
+919		i - k - - aː	16	PROGRESSIVE	Huallaga	ykaː		i k aː	ykaː		Glosado como imperfectivo ya que aparece con una variedad más amplia de verbos que la que se esperaría de un progresivo o un continuativo.	weber1996
+1027		i k aː	16	PROGRESSIVE	Huanca	ykaa		i k aː	ykaa			cerron1976
+1126		- - j - - a	16	PROGRESSIVE	Huangascar	ya		j a	ya			shimelman2017
+1236		i - k - - aː	16	PROGRESSIVE	HuarazHuailas	ykaa		i k aː	ykaa			parker1976
+1304		- - k - - u	17	PROGRESSIVE	Inga	cu		k u	cu, nacu		nacu para plural	tandioy1978
+1305		n a k - - u	17	PROGRESSIVE	Inga	nacu		n a k u	cu, nacu		nacu para plural	tandioy1978
+1372		tʃ - k - - a	1062	PROGRESSIVE	Laraos	chka		tʃ k a	chka			taylor1990
+1444		- - j - - a	16	PROGRESSIVE	Lincha-Tana	ya		j a	ya			shimelman2017
+1555		i k aː	16	PROGRESSIVE	Pacaraos	ykaa		i k aː	ykaa			adelaar1987
+1626		- - x - - u	17	PROGRESSIVE	Pastaza	xu		x u	xu			landerman1973
+1689		i k a	16	PROGRESSIVE	SanMartin	yka		i k a	yka			coombs1976
+1770		- - j - - a	16	PROGRESSIVE	SanPedro	ya		j a	ya			shimelman2017
+1890		tʃ - k - - a	1062	PROGRESSIVE	Santiagueno	chka		tʃ k a	chka			juanatey2020
+1976		- - j - - a	16	PROGRESSIVE	Tarma	ya		j a	ya			adelaar1977
+2192		ʃ k a	1062	PROGRESSIVE	Imbabura	shka		ʃ k a				cole1985
+2193		j u	17	PROGRESSIVE	Imbabura	yu		j u				cole1985
+#
+95		k ai	1927	PROXIMAL DEMONSTRATIVE	Apuri	kay		k ai	kay			shimelman2017
+202		k ai	1927	PROXIMAL DEMONSTRATIVE	Apurimac	kay		k ai	kay			camacho2006
+484		k ai	1927	PROXIMAL DEMONSTRATIVE	Cacra-Hongos	kay		k ai	kay			shimelman2017
+680		k ai	1927	PROXIMAL DEMONSTRATIVE	Chimborazo	kay		k ai	kay			beukema1975
+971		k ai	1927	PROXIMAL DEMONSTRATIVE	Huallaga	kay		k ai	kay			weber1996
+1176		k ai	1927	PROXIMAL DEMONSTRATIVE	Huangascar	kay		k ai	kay			shimelman2017
+1494		k ai	1927	PROXIMAL DEMONSTRATIVE	Lincha-Tana	kay		k ai	kay			shimelman2017
+1820		k ai	1927	PROXIMAL DEMONSTRATIVE	SanPedro	kay		k ai	kay			shimelman2017
+1924		k a -	1927	PROXIMAL DEMONSTRATIVE	Santiagueno	ka		k a	ka,kay			juanatey2020
+1925		k ai	1927	PROXIMAL DEMONSTRATIVE	Santiagueno	kay		k ai	ka,kay			juanatey2020
+2042		k ai	1927	PROXIMAL DEMONSTRATIVE	Ayacucho	kay		k ai				parker1969
+2044		k ai	1927	PROXIMAL DEMONSTRATIVE	Azuay	kay		k ai				cordero1955
+2098		k ai	1927	PROXIMAL DEMONSTRATIVE	Pacaraos	kay		k ai				adelaar1987
+2106		k ai	1927	PROXIMAL DEMONSTRATIVE	Cajamarca	kay		k ai				quesada2006
+2125		k ai	1927	PROXIMAL DEMONSTRATIVE	Huanca	kay		k ai				cerron1976
+2128		k ai	1927	PROXIMAL DEMONSTRATIVE	Tarma	kay		k ai				adelaar1977
+2146		k ai	1927	PROXIMAL DEMONSTRATIVE	SanMartin	kay		k ai				coombs1976
+2191		k ai	1927	PROXIMAL DEMONSTRATIVE	Imbabura	kay		k ai				cole1985
+2273		k ai	1927	PROXIMAL DEMONSTRATIVE	Cuzco	kay		k ai				cusihuaman1976
+2297		k ai	1927	PROXIMAL DEMONSTRATIVE	Pastaza	kay		k ai	kay			landerman1973
+#
+97		ɾ ai k u	1948	REASON	Apuri	rayku		ɾ ai k u	rayku			shimelman2017
+203		ɾ ai k u	1948	REASON	Apurimac	rayku		ɾ ai k u	rayku			camacho2006
+298		ɾ ai k u	1948	REASON	Ayacucho	rayku		ɾ ai k u	rayku			parker1969
+486		ɾ ai k u	1948	REASON	Cacra-Hongos	rayku		ɾ ai k u	rayku			shimelman2017
+561		ɾ ai k u	1948	REASON	Cajamarca	rayku		ɾ ai k u	rayku			quesada2006
+619		ɾ ai k u	1948	REASON	Chachapoyas	rayku		ɾ ai k u	rayku			taylor1979
+767		ɾ ai k u	1948	REASON	Cuzco	rayku		ɾ ai k u	rayku			cusihuaman1976
+852		ɾ ai k u	1948	REASON	Ferrenafe	rayku		ɾ ai k u	rayku			taylor1982
+972		ʐ ai k u	1948	REASON	Huallaga	rayku		ʐ ai k u	rayku,raygu			weber1996
+973		ʐ ai g u	1948	REASON	Huallaga	raygu		ʐ ai g u	rayku,raygu			weber1996
+1063		l ai k u	1948	REASON	Huanca	layku		l ai k u	layku			cerron1976
+1178		ɾ ai k u	1948	REASON	Huangascar	rayku		ɾ ai k u	rayku			shimelman2017
+1264		ɾ ai k u	1948	REASON	HuarazHuailas	raykur		ɾ ai k u	raykur, tsi			parker1976
+1393		ɾ ai k u	1948	REASON	Laraos	rayku		ɾ ai k u	rayku			taylor1990
+1496		ɾ ai k u	1948	REASON	Lincha-Tana	rayku		ɾ ai k u	rayku			shimelman2017
+1585		ɾ ai k u	1948	REASON	Pacaraos	rayku		ɾ ai k u	rayku			adelaar1987
+1649		ɾ ai k u	1948	REASON	Pastaza	rayku		ɾ ai k u	rayku			landerman1973
+1717		ɾ ai k u	1948	REASON	SanMartin	rayku		ɾ ai k u	rayku			coombs1976
+1822		ɾ ai k u	1948	REASON	SanPedro	rayku		ɾ ai k u	rayku			shimelman2017
+1927		ɾ ai k u	1948	REASON	Santiagueno	rayku		ɾ ai k u	rayku			juanatey2020
+#
+98		n a k u	1976	RECIPROCAL	Apuri	naku		n a k u	naku,naka			shimelman2017
+99		n a k a	1976	RECIPROCAL	Apuri	naka		n a k a	naku,naka			shimelman2017
+205		n a k u	1976	RECIPROCAL	Apurimac	naku		n a k u	naku			camacho2006
+299		n a k u	1976	RECIPROCAL	Ayacucho	naku		n a k u	naku			parker1969
+487		n a k u	1976	RECIPROCAL	Cacra-Hongos	naku		n a k u	naku,naka			shimelman2017
+488		n a k a	1976	RECIPROCAL	Cacra-Hongos	naka		n a k a	naku,naka			shimelman2017
+562		n a - -	1976	RECIPROCAL	Cajamarca	na		n a	na			quesada2006
+620		n a k u	1976	RECIPROCAL	Chachapoyas	naku		n a k u	naku			taylor1979
+682		n a k u	1976	RECIPROCAL	Chimborazo	naku		n a k u	naku			beukema1975
+768		n a - -	1976	RECIPROCAL	Cuzco	na		n a	na			cusihuaman1976
+853		n a k u	1976	RECIPROCAL	Ferrenafe	naku		n a k u	naku			taylor1982
+974		n a k u	1976	RECIPROCAL	Huallaga	naku		n a k u	naku			weber1996
+1064		n a - -	1976	RECIPROCAL	Huanca	na		n a	na			cerron1976
+1179		n a k u	1976	RECIPROCAL	Huangascar	naku		n a k u	naku,naka			shimelman2017
+1180		n a k a	1976	RECIPROCAL	Huangascar	naka		n a k a	naku,naka			shimelman2017
+1497		n a k u	1976	RECIPROCAL	Lincha-Tana	naku		n a k u	naku,naka			shimelman2017
+1498		n a k a	1976	RECIPROCAL	Lincha-Tana	naka		n a k a	naku,naka			shimelman2017
+1651		n a k u	1976	RECIPROCAL	Pastaza	naku		n a k u	naku			landerman1973
+1718		n a k u	1976	RECIPROCAL	SanMartin	naku		n a k u	naku			coombs1976
+1823		n a k u	1976	RECIPROCAL	SanPedro	naku		n a k u	naku,naka			shimelman2017
+1824		n a k a	1976	RECIPROCAL	SanPedro	naka		n a k a	naku,naka			shimelman2017
+1928		n a x u	1976	RECIPROCAL	Santiagueno	naku		n a x u	naku			juanatey2020
+2013		n a k u	1976	RECIPROCAL	Tarma	naku		n a k u	naku			adelaar1977
+2064		n a k u	1976	RECIPROCAL	Laraos	naku		n a k u				taylor1990
+2085		n a k u	1976	RECIPROCAL	Pacaraos	naku		n a k u				adelaar1987
+2219		r i	33	RECIPROCAL	Imbabura	ri		r i			also reflexive	cole1985
+2232		n a	1976	RECIPROCAL	HuarazHuailas	na		n a				parker1976
+#
+100		p a - -	2008	REPETITIVE	Apuri	pa		p a	pa			shimelman2017
+206		p a - -	2008	REPETITIVE	Apurimac	pa		p a	pa, paya			camacho2006
+207		p a j a	7	REPETITIVE	Apurimac	paya		p a j a	pa, paya			camacho2006
+300		p a - -	2008	REPETITIVE	Ayacucho	pa		p a	pa			parker1969
+489		p a - -	2008	REPETITIVE	Cacra-Hongos	pa		p a	pa			shimelman2017
+543		ɾ i	1397	REPETITIVE	Cajamarca	ri		ɾ i	ri			quesada2006
+739		p a j a -	7	REPETITIVE	Cuzco	paya		p a j a	paya			cusihuaman1976
+771		p a - -	2008	REPETITIVE	Cuzco	pa		p a	pa			cusihuaman1976
+1078		p aː	2008	REPETITIVE	Huanca	paa		p aː	paa			cerron1976
+1181		p a - -	2008	REPETITIVE	Huangascar	pa		p a	pa			shimelman2017
+1499		p a - -	2008	REPETITIVE	Lincha-Tana	pa		p a	pa			shimelman2017
+1594		p aː	2008	REPETITIVE	Pacaraos	paa		p aː	paa		intensivo… indica perseverancio en la acción referida	adelaar1987
+1629		p a j a -	7	REPETITIVE	Pastaza	paya		p a j a	paya			landerman1973
+1696		p a j a -	7	REPETITIVE	SanMartin	paya		p a j a	paya			coombs1976
+1825		p a - -	2008	REPETITIVE	SanPedro	pa		p a	pa			shimelman2017
+1899		- - j a -	7	REPETITIVE	Santiagueno	ya		j a	ya		infrequent, maybe loan from Spanish	juanatey2020
+2040		p a j a	7	REPETITIVE	Ayacucho	paya		p a j a				parker1969
+2077		p a	2008	REPETITIVE	Laraos	pa		p a				taylor1990
+2107		p a	2008	REPETITIVE	Cajamarca	pa		p a				quesada2006
+2135		p a	2008	REPETITIVE	Santiagueno	pa		p a				alderetes2001
+2199		p a j a	7	REPETITIVE	Imbabura	paya		p a j a				cole1985
+2242		p aː	2008	REPETITIVE	HuarazHuailas	paa		p aː				parker1976
+#
+101		ʃ q a	2021	REPORTATIVE PAST TENSE	Apuri	shqa		ʃ q a	shqa			shimelman2017
+208		s q a	2021	REPORTATIVE PAST TENSE	Apurimac	sqa		s q a	sqa			camacho2006
+301		s χ a	2021	REPORTATIVE PAST TENSE	Ayacucho	sqa		s χ a	sqa			parker1969
+490		ʃ q a	2021	REPORTATIVE PAST TENSE	Cacra-Hongos	shqa		ʃ q a	shqa			shimelman2017
+772		s q a	2021	REPORTATIVE PAST TENSE	Cuzco	sqa		s q a	sqa			cusihuaman1976
+975		n a q	2022	REPORTATIVE PAST TENSE	Huallaga	naq		n a q	naq		-ñaq/-sqa	weber1996
+1066		ɲ a q	2022	REPORTATIVE PAST TENSE	Huanca	ñaq		ɲ a q	ñaq		a veces pierde la consonante	cerron1976
+1182		ʃ q a	2021	REPORTATIVE PAST TENSE	Huangascar	shqa		ʃ q a	shqa			shimelman2017
+1500		ʃ q a	2021	REPORTATIVE PAST TENSE	Lincha-Tana	shqa		ʃ q a	shqa			shimelman2017
+1587		ɲ a q	2022	REPORTATIVE PAST TENSE	Pacaraos	ñaq		ɲ a q	ñaq			adelaar1987
+1826		ʃ q a	2021	REPORTATIVE PAST TENSE	SanPedro	shqa		ʃ q a	shqa			shimelman2017
+1930		s - a	2021	REPORTATIVE PAST TENSE	Santiagueno	sa		s a	sa,sqa		-sa it's the most frequent, only used in periphrastic construction with auxiliar ka-; -sqa is reserved occasionally for 3SG and is not peiphrastic	juanatey2020
+1931		s q a	2021	REPORTATIVE PAST TENSE	Santiagueno	sqa		s q a	sa,sqa		-sa it's the most frequent, only used in periphrastic construction with auxiliar ka-; -sqa is reserved occasionally for 3SG and is not peiphrastic	juanatey2020
+2243		ʃ q a	2021	REPORTATIVE PAST TENSE	HuarazHuailas	shqa		ʃ q a			past perfect also	parker1976
+2300		ʃ k a	2021	REPORTATIVE PAST TENSE	Pastaza	shka		ʃ k a	shka			landerman1973
+2309		ʃ k a	2021	REPORTATIVE PAST TENSE	Chimborazo	ška		ʃ k a	ška			beukema1975
+#
+102		ʎ - a	2039	RESTRICTIVE	Apuri	lla		ʎ a	lla			shimelman2017
+209		ʎ - a	2039	RESTRICTIVE	Apurimac	lla		ʎ a	lla, kama			camacho2006
+302		ʎ - a	2039	RESTRICTIVE	Ayacucho	lla		ʎ a	lla		just a house	parker1969
+349		t a t a	1097	RESTRICTIVE	Azuay	tata		t a t a	llata, tata		esa misma noche, ese mismo rio	cordero1955
+379		ʎ - a	2039	RESTRICTIVE	Azuay	lla		ʎ a	lla			cordero1955
+491		ʎ - a	2039	RESTRICTIVE	Cacra-Hongos	lla		ʎ a	lla			shimelman2017
+563		ʎ - a	2039	RESTRICTIVE	Cajamarca	lla		ʎ a	lla		solamente,  nomás	quesada2006
+621		ʎ a	2039	RESTRICTIVE	Chachapoyas	lla		ʎ a	lla			taylor1979
+774		ʎ - a	2039	RESTRICTIVE	Cuzco	lla		ʎ a	lla			cusihuaman1976
+854		g a - -	2039	RESTRICTIVE	Ferrenafe	ga		g a	ga, la		*/Ĭa/ protoquechua. Depende del contexto para g o l	taylor1982
+855		l - a	2039	RESTRICTIVE	Ferrenafe	la		l a	ga, la		*/Ĭa/ protoquechua. Depende del contexto para g o l	taylor1982
+922		ʎ a - -	2039	RESTRICTIVE	Huallaga	ʎa		ʎ a	ʎa			weber1996
+1030		ʎ aː	2039	RESTRICTIVE	Huanca	llaa		ʎ aː	llaa			cerron1976
+1183		ʎ - a	2039	RESTRICTIVE	Huangascar	lla		ʎ a	lla			shimelman2017
+1267		ʎ - a	2039	RESTRICTIVE	HuarazHuailas	lla		ʎ a	lla		limitativo	parker1976
+1307		t a t a	1097	RESTRICTIVE	Inga	tata		t a t a	llata, tata		esa misma noche, ese mismo rio	tandioy1978
+1339		ʎ - a	2039	RESTRICTIVE	Inga	lla		ʎ a	lla			tandioy1978
+1501		ʎ - a	2039	RESTRICTIVE	Lincha-Tana	lla		ʎ a	lla			shimelman2017
+1588		l - a	2039	RESTRICTIVE	Pacaraos	la		l a	la		indica restricción o disminuye la importancia del acto referido por el verbo al cual se añade	adelaar1987
+1719		ʎ a	2039	RESTRICTIVE	SanMartin	lla		ʎ a	lla		no más, solamente	coombs1976
+1827		ʎ - a	2039	RESTRICTIVE	SanPedro	lla		ʎ a	lla			shimelman2017
+1932		ʎ a	2039	RESTRICTIVE	Santiagueno	lla		ʎ a	lla			juanatey2020
+2014		l - a	2039	RESTRICTIVE	Tarma	la		l a	la			adelaar1977
+2220		ʎ a	2039	RESTRICTIVE	Imbabura	lla		ʎ a				cole1985
+2304		ʒ a	2039	RESTRICTIVE	Chimborazo	ža		ʒ a	ža			beukema1975
+#
+103		t a q	2063	SEQUENTIAL	Apuri	taq		t a q	taq			shimelman2017
+211		t a q	2063	SEQUENTIAL	Apurimac	taq		t a q	taq			camacho2006
+303		t a χ	2063	SEQUENTIAL	Ayacucho	taq		t a χ	taq			parker1969
+492		t a q	2063	SEQUENTIAL	Cacra-Hongos	taq		t a q	taq			shimelman2017
+564		t a χ	2063	SEQUENTIAL	Cajamarca	taq		t a χ	taq			quesada2006
+777		t a q	2063	SEQUENTIAL	Cuzco	taq		t a q	taq			cusihuaman1976
+1068		t a q	2063	SEQUENTIAL	Huanca	taq		t a q	taq			cerron1976
+1184		t a q	2063	SEQUENTIAL	Huangascar	taq		t a q	taq			shimelman2017
+1394		t a q	2063	SEQUENTIAL	Laraos	taq		t a q	taq			taylor1990
+1502		t a q	2063	SEQUENTIAL	Lincha-Tana	taq		t a q	taq			shimelman2017
+1828		t a q	2063	SEQUENTIAL	SanPedro	taq		t a q	taq			shimelman2017
+2015		t a q	2063	SEQUENTIAL	Tarma	taq		t a q	taq			adelaar1977
+2310		t a k	2063	SEQUENTIAL	Chimborazo	tak		t a k	tak			beukema1975
+#
+105		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Apuri	shtin		ʃ t i n	shtin			shimelman2017
+199		s t i n	2097	SUBORDINATOR ADVERBIAL	Apurimac	stin		s t i n	stin			camacho2006
+305		s t i -	2097	SUBORDINATOR ADVERBIAL	Ayacucho	sti		s t i	sti			parker1969
+494		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Cacra-Hongos	shtin		ʃ t i n	shtin			shimelman2017
+566		ʃ t i -	2097	SUBORDINATOR ADVERBIAL	Cajamarca	shti		ʃ t i	shti		“acción que es columinación de otra”	quesada2006
+623		ʃ n i n	2097	SUBORDINATOR ADVERBIAL	Chachapoyas	šnin		ʃ n i n	špa, šnin, štin			taylor1979
+624		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Chachapoyas	štin		ʃ t i n	špa, šnin, štin			taylor1979
+1070		ʃ t i -	2097	SUBORDINATOR ADVERBIAL	Huanca	shti		ʃ t i	shti			cerron1976
+1186		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Huangascar	shtin		ʃ t i n	shtin			shimelman2017
+1395		s t i n	2097	SUBORDINATOR ADVERBIAL	Laraos	stin		s t i n	stin			taylor1990
+1504		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Lincha-Tana	shtin		ʃ t i n	shtin			shimelman2017
+1830		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	SanPedro	shtin		ʃ t i n	shtin			shimelman2017
+1933		s - - -	2097	SUBORDINATOR ADVERBIAL	Santiagueno	s		s	s			juanatey2020
+2020		ʃ t i n	2097	SUBORDINATOR ADVERBIAL	Tarma	shtin		ʃ t i n	shtin			adelaar1977
+2269		s t i	2097	SUBORDINATOR ADVERBIAL	Cuzco	sti		s t i				cusihuaman1976
+2285		s t i n	2097	SUBORDINATOR ADVERBIAL	Apurimac	stin		s t i n	stin			camacho2006
+#
+107		p t i -	2144	SUBORDINATOR DIFFSUB	Apuri	pti		p t i	pti			shimelman2017
+214		p t i -	2144	SUBORDINATOR DIFFSUB	Apurimac	pti		p t i	pti			camacho2006
+307		p t i -	2144	SUBORDINATOR DIFFSUB	Ayacucho	pti		p t i	pti			parker1969
+383		g p i	26	SUBORDINATOR DIFFSUB	Azuay	gpi		g p i	gpi			cordero1955
+496		p t i -	2144	SUBORDINATOR DIFFSUB	Cacra-Hongos	pti		p t i	pti			shimelman2017
+568		p t i -	2144	SUBORDINATOR DIFFSUB	Cajamarca	pti		p t i	pti			quesada2006
+625		p t i -	2144	SUBORDINATOR DIFFSUB	Chachapoyas	pti		p t i	pti			taylor1979
+686		k p i	26	SUBORDINATOR DIFFSUB	Chimborazo	kpi		k p i	kpi, cun			beukema1975
+857		- t i -	2144	SUBORDINATOR DIFFSUB	Ferrenafe	ti		t i	ti			taylor1982
+980		p t i -	2144	SUBORDINATOR DIFFSUB	Huallaga	pti		p t i	pti, ša			weber1996
+1072		p t i -	2144	SUBORDINATOR DIFFSUB	Huanca	pti		p t i	pti			cerron1976
+1188		p t i -	2144	SUBORDINATOR DIFFSUB	Huangascar	pti		p t i	pti			shimelman2017
+1269		p t i -	2144	SUBORDINATOR DIFFSUB	HuarazHuailas	pti		p t i	pti			parker1976
+1343		x p i	26	SUBORDINATOR DIFFSUB	Inga	gpi		x p i	gpi			tandioy1978
+1397		p t i -	2144	SUBORDINATOR DIFFSUB	Laraos	pti		p t i	pti			taylor1990
+1506		p t i -	2144	SUBORDINATOR DIFFSUB	Lincha-Tana	pti		p t i	pti			shimelman2017
+1591		p t i -	2144	SUBORDINATOR DIFFSUB	Pacaraos	pti		p t i	pti			adelaar1987
+1721		p t i -	2144	SUBORDINATOR DIFFSUB	SanMartin	pti		p t i	pti, kti			coombs1976
+1722		k t i -	2144	SUBORDINATOR DIFFSUB	SanMartin	kti		k t i	pti, kti			coombs1976
+1832		p t i -	2144	SUBORDINATOR DIFFSUB	SanPedro	pti		p t i	pti			shimelman2017
+1935		p t i -	2144	SUBORDINATOR DIFFSUB	Santiagueno	pti		p t i	pti			juanatey2020
+2022		p t i -	2144	SUBORDINATOR DIFFSUB	Tarma	pti		p t i	pti			adelaar1977
+2223		q p i	26	SUBORDINATOR DIFFSUB	Imbabura	jpi		q p i				cole1985
+2257		q t i	2144	SUBORDINATOR DIFFSUB	Cuzco	qti		q t i				cusihuaman1976
+#
+106		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Apuri	shpa		ʃ p a	shpa			shimelman2017
+213		s p a - - -	2113	SUBORDINATOR IDSUB	Apurimac	spa		s p a	spa			camacho2006
+306		s p a - - -	2113	SUBORDINATOR IDSUB	Ayacucho	spa		s p a	spa			parker1969
+381		s p a - - -	2113	SUBORDINATOR IDSUB	Azuay	spa		s p a	spa			cordero1955
+495		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Cacra-Hongos	shpa		ʃ p a	shpa			shimelman2017
+567		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Cajamarca	shpa		ʃ p a	shpa			quesada2006
+622		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Chachapoyas	špa		ʃ p a	špa, šnin, štin		no distinguishing wrt adverbial subord	taylor1979
+684		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Chimborazo	špa		ʃ p a	špa, ngapak		/-ngapak/ ‘Consequential – equivalent subject’	beukema1975
+856		ɾ	2114	SUBORDINATOR IDSUB	Ferrenafe	r		ɾ	r			taylor1982
+977		- ʐ - - - -	2114	SUBORDINATOR IDSUB	Huallaga	r		ʐ	r , špa, ʎpa		/-špa/ requiere la presencia de un sufijo posesivo, mientras que /-r/ no permite un sufijo.	weber1996
+978		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Huallaga	špa		ʃ p a	r , špa, ʎpa		/-špa/ requiere la presencia de un sufijo posesivo, mientras que /-r/ no permite un sufijo.	weber1996
+979		ʎ p a - - -	2113	SUBORDINATOR IDSUB	Huallaga	ʎpa		ʎ p a	r , špa, ʎpa		/-špa/ requiere la presencia de un sufijo posesivo, mientras que /-r/ no permite un sufijo.	weber1996
+1071		l - - - - -	2114	SUBORDINATOR IDSUB	Huanca	l		l	l			cerron1976
+1187		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Huangascar	shpa		ʃ p a	shpa			shimelman2017
+1268		ɾ	2114	SUBORDINATOR IDSUB	HuarazHuailas	r		ɾ	r			parker1976
+1341		s p a - - -	2113	SUBORDINATOR IDSUB	Inga	spa		s p a	spa			tandioy1978
+1396		ɾ	2114	SUBORDINATOR IDSUB	Laraos	r		ɾ	r			taylor1990
+1505		ʃ p a - - -	2113	SUBORDINATOR IDSUB	Lincha-Tana	shpa		ʃ p a	shpa			shimelman2017
+1590		ç p a - - -	2113	SUBORDINATOR IDSUB	Pacaraos	shpa		ç p a	shpa		se reduce a sh a final de palabra	adelaar1987
+1653		ʃ p a	2113	SUBORDINATOR IDSUB	Pastaza	shpayki		ʃ p a	shpayki		CORREFERENCIALIDAD	landerman1973
+1720		ʃ p a - - -	2113	SUBORDINATOR IDSUB	SanMartin	shpa		ʃ p a	shpa		no distinguishing wrt adverbial subord	coombs1976
+1831		ʃ p a - - -	2113	SUBORDINATOR IDSUB	SanPedro	shpa		ʃ p a	shpa			shimelman2017
+1934		s p a - - -	2113	SUBORDINATOR IDSUB	Santiagueno	spa		s p a	spa			juanatey2020
+2021		ɾ	2114	SUBORDINATOR IDSUB	Tarma	r		ɾ	r			adelaar1977
+2222		ʃ p a	2113	SUBORDINATOR IDSUB	Imbabura	shpa		ʃ p a				cole1985
+2253		s p a	2113	SUBORDINATOR IDSUB	Cuzco	spa		s p a				cusihuaman1976
+#
+108		q a	2178	TOPIC	Apuri	qa		q a	qa			shimelman2017
+308		χ a	2178	TOPIC	Ayacucho	qa		χ a	qa			parker1969
+497		q a	2178	TOPIC	Cacra-Hongos	qa		q a	qa			shimelman2017
+569		χ a	2178	TOPIC	Cajamarca	qa		χ a	qa			quesada2006
+626		q a	2178	TOPIC	Chachapoyas	qa		q a	qa, ta			taylor1979
+627		t a	2179	TOPIC	Chachapoyas	ta		t a	qa, ta		ta: formas interrogatives, en Lamas más amplio también	taylor1979
+688		k a	2178	TOPIC	Chimborazo	ka		k a	ka			beukema1975
+779		q a	2178	TOPIC	Cuzco	qa		q a	qa			cusihuaman1976
+858		q a	2178	TOPIC	Ferrenafe	qa		q a	qa			taylor1982
+984		q a	2178	TOPIC	Huallaga	qa		q a	qa			weber1996
+985		q a	2178	TOPIC	Huallaga	qa		q a	qa			weber1996
+1075		q a	2178	TOPIC	Huanca	qa		q a	qa			cerron1976
+1189		q a	2178	TOPIC	Huangascar	qa		q a	qa			shimelman2017
+1398		q a	2178	TOPIC	Laraos	qa		q a	qa			taylor1990
+1507		q a	2178	TOPIC	Lincha-Tana	qa		q a	qa			shimelman2017
+1654		k a	2178	TOPIC	Pastaza	ka		k a	ka			landerman1973
+1723		q a	2178	TOPIC	SanMartin	qa		q a	qa			coombs1976
+1833		q a	2178	TOPIC	SanPedro	qa		q a	qa			shimelman2017
+1936		q a	2178	TOPIC	Santiagueno	qa		q a	qa			juanatey2020
+2023		q a	2178	TOPIC	Tarma	qa		q a	qa			adelaar1977
+2089		q a	2178	TOPIC	Pacaraos	qa		q a				adelaar1987
+2224		x a	2178	TOPIC	Imbabura	qa		x a				cole1985
+2237		q a	2178	TOPIC	HuarazHuailas	qa		q a				parker1976
+#
+111		ɾ a	11	UNINTERRUPTED ACTION	Apuri	ra		ɾ a	ra			shimelman2017
+167		r a j a	8	UNINTERRUPTED ACTION	Apurimac	raya		r a j a	raya			camacho2006
+263		ɾ a j a	8	UNINTERRUPTED ACTION	Ayacucho	raya		ɾ a j a	raya			parker1969
+309		ɾ a	11	UNINTERRUPTED ACTION	Ayacucho	ra		ɾ a	ra			parker1969
+336		ɾ a j a	8	UNINTERRUPTED ACTION	Azuay	raya		ɾ a j a	raya			cordero1955
+500		l a	11	UNINTERRUPTED ACTION	Cacra-Hongos	la		l a	la			shimelman2017
+629		r a	11	UNINTERRUPTED ACTION	Chachapoyas	ra		r a	ra			taylor1979
+689		r a	11	UNINTERRUPTED ACTION	Chimborazo	ra		r a	ra			beukema1975
+722		ɾ a j a	8	UNINTERRUPTED ACTION	Cuzco	raya		ɾ a j a	raya			cusihuaman1976
+906		ʐ - aː -	11	UNINTERRUPTED ACTION	Huallaga	raː		ʐ aː	raː,rpa			weber1996
+907		ʐ p a -	878	UNINTERRUPTED ACTION	Huallaga	rpa		ʐ p a	raː,rpa			weber1996
+1019		ɾ aː	11	UNINTERRUPTED ACTION	Huanca	raa		ɾ aː	raa			cerron1976
+1192		ɾ a	11	UNINTERRUPTED ACTION	Huangascar	ra		ɾ a	ra			shimelman2017
+1229		ɾ aː - -	11	UNINTERRUPTED ACTION	HuarazHuailas	raa		ɾ aː	raa			parker1976
+1294		r a j a	8	UNINTERRUPTED ACTION	Inga	raya		r a j a	raya			tandioy1978
+1399		ɾ a	11	UNINTERRUPTED ACTION	Laraos	ra		ɾ a	ra			taylor1990
+1510		ɾ a	11	UNINTERRUPTED ACTION	Lincha-Tana	ra		ɾ a	ra			shimelman2017
+1623		ɾ a j a	8	UNINTERRUPTED ACTION	Pastaza	raya		ɾ a j a	raya			landerman1973
+1655		ɾ a	11	UNINTERRUPTED ACTION	Pastaza	ra		ɾ a	ra			landerman1973
+1685		r a j a	8	UNINTERRUPTED ACTION	SanMartin	raya		r a j a	raya			coombs1976
+1724		r a	11	UNINTERRUPTED ACTION	SanMartin	ra		r a	ra			coombs1976
+1836		ɾ a	11	UNINTERRUPTED ACTION	SanPedro	ra		ɾ a	ra			shimelman2017
+2027		ɾ a	11	UNINTERRUPTED ACTION	Tarma	ra		ɾ a	ra			adelaar1977
+2108		r a	11	UNINTERRUPTED ACTION	Cajamarca	ra		r a				quesada2006
+2126		l aː	11	UNINTERRUPTED ACTION	Huanca	laa		l aː				cerron1976
+2161		r a	11	UNINTERRUPTED ACTION	Inga	ra		r a				tandioy1978
+2185		r i j a	8	UNINTERRUPTED ACTION	Imbabura	riya		r i j a				cole1985
+#
+109		p u	2201	VERBAL BENEFACTIVE	Apuri	pu		p u	pu,pa			shimelman2017
+110		p a	2201	VERBAL BENEFACTIVE	Apuri	pa		p a	pu,pa			shimelman2017
+216		p u	2201	VERBAL BENEFACTIVE	Apurimac	pu		p u	pu			camacho2006
+311		p u	2201	VERBAL BENEFACTIVE	Ayacucho	pu		p u	pu			parker1969
+331		p a	2201	VERBAL BENEFACTIVE	Azuay	pa		p a	pua			cordero1955
+385		p u	2201	VERBAL BENEFACTIVE	Azuay	pu		p u	pu			cordero1955
+498		p u	2201	VERBAL BENEFACTIVE	Cacra-Hongos	pu		p u	pu,pa			shimelman2017
+499		p a	2201	VERBAL BENEFACTIVE	Cacra-Hongos	pa		p a	pu,pa			shimelman2017
+570		p a	2201	VERBAL BENEFACTIVE	Cajamarca	pa		p a	pa			quesada2006
+628		p u	2201	VERBAL BENEFACTIVE	Chachapoyas	pu		p u	pu			taylor1979
+780		p u	2201	VERBAL BENEFACTIVE	Cuzco	pu		p u	pu			cusihuaman1976
+986		p u	2201	VERBAL BENEFACTIVE	Huallaga	pu		p u	pu			weber1996
+1077		p u	2201	VERBAL BENEFACTIVE	Huanca	pu		p u	pu			cerron1976
+1190		p u	2201	VERBAL BENEFACTIVE	Huangascar	pu		p u	pu,pa			shimelman2017
+1191		p a	2201	VERBAL BENEFACTIVE	Huangascar	pa		p a	pu,pa			shimelman2017
+1270		p u	2201	VERBAL BENEFACTIVE	HuarazHuailas	pu		p u	pu			parker1976
+1345		p u	2201	VERBAL BENEFACTIVE	Inga	pu		p u	pu			tandioy1978
+1508		p u	2201	VERBAL BENEFACTIVE	Lincha-Tana	pu		p u	pu,pa			shimelman2017
+1509		p a	2201	VERBAL BENEFACTIVE	Lincha-Tana	pa		p a	pu,pa			shimelman2017
+1592		p a	2201	VERBAL BENEFACTIVE	Pacaraos	pa		p a	pa		también marca el poseedor en una relación de posesión.	adelaar1987
+1593		p u	2201	VERBAL BENEFACTIVE	Pacaraos	pu		p u	pu			adelaar1987
+1656		p u	2201	VERBAL BENEFACTIVE	Pastaza	pu		p u	pu, pa		/-pa/ cuando el beneficiario es la 1ra persona.	landerman1973
+1657		p a	2201	VERBAL BENEFACTIVE	Pastaza	pa		p a	pu, pa		/-pa/ cuando el beneficiario es la 1ra persona.	landerman1973
+1834		p u	2201	VERBAL BENEFACTIVE	SanPedro	pu		p u	pu,pa			shimelman2017
+1835		p a	2201	VERBAL BENEFACTIVE	SanPedro	pa		p a	pu,pa			shimelman2017
+1937		p u	2201	VERBAL BENEFACTIVE	Santiagueno	pu		p u	pu			juanatey2020
+2025		p a	2201	VERBAL BENEFACTIVE	Tarma	pa		p a	pa, pu			adelaar1977
+2026		p u	2201	VERBAL BENEFACTIVE	Tarma	pu		p u	pa, pu			adelaar1977
+2073		p u	2201	VERBAL BENEFACTIVE	Laraos	pu		p u				taylor1990
+2144		p u	2201	VERBAL BENEFACTIVE	SanMartin	pu		p u				coombs1976
+2225		p a	2201	VERBAL BENEFACTIVE	Imbabura	pa		p a				cole1985
