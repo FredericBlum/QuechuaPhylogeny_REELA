@@ -15,4 +15,4 @@ For both datasets, version 1.0 has been used in the analysis.
 ## Citation
 
 Please cite the presentation as
-> Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. 2021. Una aproximación filolingüística a la clasificación interna del Quechua. Talk at the 5th reunion of the Red Europea para los Estudios Andinos, Tübingen, 12.09.2021.
+> Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. 2021. Una aproximación filolingüística a la clasificación interna del Quechua. Talk at the 5th reunion of the Red para el Estudio de las Lenguas Andinas (RELA), Tübingen, 12.09.2021.
